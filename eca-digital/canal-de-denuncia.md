@@ -1,0 +1,31 @@
+---
+title: "Canal de denúncia e retirada de conteúdo"
+nav_order: 6
+parent: "ECA Digital (Lei 15.211/2025)"
+permalink: /eca-digital/canal-de-denuncia/
+role: encarregado
+routes: ["#/reports", "/e2e-eca-test"]
+screenshots: [den-01, den-02]
+last_verified: 2026-06-25
+status: rascunho
+---
+
+# Canal de denúncia de conteúdo
+
+Se o seu site tem **conteúdo gerado por usuário** (comentários, fórum, mural, depoimentos abertos), o ECA Digital (arts. 28–30) pede um **canal de denúncia** acessível, além de procedimento de **retirada** e **contestação**.
+
+> Sites institucionais com **controle editorial** (sem conteúdo de usuário) tendem a ser **dispensados/modulados** desse dever. Use o [enquadramento](/eca-digital/enquadramento/) para saber se ele se aplica a você.
+
+## Canal público (shortcode)
+
+Coloque o shortcode `[v3rlgpd_denuncia]` numa página pública. Ele exibe um formulário que **exige identificação** do conteúdo e do denunciante (**denúncia anônima não é permitida**, art. 29 §2) e tem proteção anti-spam.
+<!-- screenshot: den-01 — formulário público de denúncia -->
+
+## Triagem no painel
+
+Em **Denúncias**, o encarregado vê as denúncias recebidas, abre cada uma e **muda o status** (Recebida → Em análise → Conteúdo removido / Improcedente), registrando a **justificativa**.
+<!-- screenshot: den-02 — triagem da denúncia + aviso do art. 30 -->
+
+Ao marcar **Conteúdo removido**, o sistema mostra um **lembrete do art. 30**: a OSC deve **notificar o autor** do conteúdo e abrir **prazo de recurso**.
+
+> ⚠️ A **retirada** do conteúdo acontece no seu site/CMS — o V3RLGPD **registra e orienta** a denúncia, não remove o conteúdo automaticamente. Não é parecer jurídico.
