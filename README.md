@@ -1,6 +1,6 @@
 # Manual externo — V3RLGPD
 
-Site Jekyll ([just-the-docs](https://just-the-docs.com/)) do **Manual do Usuário / Guia da LGPD** do V3RLGPD. Publicado em **https://docs-v3rlgpd.rit.org.br/** via GitHub Pages.
+Site Jekyll ([just-the-docs](https://just-the-docs.com/)) do **Manual do Usuário / Guia da LGPD** do V3RLGPD. Publicado em **https://docs.v3rlgpd.v3rtech.com.br/** via GitHub Pages.
 
 > Frente NOSSA (RIT/V3RTECH) — desacoplada do plugin. O plugin apenas **linka** para este endereço. Método em `dev-history/manual-externo-metodo.md`. Backlog: BL-025 (#10).
 

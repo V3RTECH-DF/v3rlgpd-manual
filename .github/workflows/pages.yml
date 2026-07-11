@@ -27,7 +27,7 @@ jobs:
           ruby-version: "3.3"
           bundler-cache: true
       - uses: actions/configure-pages@v5
-      # Domínio próprio (docs-v3rlgpd.rit.org.br via CNAME) → sem baseurl.
+      # Domínio próprio (docs.v3rlgpd.v3rtech.com.br via CNAME) → sem baseurl.
       - run: bundle exec jekyll build
         env:
           JEKYLL_ENV: production
