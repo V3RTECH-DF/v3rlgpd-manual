@@ -32,7 +32,7 @@ Ao criar uma política, escolha a **origem**:
 - **Interna** — você redige o texto no editor do plugin, com versionamento automático (o caminho tradicional).
 - **Externa** — você aponta um **link** para uma política que já existe fora do plugin (um PDF, uma página de wiki, um documento numa intranet). Útil para organizações que já têm a política publicada e não querem reescrevê-la.
 
-Para a política **externa**, você informa: a **URL** do documento, um **resumo/descrição**, uma **imagem ou ícone** (escolha um dos ícones prontos, envie uma imagem, ou deixe sem) e o **número da versão** (preenchido **manualmente**).
+Para a política **externa**, você informa: a **URL** do documento, um **resumo/descrição**, uma **imagem ou ícone** (escolha um dos ícones prontos, envie uma imagem, ou deixe sem) e o **número da versão** (preenchido **manualmente**). Se a política já é uma **página publicada no seu site**, use o seletor **"Ou escolha uma página publicada do site"** — ele preenche a URL automaticamente com o link da página escolhida.
 
 > ⚠️ **Versão da política externa é você quem atualiza**
 >

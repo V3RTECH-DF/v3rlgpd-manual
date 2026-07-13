@@ -82,3 +82,20 @@ Exige publicar as páginas públicas do plugin (Central de Privacidade com short
 - Selo dourado/medalha visível (índice de conformidade > limiar) para `01b`.
 - Pelo menos 1 DSAR aberto informativo p/ o botão "Responder automaticamente" (`04c`).
 - 1 política publicada como página p/ Central (`72-central`).
+
+## Lote de recaptura — mudanças v1.47.0 → v1.51.2 (2026-07-13)
+
+> Só as telas que **de fato** mudaram. Mesmos nomes de arquivo (sobrescrever). Captura via e2e-runner (login DEV autorizado) — a skill não autentica.
+
+**Prioridade (conteúdo desatualizado):**
+- `v3rlgpd-69-config-encarregado` — **Configurações → Encarregado SEM o campo "Prefixo de Versionamento"** (removido no #34). Print atual mostra o campo que não existe mais.
+- `v3rlgpd-03b-policy-externa` — editor de **política Externa** com o novo seletor **"Ou escolha uma página publicada do site"** abaixo do campo de URL (#27).
+
+**Valor médio (feature nova visível):**
+- `v3rlgpd-10-compliance-report` — Relatório de Conformidade com o botão **"Baixar PDF"** (#21/#29).
+- `v3rlgpd-dpo-03-relatorio` — Relatório de Ações do Encarregado com **"Baixar PDF"**.
+- (ROPA/RIPD) — telas de relatório do Inventário e do RIPD finalizado com **"Baixar PDF"** (nomes atuais dos prints de ROPA/RIPD).
+- *(Opcional)* incluir um print de um **PDF gerado** (cabeçalho com logo) como ilustração — novo asset, nomear `v3rlgpd-XX-relatorio-pdf`.
+
+**Baixo valor (polish; recapturar só se sobrar tempo):**
+- `v3rlgpd-dpo-02-form` e demais **modais** — botão "X" de fechar maior (#28). Diferença sutil; só recapturar oportunisticamente.

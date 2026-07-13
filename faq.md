@@ -52,7 +52,7 @@ Sim. O V3RLGPD trata políticas de forma genérica: crie quantas precisar (Priva
 
 ## Posso usar uma política que já tenho em PDF, sem reescrever?
 
-Sim. Ao criar a política, escolha a origem **Externa** e informe o **link** (PDF, página de wiki, intranet), um resumo e uma imagem/ícone. Ela aparece na Central como um card com o botão "Ler a política completa". Veja [Políticas › interna ou externa](/modulos/politicas/#politica-interna-ou-externa-link).
+Sim. Ao criar a política, escolha a origem **Externa** e informe o **link** (PDF, página de wiki, intranet) — ou, se a política já for uma **página publicada no seu site**, use o seletor **"Ou escolha uma página publicada do site"**, que preenche a URL sozinho —, além de um resumo e uma imagem/ícone. Ela aparece na Central como um card com o botão "Ler a política completa". Veja [Políticas › interna ou externa](/modulos/politicas/#politica-interna-ou-externa-link).
 
 ## Posso desativar uma política sem apagá-la?
 

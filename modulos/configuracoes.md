@@ -23,7 +23,7 @@ A tela **Configurações** reúne, em um só lugar, os ajustes gerais do V3RLGPD
 | Aba | Para que serve | Aprofunde em |
 |---|---|---|
 | **Organização** | Identidade do controlador (razão social, CNPJ, endereço, contato), logo e a **declaração de escopo de tratamento**. | (abaixo) |
-| **Encarregado** | Dados do Encarregado, prefixo de versão e modo de exclusão de políticas. | [Configurar o Encarregado](/guias/configurar-dpo/) |
+| **Encarregado** | Dados do Encarregado e modo de exclusão de políticas. | [Configurar o Encarregado](/guias/configurar-dpo/) |
 | **Banner de Cookies** | Ativar/desativar o banner e gerenciar os scripts por categoria. | [Consentimento & Cookies](/modulos/consentimento/) |
 | **Webhooks** | Enviar eventos (nova solicitação, alteração de política, incidente, consentimento) para automações externas. | (abaixo) |
 | **Retenção & Expurgo** | Regras globais de descarte/anonimização e a fila de retenção. | [Retenção & Expurgo](/modulos/retencao/) |
@@ -52,7 +52,7 @@ A pergunta **"A organização trata dados pessoais fora deste site?"** (Não / S
 [![Configurações — Encarregado, com aviso de distinção](/assets/screenshots/v3rlgpd-69-config-encarregado.png)](/assets/screenshots/v3rlgpd-69-config-encarregado.png)
 *Aba Encarregado: a designação formal (art. 41), com o aviso que a diferencia do papel de acesso de mesmo nome.*
 
-Aqui você cadastra o **Encarregado** — nome/setor, e-mail e telefone, que aparecem publicamente na Central. Também define o **prefixo de versionamento** das políticas (ex.: "v") e o **Modo de Exclusão de Políticas** (soft delete, que mantém logs, ou hard delete, que apaga em definitivo). A **logo** da organização fica na aba **Organização**.
+Aqui você cadastra o **Encarregado** — nome/setor, e-mail e telefone, que aparecem publicamente na Central. Também define o **Modo de Exclusão de Políticas** (soft delete, que mantém logs, ou hard delete, que apaga em definitivo). A **logo** da organização fica na aba **Organização**.
 
 > ⚠️ **Designação formal ≠ papel de acesso**
 >

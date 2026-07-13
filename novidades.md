@@ -10,7 +10,7 @@ O que mudou no V3RLGPD, em linguagem leve. Para o histórico técnico completo, 
 
 ## Versão 1.49 — Relatórios em PDF de verdade
 
-Todos os relatórios — **Conformidade**, **Inventário (ROPA)**, **Ações do Encarregado** e **RIPD** — ganharam um botão **Baixar PDF** que gera um **arquivo PDF pronto**, baixado com **um clique** e igual em qualquer navegador. Antes, "exportar" era escolher "Salvar como PDF" na caixa de impressão do navegador; agora o documento sai **formatado como relatório** (não como um print da tela), com **texto selecionável**, **cabeçalho e a logo da organização** e numeração de página.
+Todos os relatórios — **Conformidade**, **Inventário (ROPA)**, **Ações do Encarregado** e **RIPD** — ganharam um botão **Baixar PDF** que gera um **arquivo PDF pronto**, baixado com **um clique** e igual em qualquer navegador. Antes, "exportar" era escolher "Salvar como PDF" na caixa de impressão do navegador; agora o documento sai **formatado como relatório** (não como um print da tela), com **texto selecionável** e **cabeçalho e a logo da organização**.
 
 - A **logo** vem de **Configurações → Organização** (a mesma usada nos e-mails e na Central de Privacidade). Sem logo configurado, o relatório sai normalmente, só sem a imagem.
 - O botão **Imprimir** continua disponível, para quem preferir a impressão do navegador.

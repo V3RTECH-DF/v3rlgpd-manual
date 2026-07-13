@@ -26,7 +26,6 @@ O Encarregado é o contato de privacidade da sua organização. Cadastrá-lo é 
    - **E-mail de Contato** — por onde o titular fala com a organização.
    - **Telefone** (opcional).
    - **Logo da Organização** — aparece nos relatórios PDF e na Central de Privacidade.
-   - **Prefixo de Versionamento** — o prefixo usado nas versões das políticas (ex.: "v").
 3. Clique em **Salvar Identidade**.
 
 > 💡 **Atalho:** se o Encarregado já é um usuário do site, clique em **"Preencher a partir de um usuário do WordPress"**, busque a pessoa e o nome e o e-mail entram sozinhos (você ainda pode editar).
