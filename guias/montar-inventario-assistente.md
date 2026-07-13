@@ -35,7 +35,7 @@ Nunca fez um inventário e não sabe por onde começar? O **Assistente de Invent
    [![Perguntas do assistente](/assets/screenshots/v3rlgpd-35-assistente-perguntas.png)](/assets/screenshots/v3rlgpd-35-assistente-perguntas.png)
    *Cada "sim" seleciona uma atividade pronta para o seu inventário.*
 
-4. **Vincule os formulários, quando fizer sentido.** Para atividades que vêm de formulários do seu site, você pode escolher ali mesmo **qual formulário alimenta a atividade**, já deixando a retenção automática configurada. Veja [Mapeamento de Formulários](/modulos/inventario-ropa/) e [Retenção](/modulos/retencao/).
+4. **Vincule os formulários, quando fizer sentido.** Para atividades que vêm de formulários do seu site, você pode escolher ali mesmo **quais formulários alimentam a atividade** — pode marcar **mais de um**, inclusive de **origens diferentes** (ex.: Forminator + Google Forms). Veja [Mapeamento de Formulários](/modulos/inventario-ropa/) e [Retenção](/modulos/retencao/).
 5. **Revise os rascunhos antes de salvar.** O assistente mostra cada atividade para você **editar, remover ou confirmar**. Confira com atenção a **base legal** e o **prazo de retenção** — são **sugestões**, não decisões; a definição final é responsabilidade da sua organização.
 6. **Crie os registros.** Nada é gravado até você clicar em **Criar registros**. A partir daí, as atividades passam a fazer parte do seu inventário.
 

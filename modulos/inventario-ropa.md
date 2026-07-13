@@ -28,7 +28,7 @@ Como funciona, em poucos passos:
 
 1. **Perguntas em linguagem leiga** — "envia newsletter?", "recebe doações?", "cadastra voluntários?", "vende online?"… A cada **sim**, o assistente seleciona uma atividade pronta, com finalidade, **base legal sugerida**, dados coletados e prazo de retenção.
 2. **Crianças e adolescentes** — há uma pergunta no topo: se a sua organização atende menores de 18, as atividades pertinentes marcam os titulares como "Crianças e adolescentes" e o assistente orienta sobre **consentimento parental** e **RIPD**.
-3. **Vínculo com formulários** — para atividades que vêm de formulários do site, você pode escolher **qual formulário alimenta a atividade** ali mesmo (já deixando a retenção automática configurada). Veja [Mapeamento de Formulários](/modulos/inventario-ropa/) e [Retenção](/modulos/retencao/).
+3. **Vínculo com formulários** — para atividades que vêm de formulários do site, você pode escolher **quais formulários alimentam a atividade** ali mesmo. Pode marcar **mais de um**, inclusive de **origens diferentes** (ex.: um Forminator e um Google Forms na mesma atividade). Veja [Mapeamento de Formulários](/modulos/inventario-ropa/) e [Retenção](/modulos/retencao/).
 4. **Revisão antes de salvar** — o assistente mostra os rascunhos para você **editar, remover ou confirmar**. Base legal e prazo são **sugestões a conferir** — a definição final é responsabilidade da sua organização. Nada é gravado sem o seu "Criar registros".
 5. **Rodar de novo é seguro** — o assistente **nunca apaga** o que você já tem; ao rodar de novo, ele identifica as atividades existentes e cria **apenas as novas**.
 
