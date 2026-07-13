@@ -35,7 +35,7 @@ Como funciona, em poucos passos:
 [![Assistente — conclusão com recomendação de RIPD](/assets/screenshots/v3rlgpd-37-assistente-conclusao.png)](/assets/screenshots/v3rlgpd-37-assistente-conclusao.png)
 *Ao concluir, se você criou atividades com dados de menores, o assistente recomenda elaborar um RIPD (art. 16 da LGPD + ECA) com atalho direto para o módulo.*
 
-> ⚠️ O assistente **ajuda** a montar o inventário com base em modelos comuns do terceiro setor; ele **não** substitui a análise da sua organização. Sempre revise as sugestões, especialmente a **base legal**.
+> ⚠️ O assistente **ajuda** a montar o inventário com base em modelos comuns de diferentes segmentos; ele **não** substitui a análise da sua organização. Sempre revise as sugestões, especialmente a **base legal**.
 
 ## O que registrar em cada atividade
 

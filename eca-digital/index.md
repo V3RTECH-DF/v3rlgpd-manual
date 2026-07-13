@@ -24,9 +24,9 @@ A lei vale para **todo produto ou serviço de tecnologia da informação direcio
 
 > 💡 **Por que isso importa**
 >
-> O terceiro setor é um dos públicos **mais alcançados** por essa lei, porque muitas organizações trabalham diretamente com crianças e adolescentes. O V3RLGPD ajuda você a descobrir **se** e **em que medida** a lei se aplica ao seu caso, e a cumprir os deveres certos — sem virar um sistema de verificação de identidade.
+> Organizações que trabalham diretamente com crianças e adolescentes estão entre as **mais alcançadas** por essa lei. O V3RLGPD ajuda você a descobrir **se** e **em que medida** a lei se aplica ao seu caso, e a cumprir os deveres certos — sem virar um sistema de verificação de identidade.
 
-## Controle editorial: a maioria dos sites de organização tem uma "folga"
+## Controle editorial: a maioria dos sites institucionais tem uma "folga"
 
 Se o conteúdo do seu site é **escolhido pela própria organização, sem automação** (um site institucional comum, sem feed algorítmico nem rede social interna), ele costuma ser um **"serviço com controle editorial"**. Esses serviços ficam **dispensados da aferição de idade** (a verificação técnica de idade a cada acesso), desde que ofereçam adequação por faixa etária e mediação parental.
 

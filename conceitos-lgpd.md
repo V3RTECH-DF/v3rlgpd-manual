@@ -14,7 +14,7 @@ Antes de mexer na ferramenta, vale entender a lei em linguagem de gente. Esta p�
 
 ## O que é a LGPD
 
-A **Lei Geral de Proteção de Dados (Lei nº 13.709/2018)** regula como qualquer organização — empresa, governo ou organização — pode **coletar, usar, compartilhar e guardar dados pessoais**. Ela vale para a sua organização independentemente do tamanho: não há isenção para entidade pequena ou sem fins lucrativos.
+A **Lei Geral de Proteção de Dados (Lei nº 13.709/2018)** regula como qualquer organização — empresa, órgão público ou entidade sem fins lucrativos — pode **coletar, usar, compartilhar e guardar dados pessoais**. Ela vale para a sua organização independentemente do tamanho ou da natureza: não há isenção para entidade pequena ou sem fins lucrativos.
 
 A lei é fiscalizada pela **ANPD — Autoridade Nacional de Proteção de Dados**, o órgão federal que edita regras, orienta e pode aplicar sanções.
 
@@ -54,7 +54,7 @@ A lei é fiscalizada pela **ANPD — Autoridade Nacional de Proteção de Dados*
 
 Aqui está o conceito que mais confunde — e o mais importante. **Toda vez que sua organização trata um dado pessoal, precisa de um motivo previsto na lei.** Esse motivo é a *base legal*. Sem base legal, o tratamento é irregular, mesmo que bem-intencionado.
 
-> 📖 **Página dedicada, com exemplos:** veja **[Bases legais (com exemplos)](/bases-legais/)** para cada base explicada com casos reais de organização e um roteiro de "como escolher".
+> 📖 **Página dedicada, com exemplos:** veja **[Bases legais (com exemplos)](/bases-legais/)** para cada base explicada com casos reais de organizações e um roteiro de "como escolher".
 
 As bases mais usadas por organizações:
 

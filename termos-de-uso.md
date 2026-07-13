@@ -6,11 +6,11 @@ permalink: /termos-de-uso/
 
 # Termos de Uso do V3RLGPD
 
-> ⚠️ **Ao instalar e usar o V3RLGPD, a Organização da Sociedade Civil (organização) declara que leu, entendeu e concorda com estes Termos de Uso.**
+> ⚠️ **Ao instalar e usar o V3RLGPD, a organização declara que leu, entendeu e concorda com estes Termos de Uso.**
 
 ## 1. Objeto
 
-O **V3RLGPD** é uma **ferramenta de apoio à gestão** da conformidade com a Lei Geral de Proteção de Dados (Lei nº 13.709/2018), oferecida pela **[RIT — Rede de Inovação e Transformação](https://rit.org.br/){:target="_blank" rel="noopener"}** em parceria com a **[V3RTECH](https://v3rtech.com.br/){:target="_blank" rel="noopener"}**. A ferramenta ajuda a organização a se organizar, registrar e dar rastreabilidade ao seu trabalho de proteção de dados (políticas, inventário, atendimento a titulares, incidentes, indicadores).
+O **V3RLGPD** é uma **ferramenta de apoio à gestão** da conformidade com a Lei Geral de Proteção de Dados (Lei nº 13.709/2018), **desenvolvida e mantida pela [V3RTECH](https://v3rtech.com.br/){:target="_blank" rel="noopener"}**. A **V3RTECH** pode **distribuí-la e comercializá-la** para organizações de **qualquer natureza** (pública, privada ou do terceiro setor). A **[RIT — Rede de Inovação e Transformação](https://rit.org.br/){:target="_blank" rel="noopener"}** é **distribuidora autorizada exclusivamente para organizações do terceiro setor**, conforme o modelo de negócio da própria RIT (gratuitamente ou não, a critério da RIT). A ferramenta ajuda a organização a se organizar, registrar e dar rastreabilidade ao seu trabalho de proteção de dados (políticas, inventário, atendimento a titulares, incidentes, indicadores).
 
 ## 2. Aceite e adesão
 
@@ -36,9 +36,9 @@ A organização, na condição de **controladora dos dados**, é **integralmente
 - a veracidade e a atualização das informações que registrar;
 - o cumprimento das obrigações da LGPD perante titulares, a ANPD e terceiros.
 
-## 5. Limitação de responsabilidade da RIT e da V3RTECH
+## 5. Limitação de responsabilidade da V3RTECH e da RIT
 
-A **RIT** e a **V3RTECH** atuam **exclusivamente como fornecedoras de uma ferramenta** de apoio. Em nenhuma hipótese assumem a posição de controladoras dos dados da organização, nem **respondem juridicamente** por:
+A **V3RTECH** (desenvolvedora do plugin) e a **RIT** (distribuidora) atuam **exclusivamente como fornecedoras de uma ferramenta** de apoio. Em nenhuma hipótese assumem a posição de controladoras dos dados da organização, nem **respondem juridicamente** por:
 
 - decisões de tratamento tomadas pela organização;
 - conteúdo das políticas e documentos produzidos pela organização;
@@ -59,9 +59,9 @@ Estes Termos podem ser atualizados a qualquer tempo. Mudanças relevantes serão
 
 ## 9. Propriedade, licença de uso e disposições gerais
 
-**9.1. Propriedade.** O **código-fonte** do V3RLGPD e os direitos de propriedade intelectual sobre o plugin pertencem à **[RIT — Rede de Inovação e Transformação](https://rit.org.br/){:target="_blank" rel="noopener"}** e à **[V3RTECH](https://v3rtech.com.br/){:target="_blank" rel="noopener"}**. O uso da ferramenta não transfere à organização qualquer direito sobre o código.
+**9.1. Propriedade.** O **código-fonte** do V3RLGPD e os direitos de propriedade intelectual sobre o plugin pertencem à **[V3RTECH](https://v3rtech.com.br/){:target="_blank" rel="noopener"}**, que o desenvolve e mantém. A **[RIT — Rede de Inovação e Transformação](https://rit.org.br/){:target="_blank" rel="noopener"}** atua como **distribuidora autorizada** e não detém direitos sobre o código. O uso da ferramenta não transfere à organização qualquer direito sobre o código.
 
-**9.2. Licença de uso.** É concedida à organização uma **licença de uso** do plugin **exclusivamente para organizações sem fins lucrativos**. **Empresas e entidades com fins lucrativos NÃO estão autorizadas** a utilizar a ferramenta sob esta licença — devem entrar em contato com a **V3RTECH** pelo e-mail **[comercial@v3rtech.com.br](mailto:comercial@v3rtech.com.br)** para solicitar a aquisição de uma licença de uso adequada.
+**9.2. Distribuição e licença de uso.** A **V3RTECH**, como desenvolvedora e titular do plugin, pode **distribuir e comercializar** o V3RLGPD para organizações de **qualquer natureza** (pública, privada ou do terceiro setor), sob os termos que definir. A V3RTECH também **autoriza a RIT** a distribuir o V3RLGPD **exclusivamente às organizações do terceiro setor**, conforme o **modelo de negócio da própria RIT — gratuitamente ou não, a critério da RIT**. A **V3RTECH não recebe qualquer remuneração** da RIT nem das organizações atendidas pelo canal da RIT. A organização recebe uma **licença de uso** nas condições do canal pelo qual obteve o plugin (diretamente com a V3RTECH ou por meio da RIT). Para adquirir ou tratar a licença diretamente, contate a **V3RTECH** pelo e-mail **[comercial@v3rtech.com.br](mailto:comercial@v3rtech.com.br)**.
 
 **9.3. Legislação aplicável.** Estes Termos são regidos pelas leis da **República Federativa do Brasil** — em especial a **Lei nº 9.609/1998** (proteção da propriedade intelectual de programa de computador), a **Lei nº 9.610/1998** (direitos autorais), o **Código Civil** (Lei nº 10.406/2002) e a **LGPD** (Lei nº 13.709/2018).
 

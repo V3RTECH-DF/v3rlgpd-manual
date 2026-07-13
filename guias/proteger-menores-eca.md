@@ -20,7 +20,7 @@ Se a sua organização trabalha com **crianças e adolescentes** — projetos so
 
 > 💡 **Por que isso importa**
 >
-> O terceiro setor é um dos públicos **mais alcançados** por essa lei, porque muitas organizações lidam diretamente com menores. A boa notícia: na maioria dos casos o que pega **não** é "verificar a idade de quem entra no site", e sim alguns **cuidados com os dados das crianças**. Este guia te leva por eles.
+> Organizações que lidam diretamente com menores estão entre as **mais alcançadas** por essa lei. A boa notícia: na maioria dos casos o que pega **não** é "verificar a idade de quem entra no site", e sim alguns **cuidados com os dados das crianças**. Este guia te leva por eles.
 
 ## Antes de começar
 
@@ -39,7 +39,7 @@ Não saia ativando tudo. Primeiro responda ao **classificador de enquadramento**
 
 O Mapa passa a listar **só os deveres aplicáveis**, cada um ligado ao artigo da lei.
 
-> 💡 **A maioria dos sites de organização tem uma "folga".** Se o conteúdo do seu site é **escolhido pela própria organização, sem automação** (um site institucional comum), ele costuma ter **controle editorial** — e a **aferição de idade fica dispensada**. Nesse caso, o que importa são os deveres de **proteção de dados de menores** dos próximos passos. Detalhes em [Enquadramento](/eca-digital/enquadramento/).
+> 💡 **A maioria dos sites institucionais tem uma "folga".** Se o conteúdo do seu site é **escolhido pela própria organização, sem automação** (um site institucional comum), ele costuma ter **controle editorial** — e a **aferição de idade fica dispensada**. Nesse caso, o que importa são os deveres de **proteção de dados de menores** dos próximos passos. Detalhes em [Enquadramento](/eca-digital/enquadramento/).
 
 > ⚠️ O enquadramento é **autodeclarado** pela sua organização e serve de orientação. A autoridade competente pode reenquadrar o serviço.
 

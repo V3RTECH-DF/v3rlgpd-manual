@@ -20,7 +20,7 @@ permalink: /
 </style>
 
 <div class="home-intro">
-  <p>O <strong>V3RLGPD</strong> é a ferramenta da <a href="https://rit.org.br" target="_blank" rel="noopener noreferrer">RIT — Rede de Inovação e Transformação</a> que ajuda Organizações da Sociedade Civil (organizações) a se organizarem para a <strong>Lei Geral de Proteção de Dados (LGPD — Lei nº 13.709/2018)</strong>: publicar políticas, atender pedidos de titulares, registrar incidentes, manter o inventário de dados e acompanhar o quanto a organização está preparada. <a href="https://rit.org.br/solucoes/v3rlgpd/" target="_blank" rel="noopener noreferrer">Saiba mais sobre o V3RLGPD</a>.</p>
+  <p>O <strong>V3RLGPD</strong> é a ferramenta de conformidade com a LGPD desenvolvida pela <a href="https://v3rtech.com.br" target="_blank" rel="noopener noreferrer">V3RTECH</a> que ajuda organizações a se organizarem para a <strong>Lei Geral de Proteção de Dados (LGPD — Lei nº 13.709/2018)</strong>: publicar políticas, atender pedidos de titulares, registrar incidentes, manter o inventário de dados e acompanhar o quanto a organização está preparada. <a href="https://rit.org.br/solucoes/v3rlgpd/" target="_blank" rel="noopener noreferrer">Saiba mais sobre o V3RLGPD</a>.</p>
   <p>Esta documentação <strong>não é só um manual de botões</strong>. Cada seção explica <em>por que</em> aquilo importa, traz os conceitos da LGPD em linguagem simples e mostra boas práticas que fazem sentido para a realidade de uma organização. Se você acabou de chegar, comece pelos <a href="/primeiros-passos/">Primeiros Passos</a>. Se quer entender a lei antes da ferramenta, vá para <a href="/conceitos-lgpd/">Conceitos da LGPD</a>.</p>
 </div>
 

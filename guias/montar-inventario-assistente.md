@@ -50,4 +50,4 @@ Nunca fez um inventário e não sabe por onde começar? O **Assistente de Invent
 
 > ⚠️ **Atenção**
 >
-> O assistente **ajuda** a montar o inventário com base em modelos comuns do terceiro setor; ele **não** substitui a análise da sua organização e **não** garante validade jurídica. Sempre revise as sugestões, especialmente a **base legal** e as atividades que envolvem **dados sensíveis** (saúde, religião, etnia, opinião política).
+> O assistente **ajuda** a montar o inventário com base em modelos comuns de diferentes segmentos; ele **não** substitui a análise da sua organização e **não** garante validade jurídica. Sempre revise as sugestões, especialmente a **base legal** e as atividades que envolvem **dados sensíveis** (saúde, religião, etnia, opinião política).

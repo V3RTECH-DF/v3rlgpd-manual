@@ -8,7 +8,7 @@ permalink: /faq/
 
 ## Minha organização é pequena. A LGPD vale mesmo para ela?
 
-Sim. A LGPD não tem isenção por porte ou por ser entidade sem fins lucrativos. A boa notícia: para uma organização pequena, com poucos tipos de dados, a adequação é proporcionalmente simples. Comece pelos [Primeiros Passos](/primeiros-passos/).
+Sim. A LGPD não tem isenção por porte nem por natureza da organização (pública, privada ou sem fins lucrativos). A boa notícia: para uma organização pequena, com poucos tipos de dados, a adequação é proporcionalmente simples. Comece pelos [Primeiros Passos](/primeiros-passos/).
 
 ## Preciso contratar um advogado para usar o V3RLGPD?
 
