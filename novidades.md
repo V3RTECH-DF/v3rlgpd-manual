@@ -8,6 +8,15 @@ permalink: /novidades/
 
 O que mudou no V3RLGPD, em linguagem leve. Para o histórico técnico completo, fale com a equipe de implantação.
 
+## Versão 1.49 — Relatórios em PDF de verdade
+
+Todos os relatórios — **Conformidade**, **Inventário (ROPA)**, **Ações do Encarregado** e **RIPD** — ganharam um botão **Baixar PDF** que gera um **arquivo PDF pronto**, baixado com **um clique** e igual em qualquer navegador. Antes, "exportar" era escolher "Salvar como PDF" na caixa de impressão do navegador; agora o documento sai **formatado como relatório** (não como um print da tela), com **texto selecionável**, **cabeçalho e a logo da organização** e numeração de página.
+
+- A **logo** vem de **Configurações → Organização** (a mesma usada nos e-mails e na Central de Privacidade). Sem logo configurado, o relatório sai normalmente, só sem a imagem.
+- O botão **Imprimir** continua disponível, para quem preferir a impressão do navegador.
+
+> Onde: em cada relatório, no topo. Detalhes em [Relatórios](/modulos/relatorios/).
+
 ## Versão 1.43 — Detector de Conformidade
 
 Chegou o **Detector de Conformidade**: uma nova aba em **Auditoria de Conformidade** que **varre o seu site publicado** e gera um relatório em linguagem clara com o que precisa de atenção — confrontando o que você configurou no plugin com o que está **de fato no ar**.

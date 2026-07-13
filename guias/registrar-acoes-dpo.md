@@ -46,7 +46,7 @@ Em **Vínculo**, você pode ligar a ação a um **Incidente**, **RIPD**, **ativi
 
 1. Em **Ações do Encarregado**, clique em **📄 Relatório**.
 2. Filtre por **período** e/ou **tipo**.
-3. Clique em **Imprimir / Baixar PDF** — sai só o relatório, com o cabeçalho da organização, pronto para entregar a um financiador ou auditoria.
+3. Clique em **Baixar PDF** — baixa um arquivo PDF só com o relatório, com o cabeçalho e a logo da organização, pronto para entregar a um financiador ou auditoria. (O botão **Imprimir** também está disponível.)
 
 > ✅ **Dica**
 >

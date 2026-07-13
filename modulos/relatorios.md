@@ -19,7 +19,7 @@ Dado registrado só vale se vira **informação para prestar contas**. Este mód
 [![Relatório de Conformidade](/assets/screenshots/v3rlgpd-10-compliance-report.png)](/assets/screenshots/v3rlgpd-10-compliance-report.png)
 *Panorama em PDF: status de conformidade, gestão de direitos (DSAR) e transparência.*
 
-Acessível pelo botão **Exportar Relatório** no [Painel](/modulos/painel/), o relatório consolida num documento pronto para imprimir ou salvar em PDF:
+Acessível pelo botão **Exportar Relatório** no [Painel](/modulos/painel/), o relatório consolida num documento que você **baixa em PDF** com um clique (botão **Baixar PDF**, com logo e cabeçalho da organização) ou envia para a impressão do navegador:
 
 - **Status de Conformidade** — política publicada, Encarregado nomeado, inventário mapeado, banner de cookies.
 - **Gestão de Direitos (DSAR)** — total de pedidos, concluídos, pendentes (no prazo e atrasados) e tempo médio de resposta.

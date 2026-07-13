@@ -51,7 +51,7 @@ Prefere montar do zero, sem o assistente? O editor manual segue disponível:
 4. Na **matriz de risco**, para cada risco escolha **probabilidade** e **severidade**; o **nível** (baixo/médio/alto) é calculado automaticamente. Registre a **mitigação** e o **risco residual**.
    <!-- screenshot: ripd-02 — matriz de risco -->
 5. **Salvar Rascunho** guarda sem congelar. **Finalizar Versão** congela uma versão (com a data e o retrato do ROPA daquele momento).
-6. Depois de finalizar, você pode **Imprimir / Exportar PDF** e consultar o **histórico de versões**. Editar um RIPD finalizado cria um **novo rascunho**, preservando a versão anterior.
+6. Depois de finalizar, você pode **Baixar PDF** (arquivo pronto, com logo e cabeçalho da organização; o botão **Imprimir** também fica disponível) e consultar o **histórico de versões**. Editar um RIPD finalizado cria um **novo rascunho**, preservando a versão anterior.
    <!-- screenshot: ripd-03 — RIPD finalizado / impressão -->
 
 > 💡 **Por que isso importa**

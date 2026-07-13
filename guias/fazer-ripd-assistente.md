@@ -39,7 +39,7 @@ O **RIPD** (Relatório de Impacto à Proteção de Dados) documenta os riscos de
 
 5. **Preencha necessidade e proporcionalidade.** Descreva por que o tratamento é necessário e proporcional à finalidade.
 6. **Registre o parecer e a decisão do Encarregado.** Esta é a parte que **só o Encarregado decide**: o parecer técnico e a decisão final (prosseguir, ajustar, não prosseguir) são responsabilidade da organização, não do assistente.
-7. **Gere o rascunho e finalize no editor.** O assistente entrega um **rascunho** que abre no editor de RIPD. Use **Salvar Rascunho** para guardar sem congelar, ou **Finalizar Versão** para congelar a versão — com a data e o retrato do ROPA daquele momento. Depois de finalizar, você pode **Imprimir / Exportar PDF** e consultar o **histórico de versões**.
+7. **Gere o rascunho e finalize no editor.** O assistente entrega um **rascunho** que abre no editor de RIPD. Use **Salvar Rascunho** para guardar sem congelar, ou **Finalizar Versão** para congelar a versão — com a data e o retrato do ROPA daquele momento. Depois de finalizar, você pode **Baixar PDF** (arquivo pronto para compartilhar) e consultar o **histórico de versões**.
 
    [![Editor do RIPD com o rascunho gerado](/assets/ripd-06-assistente-editor.png)](/assets/ripd-06-assistente-editor.png)
    *O rascunho abre no editor, pronto para refinar e finalizar a versão.*

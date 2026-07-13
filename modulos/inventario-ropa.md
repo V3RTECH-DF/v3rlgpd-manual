@@ -77,7 +77,7 @@ Quando você usa o **Assistente** em [Políticas](/modulos/politicas/), ele puxa
 
 ## Relatório do inventário
 
-O botão **Gerar Relatório** exporta o inventário em PDF — útil para anexar a prestações de contas ou apresentar a um financiador.
+O botão **Gerar Relatório** abre o inventário como documento; ali o botão **Baixar PDF** baixa um arquivo PDF pronto (com logo e cabeçalho da organização) — útil para anexar a prestações de contas ou apresentar a um financiador.
 
 > ✅ **Boas práticas**
 >
