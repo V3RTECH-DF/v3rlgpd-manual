@@ -1,6 +1,6 @@
 # Roteiro de recaptura — manual V3RLGPD (#19)
 
-Ambiente: dev-wp `http://localhost:3080/wp-admin/` · plugin v1.44.3 ativo + semeado · viewport **desktop** (1280×800) salvo indicado. Nomes de arquivo = os atuais (não mudar). Captura via e2e-runner (login DEV autorizado).
+Ambiente: dev-wp `http://localhost:3080/wp-admin/` · plugin ativo + semeado · viewport **desktop 1920×1080** (padrão atual; telas cheias = página inteira com 1920 de largura; recortes = elemento capturado do render 1920) salvo indicado. Nomes de arquivo = os atuais (não mudar). Captura via e2e-runner (login DEV autorizado).
 
 ## Lote 1 — Admin, capturável JÁ (com o admin atual + seed) — ~44 prints
 
