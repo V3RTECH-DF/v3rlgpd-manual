@@ -12,7 +12,7 @@ status: publicado
 
 # Verificador de Formulários
 
-O item **Verificador de Formulários** do menu faz duas coisas: **analisa os campos** de cada formulário do seu site para apontar possíveis problemas de conformidade, e liga cada formulário a uma **atividade** do [Inventário (ROPA)](/modulos/inventario-ropa/).
+A aba **Verificador de Formulários** — dentro do grupo **Inventário (ROPA)** — faz duas coisas: **analisa os campos** de cada formulário do seu site para apontar possíveis problemas de conformidade, e liga cada formulário a uma **atividade** do [Inventário (ROPA)](/modulos/inventario-ropa/).
 
 [![Verificador de Formulários](/assets/screenshots/v3rlgpd-33-mapeamento-formularios.png)](/assets/screenshots/v3rlgpd-33-mapeamento-formularios.png)
 *A lista mostra cada formulário do site, com um status de conformidade e os botões para verificar e mapear.*

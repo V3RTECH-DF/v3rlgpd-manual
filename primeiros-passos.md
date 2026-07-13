@@ -19,7 +19,7 @@ Esta página leva sua organização do "plugin recém-instalado" ao "pronto para
 
 Depois de instalado e ativado no seu site WordPress, o plugin aparece no menu lateral do painel administrativo como **V3RLGPD**. Ao abrir, você vê o **Painel de Conformidade e Privacidade**. O menu do plugin tem **8 itens**: **Dashboard**, **Auditoria de Conformidade**, **Inventário (ROPA)**, **Relatório de Impacto (RIPD)**, **Políticas**, **Atendimento ao Titular**, **Configurações** e **Shortcodes**.
 
-Alguns desses itens são **grupos com abas** (para deixar o painel mais simples): **Auditoria de Conformidade** reúne *Mapa de Conformidade* e *Verificador de Formulários*; **Atendimento ao Titular** reúne *Consentimentos, Atendimentos, Denúncias, Incidentes, Retenção* e *Ações do Encarregado*. No topo de cada tela, o **cabeçalho** mostra a logo com o nome da seção ao lado e a versão do plugin.
+Alguns desses itens são **grupos com abas** (para deixar o painel mais simples): **Auditoria de Conformidade** reúne *Detector* e *Mapa de Conformidade*; **Inventário (ROPA)** reúne *Inventário* e *Verificador de Formulários*; **Atendimento ao Titular** reúne *Consentimentos, Atendimentos, Denúncias, Incidentes, Retenção* e *Ações do Encarregado*. No topo de cada tela, o **cabeçalho** mostra a logo com o nome da seção ao lado e a versão do plugin.
 
 [![Painel do V3RLGPD](/assets/screenshots/v3rlgpd-01-dashboard.png)](/assets/screenshots/v3rlgpd-01-dashboard.png)
 *O Dashboard é o cockpit da conformidade da sua organização.*

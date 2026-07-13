@@ -14,7 +14,8 @@ Esta seção é a referência de consulta: uma página por módulo do plugin, ex
 > Para deixar o painel mais simples, telas que trabalham juntas ficam **agrupadas em uma página com abas**. No menu lateral você encontra **8 itens**:
 > **Dashboard · Auditoria de Conformidade · Inventário (ROPA) · Relatório de Impacto (RIPD) · Políticas · Atendimento ao Titular · Configurações · Shortcodes**.
 >
-> - **Auditoria de Conformidade** → abas **Detector**, **Mapa de Conformidade** e **Verificador de Formulários**.
+> - **Auditoria de Conformidade** → abas **Detector** e **Mapa de Conformidade**.
+> - **Inventário (ROPA)** → abas **Inventário** e **Verificador de Formulários**.
 > - **Atendimento ao Titular** → abas **Consentimentos · Atendimentos · Denúncias · Incidentes · Retenção · Ações do Encarregado**.
 > - **Configurações** → inclui a aba **Equipe / Acessos** (só administrador).
 >
