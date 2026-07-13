@@ -13,7 +13,7 @@ status: publicado
 
 # Configurar o Encarregado
 
-O Encarregado é o contato de privacidade da sua OSC. Cadastrá-lo é o **primeiro passo** — esses dados aparecem publicamente na Central de Privacidade.
+O Encarregado é o contato de privacidade da sua organização. Cadastrá-lo é o **primeiro passo** — esses dados aparecem publicamente na Central de Privacidade.
 
 [![Configurações de identidade do Encarregado](/assets/screenshots/v3rlgpd-08-settings-dpo.png)](/assets/screenshots/v3rlgpd-08-settings-dpo.png)
 *Configurações → Identidade.*
@@ -23,7 +23,7 @@ O Encarregado é o contato de privacidade da sua OSC. Cadastrá-lo é o **primei
 1. No painel, abra **V3RLGPD → Configurações**.
 2. Na aba **Encarregado**, preencha:
    - **Nome ou Setor** — quem responde pela privacidade (ex.: "Encarregado de Dados" ou "Setor de Privacidade").
-   - **E-mail de Contato** — por onde o titular fala com a OSC.
+   - **E-mail de Contato** — por onde o titular fala com a organização.
    - **Telefone** (opcional).
    - **Logo da Organização** — aparece nos relatórios PDF e na Central de Privacidade.
    - **Prefixo de Versionamento** — o prefixo usado nas versões das políticas (ex.: "v").

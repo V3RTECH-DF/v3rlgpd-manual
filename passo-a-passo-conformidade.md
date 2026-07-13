@@ -6,7 +6,7 @@ permalink: /passo-a-passo-conformidade/
 
 # O passo a passo da conformidade com a LGPD
 
-Esta é a página mais importante do guia. Ela descreve, em profundidade, o caminho que uma OSC pode percorrer para chegar **o mais perto possível** da conformidade com a LGPD — e mostra onde o V3RLGPD entra em cada etapa.
+Esta é a página mais importante do guia. Ela descreve, em profundidade, o caminho que uma organização pode percorrer para chegar **o mais perto possível** da conformidade com a LGPD — e mostra onde o V3RLGPD entra em cada etapa.
 
 > ⚠️ **Atenção — conformidade é um processo, não um botão**
 >
@@ -22,13 +22,13 @@ Antes de qualquer planilha, a diretoria precisa comprar a ideia. Adequação à 
 
 ## Etapa 1 — Nomeie o Encarregado
 
-Escolha quem vai responder pelos dados na sua OSC. Pode ser um voluntário, um funcionário ou um setor. O importante é que a pessoa esteja **acessível** e tenha **respaldo** para cobrar as áreas.
+Escolha quem vai responder pelos dados na sua organização. Pode ser um voluntário, um funcionário ou um setor. O importante é que a pessoa esteja **acessível** e tenha **respaldo** para cobrar as áreas.
 
 **No plugin:** cadastre o Encarregado em **Configurações → Identidade**. Esses dados ficarão visíveis na Central de Privacidade. → [Guia](/guias/configurar-dpo/)
 
 ## Etapa 2 — Mapeie os dados (Inventário / ROPA)
 
-Este é o coração da adequação. Liste **todas as atividades** em que sua OSC trata dados pessoais e, para cada uma, responda:
+Este é o coração da adequação. Liste **todas as atividades** em que sua organização trata dados pessoais e, para cada uma, responda:
 
 1. **Qual a atividade?** (ex.: cadastro de voluntários, newsletter, inscrição em evento, controle de doações)
 2. **Quais dados são coletados?** (nome, CPF, e-mail, telefone, dados sensíveis?)
@@ -49,7 +49,7 @@ Para cada atividade do inventário, escolha a base legal mais adequada (veja [Co
 
 > ⚠️ **Atenção**
 >
-> Atividades com **dados sensíveis** (saúde, religião, etnia, opinião política) têm bases legais próprias e mais restritas. Se sua OSC trabalha com grupos vulneráveis, trate esse ponto com cuidado redobrado — é onde o risco é maior.
+> Atividades com **dados sensíveis** (saúde, religião, etnia, opinião política) têm bases legais próprias e mais restritas. Se sua organização trabalha com grupos vulneráveis, trate esse ponto com cuidado redobrado — é onde o risco é maior.
 
 ## Etapa 4 — Escreva e publique as políticas
 
@@ -75,7 +75,7 @@ Se seu site usa cookies de análise ou marketing, eles só podem ser carregados 
 
 ## Etapa 7 — Prepare-se para atender titulares
 
-Garanta que sua OSC consegue **receber e responder** pedidos de titulares dentro do prazo. Defina quem trata, como confirma a identidade da pessoa e como executa (localizar, exportar, excluir).
+Garanta que sua organização consegue **receber e responder** pedidos de titulares dentro do prazo. Defina quem trata, como confirma a identidade da pessoa e como executa (localizar, exportar, excluir).
 
 **No plugin:** os pedidos chegam em **[Atendimentos (DSAR)](/modulos/atendimentos/)**, com controle de prazo (SLA), **execução assistida** (o plugin localiza/exporta/elimina sob comando do Encarregado) e **auto-atendimento** para pedidos simples. → [Guia](/guias/atender-solicitacao/)
 
@@ -87,7 +87,7 @@ Decida, **antes** de acontecer, o que fazer se houver um vazamento: quem avisa, 
 
 > 💡 **Por que isso importa**
 >
-> Incidente sempre parece distante — até acontecer. OSC que já tem um plano simples ("quem ligo? o que comunico?") reage em horas; quem não tem perde dias decidindo, e o tempo conta contra você (e contra os titulares afetados).
+> Incidente sempre parece distante — até acontecer. organização que já tem um plano simples ("quem ligo? o que comunico?") reage em horas; quem não tem perde dias decidindo, e o tempo conta contra você (e contra os titulares afetados).
 
 ## Etapa 9 — Treine as pessoas
 
@@ -95,16 +95,16 @@ A maioria dos incidentes começa em erro humano: senha fraca, planilha compartil
 
 > 📚 **Aprofunde com a RIT**
 >
-> A [formação em LGPD da RIT](https://cursos.rit.org.br/){:target="_blank" rel="noopener"} é desenhada para a realidade de OSCs e ajuda exatamente nessa etapa — e é **gratuita para as organizações integradas à RIT**.
+> A [formação em LGPD da RIT](https://cursos.rit.org.br/){:target="_blank" rel="noopener"} é desenhada para a realidade de organizações e ajuda exatamente nessa etapa — e é **gratuita para as organizações integradas à RIT**.
 
 ## Etapa 10 — Monitore e revise
 
-Acompanhe o **Índice de Conformidade** no [Painel](/modulos/painel/), gere o **[Relatório de Conformidade](/modulos/relatorios/)** para prestar contas a financiadores e conselho, e **revise o inventário** sempre que sua OSC criar uma atividade nova, adotar um sistema novo ou passar por um incidente.
+Acompanhe o **Índice de Conformidade** no [Painel](/modulos/painel/), gere o **[Relatório de Conformidade](/modulos/relatorios/)** para prestar contas a financiadores e conselho, e **revise o inventário** sempre que sua organização criar uma atividade nova, adotar um sistema novo ou passar por um incidente.
 
 ## A ideia de risco na LGPD
 
-Conformidade não é "fazer tudo perfeito" — é **gerir risco de forma proporcional**. Uma OSC pequena que coleta só nome e e-mail para uma newsletter tem risco baixo; uma que mantém prontuários de saúde de beneficiários tem risco alto e precisa de controles mais fortes. Priorize onde o risco aos titulares é maior: dados sensíveis, grandes volumes, compartilhamento com terceiros, transferência internacional.
+Conformidade não é "fazer tudo perfeito" — é **gerir risco de forma proporcional**. Uma organização pequena que coleta só nome e e-mail para uma newsletter tem risco baixo; uma que mantém prontuários de saúde de beneficiários tem risco alto e precisa de controles mais fortes. Priorize onde o risco aos titulares é maior: dados sensíveis, grandes volumes, compartilhamento com terceiros, transferência internacional.
 
 > ⚠️ **Atenção — o que esta ferramenta NÃO faz**
 >
-> O V3RLGPD organiza, registra e dá rastreabilidade. Ele **não** decide por você qual base legal usar, **não** escreve a política "juridicamente perfeita" e **não** garante que sua OSC está conforme. Essas decisões são da sua OSC, idealmente com apoio jurídico. Leia o [Aviso legal](/disclaimer/).
+> O V3RLGPD organiza, registra e dá rastreabilidade. Ele **não** decide por você qual base legal usar, **não** escreve a política "juridicamente perfeita" e **não** garante que sua organização está conforme. Essas decisões são da sua organização, idealmente com apoio jurídico. Leia o [Aviso legal](/disclaimer/).

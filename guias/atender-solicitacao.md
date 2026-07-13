@@ -58,4 +58,4 @@ Nem todo pedido procede (ex.: exclusão de dado que a lei obriga a manter). Ao r
 
 > 💡 **Por que isso importa**
 >
-> Responder no prazo e com clareza é o que constrói confiança. Cada pedido bem atendido é uma pessoa que percebe que sua OSC leva a sério os dados dela.
+> Responder no prazo e com clareza é o que constrói confiança. Cada pedido bem atendido é uma pessoa que percebe que sua organização leva a sério os dados dela.

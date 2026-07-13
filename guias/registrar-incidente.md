@@ -13,7 +13,7 @@ status: publicado
 
 # Registrar um incidente
 
-Aconteceu um vazamento, acesso indevido ou envio errado? Registre o quanto antes — a rapidez conta a favor da sua OSC.
+Aconteceu um vazamento, acesso indevido ou envio errado? Registre o quanto antes — a rapidez conta a favor da sua organização.
 
 [![Registrar incidente](/assets/screenshots/v3rlgpd-05-incidents.png)](/assets/screenshots/v3rlgpd-05-incidents.png)
 *V3RLGPD → Incidentes.*
@@ -23,7 +23,7 @@ Aconteceu um vazamento, acesso indevido ou envio errado? Registre o quanto antes
 1. Abra **V3RLGPD → Atendimento ao Titular** e vá à aba **Incidentes**.
 2. Em **Registrar Novo Incidente**, preencha:
    - **Título / Resumo** — ex.: "Envio de e-mail com lista de inscritos visível".
-   - **Descrição e Medidas Tomadas** — o que aconteceu e o que a OSC já fez.
+   - **Descrição e Medidas Tomadas** — o que aconteceu e o que a organização já fez.
    - **Dados Envolvidos (Alcance)** — quais dados e quantas pessoas podem ter sido afetadas.
 3. Clique em **Registrar Incidente**. Ele entra no **Histórico de Incidentes**.
 4. Quando houver **risco relevante**, comunique os **titulares afetados** (o plugin ajuda a fazer de forma rastreável).
@@ -36,7 +36,7 @@ Aconteceu um vazamento, acesso indevido ou envio errado? Registre o quanto antes
 
 > ✅ **Boas práticas**
 >
-> Registre **mesmo incidentes pequenos**. O histórico mostra que sua OSC monitora e aprende com cada caso — e ajuda a identificar padrões (ex.: erros recorrentes que pedem um treinamento).
+> Registre **mesmo incidentes pequenos**. O histórico mostra que sua organização monitora e aprende com cada caso — e ajuda a identificar padrões (ex.: erros recorrentes que pedem um treinamento).
 
 ## Antes de precisar
 

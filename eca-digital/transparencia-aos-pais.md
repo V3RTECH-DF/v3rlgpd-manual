@@ -24,7 +24,7 @@ Há um **shortcode** dedicado: `[v3rlgpd_transparencia_menores]`. Coloque-o na s
 
 <!-- screenshot: eca-05 — card público de transparência aos pais -->
 
-Você pode complementar com um **texto próprio** em **Configurações → Páginas & Integração**, descrevendo exatamente quais dados de menores a sua OSC coleta.
+Você pode complementar com um **texto próprio** em **Configurações → Páginas & Integração**, descrevendo exatamente quais dados de menores a sua organização coleta.
 <!-- screenshot: eca-04 — campo de texto de transparência nas Configurações -->
 
 > 💡 **Boas práticas**

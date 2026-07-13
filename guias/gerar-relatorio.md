@@ -13,7 +13,7 @@ status: publicado
 
 # Gerar o relatório de conformidade
 
-Um documento de uma página que mostra, em PDF, como anda a conformidade da sua OSC. Ótimo para prestar contas a financiadores, conselho e assembleia.
+Um documento de uma página que mostra, em PDF, como anda a conformidade da sua organização. Ótimo para prestar contas a financiadores, conselho e assembleia.
 
 [![Relatório de Conformidade](/assets/screenshots/v3rlgpd-10-compliance-report.png)](/assets/screenshots/v3rlgpd-10-compliance-report.png)
 *Visualização de impressão / PDF do relatório.*
@@ -33,7 +33,7 @@ Um documento de uma página que mostra, em PDF, como anda a conformidade da sua 
 
 > ✅ **Boas práticas**
 >
-> Gere o relatório periodicamente (ex.: a cada trimestre) e arquive. Cria uma linha do tempo da governança de dados da OSC — valiosa em auditorias e candidaturas a editais.
+> Gere o relatório periodicamente (ex.: a cada trimestre) e arquive. Cria uma linha do tempo da governança de dados da organização — valiosa em auditorias e candidaturas a editais.
 
 > ⚠️ **Atenção**
 >

@@ -11,11 +11,11 @@ status: rascunho
 
 Algumas categorias de dados recebem **proteção reforçada** pela LGPD porque seu uso indevido pode gerar discriminação ou dano grave. São os **dados sensíveis** (Art. 11): origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso/filosófico/político, dados sobre **saúde** ou **vida sexual**, e dados **genéticos** ou **biométricos**.
 
-Muitas OSCs tratam dados sensíveis sem perceber — um projeto de saúde, um programa para um grupo religioso, fichas de assistência social.
+Muitas organizações tratam dados sensíveis sem perceber — um projeto de saúde, um programa para um grupo religioso, fichas de assistência social.
 
 > 💡 **Por que isso importa**
 >
-> Dado sensível tratado de forma errada é um dos maiores riscos de **dano ao titular** e de **responsabilização** da OSC. As bases legais para usá-lo são **mais restritas** que as dos dados comuns.
+> Dado sensível tratado de forma errada é um dos maiores riscos de **dano ao titular** e de **responsabilização** da organização. As bases legais para usá-lo são **mais restritas** que as dos dados comuns.
 
 > ⚠️ **Atenção**
 >

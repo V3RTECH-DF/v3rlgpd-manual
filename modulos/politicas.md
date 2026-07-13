@@ -12,7 +12,7 @@ status: publicado
 
 # Políticas
 
-O módulo **Políticas** é onde sua OSC cria, versiona e publica os documentos que explicam ao público como trata os dados — Política de Privacidade, Termos de Uso, Política de Cookies e o que mais precisar.
+O módulo **Políticas** é onde sua organização cria, versiona e publica os documentos que explicam ao público como trata os dados — Política de Privacidade, Termos de Uso, Política de Cookies e o que mais precisar.
 
 [![Lista de políticas](/assets/screenshots/v3rlgpd-02-policies.png)](/assets/screenshots/v3rlgpd-02-policies.png)
 *Cada política mostra quantas versões publicadas tem e qual está ativa.*
@@ -30,7 +30,7 @@ O V3RLGPD **não entrega políticas prontas**. Ele dá a estrutura para você cr
 Ao criar uma política, escolha a **origem**:
 
 - **Interna** — você redige o texto no editor do plugin, com versionamento automático (o caminho tradicional).
-- **Externa** — você aponta um **link** para uma política que já existe fora do plugin (um PDF, uma página de wiki, um documento numa intranet). Útil para OSCs que já têm a política publicada e não querem reescrevê-la.
+- **Externa** — você aponta um **link** para uma política que já existe fora do plugin (um PDF, uma página de wiki, um documento numa intranet). Útil para organizações que já têm a política publicada e não querem reescrevê-la.
 
 Para a política **externa**, você informa: a **URL** do documento, um **resumo/descrição**, uma **imagem ou ícone** (escolha um dos ícones prontos, envie uma imagem, ou deixe sem) e o **número da versão** (preenchido **manualmente**).
 
@@ -86,7 +86,7 @@ Como funciona, passo a passo:
 >
 > O Assistente conecta o que você já cadastrou (organização, Encarregado, inventário) ao texto da política. Isso reduz erro e retrabalho: se a finalidade e a base legal já estão no inventário, elas entram na política sem você redigitar.
 
-> ⚠️ **É um ponto de partida — a responsabilidade é da sua OSC**
+> ⚠️ **É um ponto de partida — a responsabilidade é da sua organização**
 >
 > O texto usa modelos padrão de mercado e **não substitui revisão jurídica** nem garante validade legal. Por isso o padrão é **salvar como rascunho**: revise e, de preferência, submeta à **aprovação da diretoria** antes de publicar. Veja o [Aviso legal](/disclaimer/).
 
@@ -103,7 +103,7 @@ A **📚 Galeria de Modelos** traz modelos-base (políticas e cláusulas) para a
 
 > ⚠️ **Atenção**
 >
-> Os modelos são **ponto de partida de caráter geral**, não texto juridicamente validado para o seu caso. Adapte ao contexto da sua OSC e, sempre que possível, valide com apoio jurídico. Veja o [Aviso legal](/disclaimer/).
+> Os modelos são **ponto de partida de caráter geral**, não texto juridicamente validado para o seu caso. Adapte ao contexto da sua organização e, sempre que possível, valide com apoio jurídico. Veja o [Aviso legal](/disclaimer/).
 
 ## Exibir uma política em qualquer página (shortcode)
 

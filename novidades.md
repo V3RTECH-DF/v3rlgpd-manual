@@ -67,7 +67,7 @@ O **Painel** ganhou um bloco **"📰 Notícias da ANPD"** na 3ª coluna da seç�
 
 ## Versão 1.38 — Agora com formulários do Google
 
-O Verificador de Formulários passou a cobrir **Google Forms** — muito usados por OSCs para inscrições, doações e pesquisas.
+O Verificador de Formulários passou a cobrir **Google Forms** — muito usados por organizações para inscrições, doações e pesquisas.
 
 - **+ Adicionar Google Form** — cole a **URL pública** do formulário e o V3RLGPD **lê os campos automaticamente** (sem login na sua conta Google).
 - **🔍 Procurar no site** — o V3RLGPD **varre as páginas publicadas** atrás de Google Forms incorporados ou linkados e os adiciona sozinho.
@@ -116,7 +116,7 @@ Agora dá para **falar direto com quem desenvolve o V3RLGPD**, sem sair do paine
 
 O atendimento às solicitações de titulares (DSAR) ganhou mais segurança e melhores ferramentas para o Encarregado.
 
-- **Nada é concluído sem revisão** — antes, alguns pedidos (acesso, portabilidade, informação sobre compartilhamento) eram encerrados **na hora**, buscando dados **só no site**. O risco: a sua OSC pode tratar dados também no **papel, em planilhas ou em outros sistemas** — e responder "não há dados" com base apenas no site seria um **falso-negativo**. Agora **todo** pedido vai ao **Encarregado**, e o titular é avisado de que será analisado **em até 15 dias úteis**.
+- **Nada é concluído sem revisão** — antes, alguns pedidos (acesso, portabilidade, informação sobre compartilhamento) eram encerrados **na hora**, buscando dados **só no site**. O risco: a sua organização pode tratar dados também no **papel, em planilhas ou em outros sistemas** — e responder "não há dados" com base apenas no site seria um **falso-negativo**. Agora **todo** pedido vai ao **Encarregado**, e o titular é avisado de que será analisado **em até 15 dias úteis**.
 - **Declaração de escopo da organização** — em **Configurações → Organização**, você responde "A organização trata dados pessoais **fora deste site**?". Essa afirmação orienta o atendimento e habilita (ou não) a resposta automática.
 - **Insumos para o Encarregado** — ao abrir um pedido, além da busca no site, aparece um **painel com as atividades do Inventário (ROPA)** (origem, compartilhamento, transferência internacional) e um **banner de escopo** que lembra se pode haver dados fora do site.
 - **Resposta automática assistida** — quando a organização declarou tratar dados **apenas neste site** e o pedido é **informativo**, o Encarregado ganha o botão **Responder automaticamente**: o plugin monta o resultado, **envia o e-mail ao titular** (na portabilidade, com o **JSON anexado**) e marca como Concluída. Eliminação e revogação seguem **sempre manuais**.
@@ -155,7 +155,7 @@ Depois do Assistente de Inventário, agora o **Relatório de Impacto (RIPD)** ta
 - **Assistente do RIPD** — em vez de encarar um documento em branco, você responde uma **triagem** de perguntas sim/não e o assistente diz **se vale fazer o RIPD** e por quê. Em seguida, monta um **rascunho** a partir do seu Inventário: já traz a **matriz de risco pré-preenchida** (com probabilidade, severidade, mitigação e risco residual sugeridos) e a **necessidade/proporcionalidade** redigida a partir das atividades. Você revisa tudo e finaliza no editor.
 - **O parecer e a decisão continuam seus** — os campos de **Parecer do Encarregado** e **Decisão** ficam por sua conta (com exemplos de redação como referência): o assistente organiza, mas a análise final é do Encarregado.
 - **Não duplica trabalho** — se a atividade escolhida já tiver um RIPD, o assistente avisa e sugere revisar o existente.
-- **Termos de Uso** — o manual ganhou uma página de **[Termos de Uso](/termos-de-uso/)**, deixando claro que a ferramenta **ajuda, mas não substitui** o Encarregado nem garante conformidade, e que a responsabilidade é da OSC.
+- **Termos de Uso** — o manual ganhou uma página de **[Termos de Uso](/termos-de-uso/)**, deixando claro que a ferramenta **ajuda, mas não substitui** o Encarregado nem garante conformidade, e que a responsabilidade é da organização.
 - **Visual mais consistente** — botões, links e destaques de toda a interface passaram a usar as cores oficiais da identidade visual.
 
 > Em **RIPD**, botão **✨ Assistente de RIPD**. Passo a passo em [Fazer um RIPD com o Assistente](/guias/fazer-ripd-assistente/); detalhes do módulo em [RIPD](/modulos/ripd/). O assistente **ajuda** a elaborar o RIPD; **não** é parecer jurídico.
@@ -173,7 +173,7 @@ Montar o **Inventário de Tratamento (ROPA)** do zero costuma intimidar quem nã
 - **Você revisa antes de salvar** — nada é gravado sem a sua confirmação. Base legal e prazo aparecem como **sugestões a conferir** (a responsabilidade final é da organização).
 - **Nunca apaga, só acrescenta** — se você rodar o assistente de novo, ele detecta o que já existe e cria **apenas as atividades novas**.
 - **Liga seus formulários** — para atividades que vêm de formulários do site, dá para **vincular o formulário** ali mesmo, já deixando a retenção automática configurada.
-- **Cuida de crianças e adolescentes** — se a sua OSC atende menores de 18, o assistente marca os titulares corretamente, ajuda no **consentimento parental** e recomenda fazer um **RIPD** para esses tratamentos.
+- **Cuida de crianças e adolescentes** — se a sua organização atende menores de 18, o assistente marca os titulares corretamente, ajuda no **consentimento parental** e recomenda fazer um **RIPD** para esses tratamentos.
 
 > Em **Inventário (ROPA)**, botão **✨ Assistente de Inventário**. O assistente **ajuda** a montar o inventário; ele **não** substitui a análise da sua organização. Veja [Inventário (ROPA)](/modulos/inventario-ropa/#assistente-de-inventario).
 
@@ -198,15 +198,15 @@ Montar o **Inventário de Tratamento (ROPA)** do zero costuma intimidar quem nã
 
 ## Versão 1.18 — Mostre sua conformidade com o Selo
 
-- **Selo de Conformidade LGPD** — um novo componente público que permite à sua OSC **exibir o nível de conformidade no próprio site**, em **três formatos** à escolha (fita, medalha ou cartão). Use o shortcode `[v3rlgpd_selo]` na página que quiser. A partir da 1.18.1, o selo ganhou um visual refinado (medalhão metálico) e o texto "Compromisso LGPD".
+- **Selo de Conformidade LGPD** — um novo componente público que permite à sua organização **exibir o nível de conformidade no próprio site**, em **três formatos** à escolha (fita, medalha ou cartão). Use o shortcode `[v3rlgpd_selo]` na página que quiser. A partir da 1.18.1, o selo ganhou um visual refinado (medalhão metálico) e o texto "Compromisso LGPD".
 - **A aparência do selo acompanha o tema** — as cores, os cantos e a fonte do selo seguem o tema escolhido em [Configurações › Aparência](/modulos/configuracoes/#aparencia), para combinar com a identidade do seu site.
 - **Índice de Conformidade mais consistente** — Painel, Mapa de Conformidade e Primeiros Passos passaram a calcular o Índice a partir de **uma única fonte**, garantindo o mesmo número em toda a ferramenta.
 
-> O selo informa o nível de conformidade autodeclarado/verificado pela ferramenta; ele **ajuda a comunicar seu compromisso**, mas **não atesta validade jurídica** nem isenta a OSC de responsabilidade.
+> O selo informa o nível de conformidade autodeclarado/verificado pela ferramenta; ele **ajuda a comunicar seu compromisso**, mas **não atesta validade jurídica** nem isenta a organização de responsabilidade.
 
 ## Versões 1.11 a 1.17 — Conformidade com o ECA Digital
 
-Chegou o apoio ao **ECA Digital** (Lei 15.211/2025), a lei que protege crianças e adolescentes na internet — especialmente relevante para OSCs que trabalham com esse público. Veja a nova seção [ECA Digital](/eca-digital/).
+Chegou o apoio ao **ECA Digital** (Lei 15.211/2025), a lei que protege crianças e adolescentes na internet — especialmente relevante para organizações que trabalham com esse público. Veja a nova seção [ECA Digital](/eca-digital/).
 
 - **Descubra se a lei te alcança** — uma triagem rápida no [Mapa de Conformidade](/eca-digital/enquadramento/) mostra só os deveres que se aplicam ao seu caso (e avisa quando seu site, por ter controle editorial, está dispensado da verificação de idade).
 - **Consentimento dos pais** para dados de menores, com registro de prova ([saiba mais](/eca-digital/consentimento-parental/)).
@@ -232,7 +232,7 @@ Chegou o apoio ao **ECA Digital** (Lei 15.211/2025), a lei que protege crianças
 
 ## Versão 1.4 — Políticas externas e exibição sob medida
 
-- **Política por link (externa)** — agora dá para cadastrar uma política apontando para um documento que já existe (um PDF, uma página de wiki), em vez de reescrevê-la no plugin. Ela aparece na Central como um card com resumo, imagem/ícone e um botão "Ler a política completa". O número da versão é informado à mão (e mantê-lo atualizado é responsabilidade da sua OSC).
+- **Política por link (externa)** — agora dá para cadastrar uma política apontando para um documento que já existe (um PDF, uma página de wiki), em vez de reescrevê-la no plugin. Ela aparece na Central como um card com resumo, imagem/ícone e um botão "Ler a política completa". O número da versão é informado à mão (e mantê-lo atualizado é responsabilidade da sua organização).
 - **Resumo nas políticas** — políticas internas também ganharam um campo de resumo, usado quando você opta por exibir só o resumo.
 - **Opções de exibição** — você decide como as políticas aparecem: texto integral, só o resumo ou só o título; e se mostra título, link e imagem. Configure um padrão global em Configurações → Páginas & Integração ou ajuste caso a caso pelos atributos do shortcode (ex.: `[v3rlgpd_politicas modo="titulo"]`).
 - **Escolher a página da Central** — montou sua própria página da Central com os shortcodes? Agora você pode indicá-la como a página oficial, e o Índice de Conformidade e o banner de cookies passam a apontar para ela.
@@ -274,7 +274,7 @@ Veja o passo a passo em [Retenção & Expurgo](/modulos/retencao/).
 
 ## Versão 1.0 (MVP)
 
-A primeira versão do produto entrega a base da conformidade para OSCs:
+A primeira versão do produto entrega a base da conformidade para organizações:
 
 - **Painel de conformidade** com Índice (verificado + autodeclarado), indicadores de atendimentos (DSAR) e visualizações das políticas.
 - **Gestão de políticas** com versionamento, aceite por versão, editor com checklist da LGPD, **Assistente** que pré-preenche a partir do Encarregado e do inventário, e **Galeria de Modelos**.

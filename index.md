@@ -20,13 +20,13 @@ permalink: /
 </style>
 
 <div class="home-intro">
-  <p>O <strong>V3RLGPD</strong> é a ferramenta da <a href="https://rit.org.br" target="_blank" rel="noopener noreferrer">RIT — Rede de Inovação e Transformação</a> que ajuda Organizações da Sociedade Civil (OSCs) a se organizarem para a <strong>Lei Geral de Proteção de Dados (LGPD — Lei nº 13.709/2018)</strong>: publicar políticas, atender pedidos de titulares, registrar incidentes, manter o inventário de dados e acompanhar o quanto a organização está preparada. <a href="https://rit.org.br/solucoes/v3rlgpd/" target="_blank" rel="noopener noreferrer">Saiba mais sobre o V3RLGPD</a>.</p>
-  <p>Esta documentação <strong>não é só um manual de botões</strong>. Cada seção explica <em>por que</em> aquilo importa, traz os conceitos da LGPD em linguagem simples e mostra boas práticas que fazem sentido para a realidade de uma OSC. Se você acabou de chegar, comece pelos <a href="/primeiros-passos/">Primeiros Passos</a>. Se quer entender a lei antes da ferramenta, vá para <a href="/conceitos-lgpd/">Conceitos da LGPD</a>.</p>
+  <p>O <strong>V3RLGPD</strong> é a ferramenta da <a href="https://rit.org.br" target="_blank" rel="noopener noreferrer">RIT — Rede de Inovação e Transformação</a> que ajuda Organizações da Sociedade Civil (organizações) a se organizarem para a <strong>Lei Geral de Proteção de Dados (LGPD — Lei nº 13.709/2018)</strong>: publicar políticas, atender pedidos de titulares, registrar incidentes, manter o inventário de dados e acompanhar o quanto a organização está preparada. <a href="https://rit.org.br/solucoes/v3rlgpd/" target="_blank" rel="noopener noreferrer">Saiba mais sobre o V3RLGPD</a>.</p>
+  <p>Esta documentação <strong>não é só um manual de botões</strong>. Cada seção explica <em>por que</em> aquilo importa, traz os conceitos da LGPD em linguagem simples e mostra boas práticas que fazem sentido para a realidade de uma organização. Se você acabou de chegar, comece pelos <a href="/primeiros-passos/">Primeiros Passos</a>. Se quer entender a lei antes da ferramenta, vá para <a href="/conceitos-lgpd/">Conceitos da LGPD</a>.</p>
 </div>
 
 > ⚠️ **Atenção — esta ferramenta ajuda, mas não garante conformidade jurídica**
 >
-> O V3RLGPD organiza, registra e dá rastreabilidade ao seu trabalho de proteção de dados. Ele **não** substitui a análise de um advogado nem transfere para a RIT/V3RTECH a responsabilidade legal da sua OSC. Leia o <a href="/disclaimer/">Aviso legal</a> antes de usar.
+> O V3RLGPD organiza, registra e dá rastreabilidade ao seu trabalho de proteção de dados. Ele **não** substitui a análise de um advogado nem transfere para a RIT/V3RTECH a responsabilidade legal da sua organização. Leia o <a href="/disclaimer/">Aviso legal</a> antes de usar.
 
 <div class="section-title">Comece por aqui</div>
 
@@ -44,7 +44,7 @@ permalink: /
   <a class="module-card" href="/modulos/painel/">
     <div class="module-card-icon">📊</div>
     <div class="module-card-title">Painel</div>
-    <div class="module-card-desc">Índice de conformidade, indicadores e pendências da OSC</div>
+    <div class="module-card-desc">Índice de conformidade, indicadores e pendências da organização</div>
   </a>
   <a class="module-card" href="/modulos/politicas/">
     <div class="module-card-icon">📜</div>
@@ -104,14 +104,14 @@ permalink: /
   <a class="module-card" href="/modulos/configuracoes/">
     <div class="module-card-icon">⚙️</div>
     <div class="module-card-title">Configurações</div>
-    <div class="module-card-desc">Dados da OSC, encarregado, enquadramento e preferências</div>
+    <div class="module-card-desc">Dados da organização, encarregado, enquadramento e preferências</div>
   </a>
 </div>
 
 <div class="section-title">ECA Digital — proteção de crianças e adolescentes</div>
 
 <div class="home-intro">
-  <p>Se a sua OSC atende ou cadastra menores de 18 anos, há deveres específicos do <strong>ECA Digital (Lei nº 15.211/2025)</strong>: consentimento parental, privacidade por padrão, aferição de idade, canal de denúncia e atenção redobrada ao perfilamento. O V3RLGPD tem uma seção dedicada a isso.</p>
+  <p>Se a sua organização atende ou cadastra menores de 18 anos, há deveres específicos do <strong>ECA Digital (Lei nº 15.211/2025)</strong>: consentimento parental, privacidade por padrão, aferição de idade, canal de denúncia e atenção redobrada ao perfilamento. O V3RLGPD tem uma seção dedicada a isso.</p>
 </div>
 
 <div class="module-grid">
@@ -129,12 +129,12 @@ permalink: /
 
 <div class="section-title">Quer um mini-curso de LGPD?</div>
 
-Este guia foi pensado também para quem nunca estudou a LGPD. Os módulos explicam a ferramenta; as páginas de <a href="/conceitos-lgpd/">Conceitos</a> e do <a href="/passo-a-passo-conformidade/">Passo a passo da conformidade</a> explicam a lei e o caminho que sua OSC pode seguir para se preparar. Ao longo do texto você encontra três marcações recorrentes:
+Este guia foi pensado também para quem nunca estudou a LGPD. Os módulos explicam a ferramenta; as páginas de <a href="/conceitos-lgpd/">Conceitos</a> e do <a href="/passo-a-passo-conformidade/">Passo a passo da conformidade</a> explicam a lei e o caminho que sua organização pode seguir para se preparar. Ao longo do texto você encontra três marcações recorrentes:
 
 - 💡 **Por que isso importa** — o motivo por trás de cada funcionalidade ou exigência.
-- ✅ **Boas práticas** — o que costuma funcionar na rotina de uma OSC.
+- ✅ **Boas práticas** — o que costuma funcionar na rotina de uma organização.
 - ⚠️ **Atenção** — armadilhas e pontos sensíveis (especialmente os irreversíveis).
 
 > 📚 **Aprofunde com a RIT**
 >
-> A RIT oferece formação em LGPD voltada a OSCs — **gratuita para as organizações integradas à RIT**. Depois de ler este guia, capacite sua equipe: <a href="https://cursos.rit.org.br/" target="_blank" rel="noopener noreferrer">cursos.rit.org.br</a>.
+> A RIT oferece formação em LGPD voltada a organizações — **gratuita para as organizações integradas à RIT**. Depois de ler este guia, capacite sua equipe: <a href="https://cursos.rit.org.br/" target="_blank" rel="noopener noreferrer">cursos.rit.org.br</a>.

@@ -24,4 +24,4 @@ Quando o seu enquadramento indica **público menor**, a aba **Banner de Cookies*
 >
 > Em site de acesso provável por menores, mantenha apenas cookies **essenciais**. Evite tags de redes sociais, remarketing e analytics comportamental.
 
-> ⚠️ O V3RLGPD **avisa e recomenda**, mas não bloqueia automaticamente seus scripts — a decisão (e a responsabilidade) é da OSC. Não é parecer jurídico.
+> ⚠️ O V3RLGPD **avisa e recomenda**, mas não bloqueia automaticamente seus scripts — a decisão (e a responsabilidade) é da organização. Não é parecer jurídico.

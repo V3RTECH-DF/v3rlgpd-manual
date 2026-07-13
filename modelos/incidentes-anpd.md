@@ -17,7 +17,7 @@ Quando ocorre um **incidente de segurança** (vazamento, perda, acesso indevido)
 
 > 💡 **Por que isso importa**
 >
-> Diante de um incidente relevante, agir rápido e comunicar corretamente **reduz o dano** aos titulares e demonstra responsabilidade. Omitir pode agravar a situação e a responsabilização da OSC.
+> Diante de um incidente relevante, agir rápido e comunicar corretamente **reduz o dano** aos titulares e demonstra responsabilidade. Omitir pode agravar a situação e a responsabilização da organização.
 
 > ⚠️ **Atenção**
 >

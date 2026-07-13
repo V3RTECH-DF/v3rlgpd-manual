@@ -10,9 +10,9 @@ status: rascunho
 
 # Se você for aferir idade: como escolher o método
 
-> 💡 **Antes de tudo: a maioria das OSCs não precisa disso.**
+> 💡 **Antes de tudo: a maioria das organizações não precisa disso.**
 >
-> Se o seu site tem **controle editorial** (conteúdo escolhido pela própria OSC, sem automação), a **aferição de idade é dispensada** — veja o [Enquadramento](/eca-digital/enquadramento/). Esta página é para o **caso incomum** em que a sua OSC realmente vai **verificar a idade** de quem acessa (ex.: oferta de conteúdo impróprio para menores). Se não é o seu caso, pode pular.
+> Se o seu site tem **controle editorial** (conteúdo escolhido pela própria organização, sem automação), a **aferição de idade é dispensada** — veja o [Enquadramento](/eca-digital/enquadramento/). Esta página é para o **caso incomum** em que a sua organização realmente vai **verificar a idade** de quem acessa (ex.: oferta de conteúdo impróprio para menores). Se não é o seu caso, pode pular.
 
 Quando a aferição **é mesmo necessária**, a forma de fazer importa tanto quanto o fato de fazer: um método mal escolhido coleta dados demais e cria um risco novo. As orientações preliminares da ANPD apontam **seis cuidados** para escolher um método alinhado à LGPD. Use a lista abaixo como guia.
 
@@ -35,6 +35,6 @@ O V3RLGPD **não faz a aferição** (não é provedor de verificação de identi
 
 ## Se alguém contestar a idade aferida
 
-Se um adolescente ou um responsável **discordar** da idade/faixa que o sistema atribuiu, isso é um **direito do titular** — e você **não precisa de nada novo**: trate pelo fluxo de **[Atendimento ao Titular (Art. 18)](/modulos/atendimentos/)** que o V3RLGPD já oferece. A pessoa abre um pedido de **correção/revisão** e a sua OSC responde pelo painel de **Atendimentos**, como em qualquer outra solicitação.
+Se um adolescente ou um responsável **discordar** da idade/faixa que o sistema atribuiu, isso é um **direito do titular** — e você **não precisa de nada novo**: trate pelo fluxo de **[Atendimento ao Titular (Art. 18)](/modulos/atendimentos/)** que o V3RLGPD já oferece. A pessoa abre um pedido de **correção/revisão** e a sua organização responde pelo painel de **Atendimentos**, como em qualquer outra solicitação.
 
 > ⚠️ **Regulamentação ainda preliminar.** Os requisitos técnicos detalhados (transparência, segurança e interoperabilidade dos métodos de aferição) ainda serão objeto de **regulamentação específica da ANPD**. Esta orientação reflete o material **preliminar** disponível e será **atualizada** quando sair a versão definitiva. Não é parecer jurídico.

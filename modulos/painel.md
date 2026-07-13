@@ -12,7 +12,7 @@ status: publicado
 
 # Painel
 
-O **Dashboard** é a primeira tela do V3RLGPD: o cockpit onde o Encarregado vê, de relance, como anda a conformidade da OSC e o que falta fazer.
+O **Dashboard** é a primeira tela do V3RLGPD: o cockpit onde o Encarregado vê, de relance, como anda a conformidade da organização e o que falta fazer.
 
 [![Dashboard do V3RLGPD](/assets/screenshots/v3rlgpd-01-dashboard.png)](/assets/screenshots/v3rlgpd-01-dashboard.png)
 *Visão geral com Índice de Conformidade, indicadores de atendimentos e visualizações das políticas.*
@@ -46,13 +46,13 @@ Quatro números acompanham a saúde do atendimento aos titulares:
 
 - **Pendentes (No Prazo)** e **Pendentes (Atrasadas)** — quantos pedidos aguardam e se estão dentro do SLA.
 - **Concluídas** — pedidos já resolvidos.
-- **Tempo Médio de Resposta** — quanto sua OSC costuma levar.
+- **Tempo Médio de Resposta** — quanto sua organização costuma levar.
 
 Há ainda o **Ranking de Solicitações** (quais tipos de pedido mais aparecem) e as **Visualizações das Políticas** (quantas vezes o público acessou suas políticas).
 
 > 💡 **Por que isso importa**
 >
-> Esses números são ótimos para **prestar contas**: mostram a financiadores e ao conselho que a OSC atende titulares com agilidade e que suas políticas são efetivamente lidas. É accountability na prática — você demonstra cuidado com dados, não só afirma.
+> Esses números são ótimos para **prestar contas**: mostram a financiadores e ao conselho que a organização atende titulares com agilidade e que suas políticas são efetivamente lidas. É accountability na prática — você demonstra cuidado com dados, não só afirma.
 
 ## Alertas e pendências
 
@@ -73,7 +73,7 @@ Acessível pelo menu **"Mapa de Conformidade"** (ou pelo botão "Ver mapa comple
 *As três seções: o que o sistema verifica, o que você atesta e o que é responsabilidade sua fora da ferramenta.*
 
 - ✅ **Verificado pelo sistema** — o que a ferramenta confere automaticamente, com status e atalho para resolver.
-- 📝 **Você atesta** — as 4 autodeclarações sob responsabilidade da OSC (contrato com operadores, treinamento, dados sensíveis, transferência internacional). Marque **Sim / Não / Não se aplica**.
+- 📝 **Você atesta** — as 4 autodeclarações sob responsabilidade da organização (contrato com operadores, treinamento, dados sensíveis, transferência internacional). Marque **Sim / Não / Não se aplica**.
 - ⚪ **Sob sua responsabilidade** — deveres que acontecem **fora** do plugin (comunicar incidente à ANPD, avaliar o RIPD, responder a fiscalizações).
 
 ## Notícias da ANPD

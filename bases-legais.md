@@ -4,13 +4,13 @@ nav_order: 4
 permalink: /bases-legais/
 ---
 
-# Bases legais da LGPD — com exemplos para a sua OSC
+# Bases legais da LGPD — com exemplos para a sua organização
 
 Toda vez que sua organização trata um dado pessoal, precisa de um **motivo previsto na lei** para isso. Esse motivo é a **base legal**. Sem base legal, o tratamento é irregular — mesmo que bem-intencionado. Esta página explica cada uma em linguagem de gente e, principalmente, dá **exemplos** para você identificar qual usar em cada caso.
 
 > 💡 **Por que isso importa**
 >
-> Escolher a base legal é a decisão que mais confunde — e a que mais protege a sua OSC quando bem feita. A boa notícia: na prática, a maioria das atividades de uma OSC cai em **três ou quatro** bases. Leia os exemplos abaixo e você vai reconhecer as suas.
+> Escolher a base legal é a decisão que mais confunde — e a que mais protege a sua organização quando bem feita. A boa notícia: na prática, a maioria das atividades de uma organização cai em **três ou quatro** bases. Leia os exemplos abaixo e você vai reconhecer as suas.
 
 > ⚠️ **Atenção — a base mais fácil nem sempre é a certa**
 >
@@ -20,15 +20,15 @@ Toda vez que sua organização trata um dado pessoal, precisa de um **motivo pre
 
 ### 1. Consentimento
 A pessoa **autorizou**, de forma livre, informada e específica, aquele uso.
-> 📖 **Exemplo numa OSC:** alguém marca "aceito receber a newsletter" ao se inscrever no site. Use quando o tratamento **não é obrigatório** para a pessoa e ela pode dizer não sem prejuízo. Lembre: ela pode **revogar** depois.
+> 📖 **Exemplo numa organização:** alguém marca "aceito receber a newsletter" ao se inscrever no site. Use quando o tratamento **não é obrigatório** para a pessoa e ela pode dizer não sem prejuízo. Lembre: ela pode **revogar** depois.
 
 ### 2. Cumprimento de obrigação legal ou regulatória
-A **lei obriga** sua OSC a tratar/guardar aquele dado.
+A **lei obriga** sua organização a tratar/guardar aquele dado.
 > 📖 **Exemplo:** guardar documentos fiscais e trabalhistas, prestar contas a um órgão público, manter registros exigidos por lei. Aqui o consentimento **não se aplica** — você guarda porque a lei manda, independentemente da vontade da pessoa.
 
 ### 3. Execução de políticas públicas
 Tratamento necessário para executar uma **política pública** prevista em lei ou em contrato/convênio com o poder público.
-> 📖 **Exemplo:** uma OSC que executa um programa social conveniado com a prefeitura e precisa cadastrar os beneficiários conforme o convênio.
+> 📖 **Exemplo:** uma organização que executa um programa social conveniado com a prefeitura e precisa cadastrar os beneficiários conforme o convênio.
 
 ### 4. Realização de estudos por órgão de pesquisa
 Tratamento para **pesquisa**, sempre que possível com dados **anonimizados**.
@@ -44,11 +44,11 @@ Dados necessários para **defender direitos** em processo judicial, administrati
 
 ### 7. Proteção da vida ou da incolumidade física
 Para proteger a **vida ou a segurança física** da pessoa ou de terceiros.
-> 📖 **Exemplo:** uma OSC de assistência que precisa acionar atendimento de emergência para um beneficiário.
+> 📖 **Exemplo:** uma organização de assistência que precisa acionar atendimento de emergência para um beneficiário.
 
 ### 8. Tutela da saúde
 Tratamento por **profissionais ou serviços de saúde** para cuidar da saúde da pessoa.
-> 📖 **Exemplo:** uma OSC que opera um serviço de saúde e mantém dados clínicos dos atendidos (cuidado: aqui quase sempre há **dado sensível** — veja abaixo).
+> 📖 **Exemplo:** uma organização que opera um serviço de saúde e mantém dados clínicos dos atendidos (cuidado: aqui quase sempre há **dado sensível** — veja abaixo).
 
 ### 9. Legítimo interesse
 Um uso **razoável e esperado** pela pessoa, que não fere seus direitos — e que você **documenta** o porquê.
@@ -56,13 +56,13 @@ Um uso **razoável e esperado** pela pessoa, que não fere seus direitos — e q
 
 ### 10. Proteção do crédito
 Tratamento para proteção do crédito (análise/cobrança).
-> 📖 **Exemplo:** menos comum em OSCs; aparece em relações financeiras específicas.
+> 📖 **Exemplo:** menos comum em organizações; aparece em relações financeiras específicas.
 
 ## E os dados sensíveis?
 
 Dados **sensíveis** (saúde, religião, origem racial/étnica, opinião política, filiação sindical, vida sexual, biometria, genética) têm **bases próprias e mais restritas** (Art. 11) — em geral **consentimento específico e destacado** ou hipóteses como tutela da saúde e proteção da vida.
 
-> ⚠️ **Muitas OSCs tratam dados sensíveis sem perceber** — um projeto de saúde, de assistência a um grupo religioso ou a uma minoria, por exemplo. Se é o seu caso, trate esse ponto com cuidado redobrado e, de preferência, com apoio jurídico.
+> ⚠️ **Muitas organizações tratam dados sensíveis sem perceber** — um projeto de saúde, de assistência a um grupo religioso ou a uma minoria, por exemplo. Se é o seu caso, trate esse ponto com cuidado redobrado e, de preferência, com apoio jurídico.
 
 ## Como escolher, na prática
 

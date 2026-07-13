@@ -9,13 +9,13 @@ status: rascunho
 
 # Cláusulas para contratos com operadores (Art. 39)
 
-Quando uma empresa trata dados pessoais **em nome da sua OSC**, seguindo as instruções dela, essa empresa é um **operador**. Exemplos comuns numa OSC: a plataforma de e-mail marketing, a hospedagem do site, o serviço de formulários, a ferramenta de nuvem onde ficam planilhas com nomes e contatos, o sistema de doações.
+Quando uma empresa trata dados pessoais **em nome da sua organização**, seguindo as instruções dela, essa empresa é um **operador**. Exemplos comuns numa organização: a plataforma de e-mail marketing, a hospedagem do site, o serviço de formulários, a ferramenta de nuvem onde ficam planilhas com nomes e contatos, o sistema de doações.
 
-A LGPD (Art. 39) determina que o operador trate os dados **conforme as instruções** do controlador (a sua OSC). Na prática, isso se materializa em **cláusulas de proteção de dados** no contrato (ou num aditivo, às vezes chamado de DPA — *Data Processing Agreement*).
+A LGPD (Art. 39) determina que o operador trate os dados **conforme as instruções** do controlador (a sua organização). Na prática, isso se materializa em **cláusulas de proteção de dados** no contrato (ou num aditivo, às vezes chamado de DPA — *Data Processing Agreement*).
 
 > 💡 **Por que isso importa**
 >
-> Se um fornecedor seu vazar ou usar indevidamente os dados que você confiou a ele, a sua OSC pode responder junto. Ter cláusulas claras **distribui responsabilidades**, obriga o fornecedor a um padrão mínimo de segurança e é uma evidência de que você agiu com diligência (*accountability*, Art. 6, X).
+> Se um fornecedor seu vazar ou usar indevidamente os dados que você confiou a ele, a sua organização pode responder junto. Ter cláusulas claras **distribui responsabilidades**, obriga o fornecedor a um padrão mínimo de segurança e é uma evidência de que você agiu com diligência (*accountability*, Art. 6, X).
 
 > ⚠️ **Atenção**
 >

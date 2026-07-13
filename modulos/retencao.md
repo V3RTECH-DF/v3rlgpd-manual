@@ -19,7 +19,7 @@ A LGPD diz que dado pessoal **não se guarda para sempre**: ele deve ser elimina
 
 > ⚖️ **Automação de apoio, não substituto jurídico**
 >
-> O plugin executa o que **você** configura. Quem decide *quais* dados entram na retenção e *por quanto tempo* é a OSC, conforme a base legal e a finalidade de cada tratamento. O V3RLGPD **ajuda** a cumprir a regra e a documentar — não garante validade jurídica nem isenta a OSC de responsabilidade. Veja o [Aviso legal](/disclaimer/).
+> O plugin executa o que **você** configura. Quem decide *quais* dados entram na retenção e *por quanto tempo* é a organização, conforme a base legal e a finalidade de cada tratamento. O V3RLGPD **ajuda** a cumprir a regra e a documentar — não garante validade jurídica nem isenta a organização de responsabilidade. Veja o [Aviso legal](/disclaimer/).
 
 ## Como funciona, em uma frase
 
@@ -120,7 +120,7 @@ Quando um atendimento do tipo **"Revogação de Consentimento"** é concluído, 
 
 - Seus dados **não ficam guardados indefinidamente**: há um prazo, e ao fim dele eles deixam de identificar você.
 - Quando você **revoga um consentimento**, isso conta — passa a valer um prazo para que esses dados sejam anonimizados.
-- A OSC mantém apenas a **prova de que cumpriu a regra**, sem manter os dados que identificam você.
+- A organização mantém apenas a **prova de que cumpriu a regra**, sem manter os dados que identificam você.
 
 ## Perguntas frequentes
 
@@ -131,7 +131,7 @@ Não. Há sempre uma **janela de aviso** (7 dias por padrão) antes da ação. N
 Não por acidente: **nada entra na retenção automática sem você ligar** a atividade explicitamente. Dados com obrigação legal de guarda (fiscal, contábil) só são expurgados se você optar por isso — e a recomendação é **não** ligar a retenção neles.
 
 **Anonimizar é o mesmo que apagar?**
-Não. Anonimizar **remove o que identifica** a pessoa, mas pode **preservar a prova** de que o tratamento existiu e foi encerrado no prazo. É o recomendado pela LGPD para conciliar o direito do titular com a *accountability* da OSC.
+Não. Anonimizar **remove o que identifica** a pessoa, mas pode **preservar a prova** de que o tratamento existiu e foi encerrado no prazo. É o recomendado pela LGPD para conciliar o direito do titular com a *accountability* da organização.
 
 **E se o sistema externo não souber anonimizar?**
 Para entradas de plugins de terceiros que só permitem **deletar**, a remoção da entrada **é** a ação de retenção. O V3RLGPD guarda apenas uma referência **sem dado pessoal** como comprovante.

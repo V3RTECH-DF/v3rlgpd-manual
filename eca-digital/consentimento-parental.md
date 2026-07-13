@@ -12,7 +12,7 @@ status: rascunho
 
 # Consentimento dos pais ou responsável
 
-Quando a sua OSC trata **dados de crianças**, a LGPD (art. 14) exige, em regra, o **consentimento de um dos pais ou responsável**, sempre no **melhor interesse** da criança. O ECA Digital reforça esse cuidado.
+Quando a sua organização trata **dados de crianças**, a LGPD (art. 14) exige, em regra, o **consentimento de um dos pais ou responsável**, sempre no **melhor interesse** da criança. O ECA Digital reforça esse cuidado.
 
 ## Como funciona no V3RLGPD
 

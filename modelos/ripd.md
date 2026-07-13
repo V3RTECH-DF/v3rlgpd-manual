@@ -13,7 +13,7 @@ O **RIPD** (também chamado de DPIA) é um documento que descreve os **tratament
 
 > 💡 **Por que isso importa**
 >
-> Mais do que um documento para a ANPD, o RIPD é um **exercício de pensar os riscos antes** de eles acontecerem. Para tratamentos delicados, é uma das melhores evidências de diligência da OSC.
+> Mais do que um documento para a ANPD, o RIPD é um **exercício de pensar os riscos antes** de eles acontecerem. Para tratamentos delicados, é uma das melhores evidências de diligência da organização.
 
 > ⚠️ **Atenção**
 >
@@ -21,7 +21,7 @@ O **RIPD** (também chamado de DPIA) é um documento que descreve os **tratament
 
 ## Quando considerar um RIPD
 
-Para a maioria das OSCs não é obrigatório de rotina, mas **vale a pena** quando o tratamento envolve, por exemplo:
+Para a maioria das organizações não é obrigatório de rotina, mas **vale a pena** quando o tratamento envolve, por exemplo:
 
 - **Dados sensíveis** em escala (saúde, religião, etc.).
 - **Grupos vulneráveis** (crianças e adolescentes, pessoas em situação de risco).

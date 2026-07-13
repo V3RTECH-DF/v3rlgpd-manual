@@ -12,7 +12,7 @@ status: publicado
 
 # Inventário (ROPA)
 
-O **Inventário de Tratamento** — também chamado de **ROPA**, sigla de *Registro das Operações de Tratamento* (em inglês, *Records of Processing Activities*) — é o registro de **todas as operações** em que sua OSC trata dados pessoais. É a espinha dorsal da conformidade.
+O **Inventário de Tratamento** — também chamado de **ROPA**, sigla de *Registro das Operações de Tratamento* (em inglês, *Records of Processing Activities*) — é o registro de **todas as operações** em que sua organização trata dados pessoais. É a espinha dorsal da conformidade.
 
 [![Inventário ROPA](/assets/screenshots/v3rlgpd-06-ropa.png)](/assets/screenshots/v3rlgpd-06-ropa.png)
 *Cada registro descreve a atividade, os dados pessoais, a base legal e se há transferência internacional.*
@@ -27,7 +27,7 @@ Nunca fez um inventário e não sabe por onde começar? Use o **✨ Assistente d
 Como funciona, em poucos passos:
 
 1. **Perguntas em linguagem leiga** — "envia newsletter?", "recebe doações?", "cadastra voluntários?", "vende online?"… A cada **sim**, o assistente seleciona uma atividade pronta, com finalidade, **base legal sugerida**, dados coletados e prazo de retenção.
-2. **Crianças e adolescentes** — há uma pergunta no topo: se a sua OSC atende menores de 18, as atividades pertinentes marcam os titulares como "Crianças e adolescentes" e o assistente orienta sobre **consentimento parental** e **RIPD**.
+2. **Crianças e adolescentes** — há uma pergunta no topo: se a sua organização atende menores de 18, as atividades pertinentes marcam os titulares como "Crianças e adolescentes" e o assistente orienta sobre **consentimento parental** e **RIPD**.
 3. **Vínculo com formulários** — para atividades que vêm de formulários do site, você pode escolher **qual formulário alimenta a atividade** ali mesmo (já deixando a retenção automática configurada). Veja [Mapeamento de Formulários](/modulos/inventario-ropa/) e [Retenção](/modulos/retencao/).
 4. **Revisão antes de salvar** — o assistente mostra os rascunhos para você **editar, remover ou confirmar**. Base legal e prazo são **sugestões a conferir** — a definição final é responsabilidade da sua organização. Nada é gravado sem o seu "Criar registros".
 5. **Rodar de novo é seguro** — o assistente **nunca apaga** o que você já tem; ao rodar de novo, ele identifica as atividades existentes e cria **apenas as novas**.
@@ -39,14 +39,14 @@ Como funciona, em poucos passos:
 
 ## O que registrar em cada atividade
 
-- **Atividade** — o que sua OSC faz (ex.: "Cadastro de voluntários", "Newsletter de doadores").
+- **Atividade** — o que sua organização faz (ex.: "Cadastro de voluntários", "Newsletter de doadores").
 - **Dados Pessoais** — quais dados são coletados (nome, CPF, telefone, e-mail…).
 - **Base Legal** — o fundamento que autoriza o tratamento (execução de contrato, consentimento, obrigação legal…). Veja [Conceitos](/conceitos-lgpd/#as-bases-legais-art-7º-e-11).
 - **Transferência Internacional** — se os dados saem do Brasil (ex.: um serviço hospedado no exterior).
 
 > 💡 **Por que isso importa**
 >
-> O inventário é o documento que **mais** trabalha a seu favor. É dele que sai a resposta a "quais dados você tem sobre mim?", a justificativa de um tratamento perante a ANPD e o conteúdo automático da Política de Privacidade. **Se sua OSC fizer só uma coisa da LGPD, que seja manter o inventário.**
+> O inventário é o documento que **mais** trabalha a seu favor. É dele que sai a resposta a "quais dados você tem sobre mim?", a justificativa de um tratamento perante a ANPD e o conteúdo automático da Política de Privacidade. **Se sua organização fizer só uma coisa da LGPD, que seja manter o inventário.**
 
 ## Modele por finalidade, não por formulário
 
@@ -54,7 +54,7 @@ Este é o segredo para o inventário **não virar um monstro**. O ROPA registra 
 
 > 💡 **Por que isso importa**
 >
-> Uma OSC com 20 formulários no site não precisa de 20 registros no inventário. **Vários formulários que coletam os mesmos dados para a mesma finalidade são uma única atividade** — logo, **um único registro**. Isso é, ao mesmo tempo, o jeito **correto** de fazer o ROPA e o que torna o trabalho viável.
+> Uma organização com 20 formulários no site não precisa de 20 registros no inventário. **Vários formulários que coletam os mesmos dados para a mesma finalidade são uma única atividade** — logo, **um único registro**. Isso é, ao mesmo tempo, o jeito **correto** de fazer o ROPA e o que torna o trabalho viável.
 
 > 📖 **Exemplo (grupo escoteiro)**
 >

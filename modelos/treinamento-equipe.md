@@ -9,7 +9,7 @@ status: rascunho
 
 # Treinamento da equipe (Art. 6, X)
 
-A maioria dos vazamentos de dados não vem de hackers — vem de **erro humano**: um e-mail enviado para a lista errada, uma planilha compartilhada sem querer, uma senha fraca. Orientar quem mexe com dados na sua OSC é uma das medidas mais baratas e eficazes de proteção, e é parte do princípio da **responsabilização** (Art. 6, X) e das boas práticas de governança (Art. 50).
+A maioria dos vazamentos de dados não vem de hackers — vem de **erro humano**: um e-mail enviado para a lista errada, uma planilha compartilhada sem querer, uma senha fraca. Orientar quem mexe com dados na sua organização é uma das medidas mais baratas e eficazes de proteção, e é parte do princípio da **responsabilização** (Art. 6, X) e das boas práticas de governança (Art. 50).
 
 > 💡 **Por que isso importa**
 >
@@ -37,14 +37,14 @@ O curso cobre, em linguagem acessível:
 
 Se preferir conduzir uma orientação interna — sozinha ou somada ao curso —, use este roteiro de referência, adaptado ao tamanho e à realidade da sua organização (veja o [Aviso legal](/disclaimer/)):
 
-Cubra, em linguagem simples, com exemplos do dia a dia da OSC:
+Cubra, em linguagem simples, com exemplos do dia a dia da organização:
 
 1. **O que são dados pessoais** e dados sensíveis (e por que merecem cuidado).
 2. **Os princípios** que guiam o trabalho: usar só o necessário, para a finalidade informada, com transparência.
 3. **Como tratar um pedido de titular** (alguém que quer ver, corrigir ou apagar os próprios dados) — e a quem encaminhar (o Encarregado).
 4. **Higiene de segurança**: senhas fortes e únicas, não compartilhar logins, cuidado com e-mails (phishing), bloquear a tela, atenção ao enviar para listas.
 5. **O que fazer diante de um incidente** (vazamento, perda, acesso indevido): avisar o Encarregado **imediatamente**, não tentar esconder.
-6. **Quem é o Encarregado** da sua OSC e como falar com ele.
+6. **Quem é o Encarregado** da sua organização e como falar com ele.
 
 ## Frequência e registro
 

@@ -38,7 +38,7 @@ O **RIPD** (Relatório de Impacto à Proteção de Dados) documenta os riscos de
    *Cada risco vem com probabilidade, severidade, mitigação e risco residual sugeridos — todos editáveis.*
 
 5. **Preencha necessidade e proporcionalidade.** Descreva por que o tratamento é necessário e proporcional à finalidade.
-6. **Registre o parecer e a decisão do Encarregado.** Esta é a parte que **só o Encarregado decide**: o parecer técnico e a decisão final (prosseguir, ajustar, não prosseguir) são responsabilidade da OSC, não do assistente.
+6. **Registre o parecer e a decisão do Encarregado.** Esta é a parte que **só o Encarregado decide**: o parecer técnico e a decisão final (prosseguir, ajustar, não prosseguir) são responsabilidade da organização, não do assistente.
 7. **Gere o rascunho e finalize no editor.** O assistente entrega um **rascunho** que abre no editor de RIPD. Use **Salvar Rascunho** para guardar sem congelar, ou **Finalizar Versão** para congelar a versão — com a data e o retrato do ROPA daquele momento. Depois de finalizar, você pode **Imprimir / Exportar PDF** e consultar o **histórico de versões**.
 
    [![Editor do RIPD com o rascunho gerado](/assets/ripd-06-assistente-editor.png)](/assets/ripd-06-assistente-editor.png)
@@ -46,7 +46,7 @@ O **RIPD** (Relatório de Impacto à Proteção de Dados) documenta os riscos de
 
 > 💡 **Por que isso importa**
 >
-> O RIPD é a melhor evidência de que a OSC **pensou os riscos antes**. As versões congeladas servem de prova de diligência ao longo do tempo. Editar um RIPD finalizado cria um **novo rascunho**, preservando a versão anterior.
+> O RIPD é a melhor evidência de que a organização **pensou os riscos antes**. As versões congeladas servem de prova de diligência ao longo do tempo. Editar um RIPD finalizado cria um **novo rascunho**, preservando a versão anterior.
 
 > ⚠️ **Quando já existe um RIPD para a atividade**
 >
@@ -54,4 +54,4 @@ O **RIPD** (Relatório de Impacto à Proteção de Dados) documenta os riscos de
 
 > ✅ **Boas práticas**
 >
-> Trate o que o assistente entrega como **ponto de partida para a análise do Encarregado**, não como conclusão. Revise cada risco, ajuste a matriz à realidade da sua OSC e registre um parecer próprio antes de finalizar a versão.
+> Trate o que o assistente entrega como **ponto de partida para a análise do Encarregado**, não como conclusão. Revise cada risco, ajuste a matriz à realidade da sua organização e registre um parecer próprio antes de finalizar a versão.

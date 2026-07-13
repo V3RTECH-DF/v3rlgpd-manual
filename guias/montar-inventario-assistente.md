@@ -12,7 +12,7 @@ status: publicado
 
 # Montar o inventário com o Assistente
 
-Nunca fez um inventário e não sabe por onde começar? O **Assistente de Inventário** monta um rascunho do seu ROPA a partir de perguntas simples. Você responde "sim" ou "não" sobre o que a sua OSC faz, e o assistente prepara as atividades para você revisar.
+Nunca fez um inventário e não sabe por onde começar? O **Assistente de Inventário** monta um rascunho do seu ROPA a partir de perguntas simples. Você responde "sim" ou "não" sobre o que a sua organização faz, e o assistente prepara as atividades para você revisar.
 
 > 💡 **Por que isso importa**
 >
@@ -24,12 +24,12 @@ Nunca fez um inventário e não sabe por onde começar? O **Assistente de Invent
 ## Quando usar
 
 - Você está **começando o inventário do zero** e quer um ponto de partida.
-- A OSC mudou (nova campanha, novo sistema, novo tipo de coleta) e você quer **acrescentar atividades** sem refazer tudo.
+- A organização mudou (nova campanha, novo sistema, novo tipo de coleta) e você quer **acrescentar atividades** sem refazer tudo.
 
 ## Passo a passo
 
 1. **Abra o Inventário** no menu **V3RLGPD → Inventário (ROPA)** e clique em **✨ Assistente de Inventário** (botão no topo da tela).
-2. **Responda à pergunta sobre menores de idade.** Logo no início, o assistente pergunta se a sua OSC atende **crianças e adolescentes** (menores de 18). A resposta orienta o restante: as atividades pertinentes marcam os titulares como "Crianças e adolescentes" e o assistente passa a orientar sobre **consentimento parental** e **RIPD**.
+2. **Responda à pergunta sobre menores de idade.** Logo no início, o assistente pergunta se a sua organização atende **crianças e adolescentes** (menores de 18). A resposta orienta o restante: as atividades pertinentes marcam os titulares como "Crianças e adolescentes" e o assistente passa a orientar sobre **consentimento parental** e **RIPD**.
 3. **Responda às perguntas em linguagem leiga.** São perguntas do dia a dia: "envia newsletter?", "recebe doações?", "cadastra voluntários?", "vende online?"… A cada **sim**, o assistente seleciona uma atividade pronta — já com finalidade, **base legal sugerida**, dados coletados e prazo de retenção.
 
    [![Perguntas do assistente](/assets/screenshots/v3rlgpd-35-assistente-perguntas.png)](/assets/screenshots/v3rlgpd-35-assistente-perguntas.png)
@@ -46,7 +46,7 @@ Nunca fez um inventário e não sabe por onde começar? O **Assistente de Invent
 
 > ✅ **Boas práticas**
 >
-> Rodar o assistente **de novo é seguro**: ele **nunca apaga** o que você já tem. Ao rodar outra vez, identifica as atividades existentes e cria **apenas as novas**. Use isso a seu favor — comece com o básico e volte ao assistente sempre que a OSC mudar.
+> Rodar o assistente **de novo é seguro**: ele **nunca apaga** o que você já tem. Ao rodar outra vez, identifica as atividades existentes e cria **apenas as novas**. Use isso a seu favor — comece com o básico e volte ao assistente sempre que a organização mudar.
 
 > ⚠️ **Atenção**
 >

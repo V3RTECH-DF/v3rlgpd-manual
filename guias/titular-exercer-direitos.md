@@ -13,7 +13,7 @@ status: publicado
 
 # Como exercer seus direitos (para o titular)
 
-Esta página é para **você, titular** — a pessoa cujos dados uma OSC trata. Veja como pedir acesso, correção, exclusão e outros direitos garantidos pela LGPD.
+Esta página é para **você, titular** — a pessoa cujos dados uma organização trata. Veja como pedir acesso, correção, exclusão e outros direitos garantidos pela LGPD.
 
 [![Formulário de exercício de direitos](/assets/screenshots/v3rlgpd-22-dsar-form.png)](/assets/screenshots/v3rlgpd-22-dsar-form.png)
 *A Central de Privacidade da organização, com o formulário de direitos.*

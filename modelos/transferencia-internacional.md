@@ -9,7 +9,7 @@ status: rascunho
 
 # Transferência internacional de dados (Art. 33)
 
-Acontece **transferência internacional** sempre que dados pessoais saem do Brasil — e isso é muito mais comum do que parece. Se a sua OSC usa **e-mail, planilhas na nuvem, formulários ou ferramentas de marketing de empresas estrangeiras**, é provável que parte dos dados esteja em servidores fora do país.
+Acontece **transferência internacional** sempre que dados pessoais saem do Brasil — e isso é muito mais comum do que parece. Se a sua organização usa **e-mail, planilhas na nuvem, formulários ou ferramentas de marketing de empresas estrangeiras**, é provável que parte dos dados esteja em servidores fora do país.
 
 > 💡 **Por que isso importa**
 >

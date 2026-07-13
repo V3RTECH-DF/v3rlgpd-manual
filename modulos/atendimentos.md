@@ -12,7 +12,7 @@ status: publicado
 
 # Atendimentos (DSAR)
 
-Aqui chegam os **pedidos dos titulares** sobre os próprios dados — o que a lei chama de direitos do Art. 18 e o mercado chama de *DSAR* (*Data Subject Access Request*). É um dos momentos mais importantes da LGPD: a hora de responder a quem confiou seus dados à sua OSC.
+Aqui chegam os **pedidos dos titulares** sobre os próprios dados — o que a lei chama de direitos do Art. 18 e o mercado chama de *DSAR* (*Data Subject Access Request*). É um dos momentos mais importantes da LGPD: a hora de responder a quem confiou seus dados à sua organização.
 
 [![Lista de atendimentos](/assets/screenshots/v3rlgpd-04-dsar.png)](/assets/screenshots/v3rlgpd-04-dsar.png)
 *Cada pedido mostra e-mail, tipo, data-limite (SLA) e status. "Ver / Executar" abre a execução assistida.*
@@ -35,7 +35,7 @@ Nenhum pedido é encerrado **automaticamente, sem revisão**. Mesmo os tipos mai
 
 > ⚠️ **Por que mudou**
 >
-> Antes, alguns pedidos eram concluídos na hora buscando dados **só no site**. O problema: o plugin enxerga o site, mas a sua OSC pode tratar dados também **no papel, em planilhas ou em outros sistemas**. Responder "não há dados" baseado apenas no site seria um **falso-negativo** — uma resposta definitiva que pode estar errada. Por isso, quem dá a palavra final é sempre o Encarregado.
+> Antes, alguns pedidos eram concluídos na hora buscando dados **só no site**. O problema: o plugin enxerga o site, mas a sua organização pode tratar dados também **no papel, em planilhas ou em outros sistemas**. Responder "não há dados" baseado apenas no site seria um **falso-negativo** — uma resposta definitiva que pode estar errada. Por isso, quem dá a palavra final é sempre o Encarregado.
 
 ## A declaração de escopo da organização
 
@@ -47,7 +47,7 @@ Em **Configurações → Organização** há uma pergunta que orienta o atendime
 - **Não — tratamos dados apenas neste site:** o Encarregado ganha a opção de **responder automaticamente** os pedidos informativos (veja abaixo), porque, nesse caso, o site é todo o escopo de tratamento.
 - **Sim — também tratamos dados fora do site** *(ou "Não informado")*: o plugin **não** oferece a resposta automática; ele lembra que pode haver dados fora do site e pede que você **revise antes de responder**.
 
-> 💡 A declaração é uma afirmação **sua**, no nível da organização — é ela que torna seguro responder com base apenas no site. Mantenha-a coerente com a realidade da sua OSC.
+> 💡 A declaração é uma afirmação **sua**, no nível da organização — é ela que torna seguro responder com base apenas no site. Mantenha-a coerente com a realidade da sua organização.
 
 ## Insumos para responder: o painel do Inventário (ROPA)
 

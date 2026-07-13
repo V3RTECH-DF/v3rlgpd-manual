@@ -26,6 +26,6 @@ Coloque o shortcode `[v3rlgpd_denuncia]` numa página pública. Ele exibe um for
 Em **Denúncias**, o encarregado vê as denúncias recebidas, abre cada uma e **muda o status** (Recebida → Em análise → Conteúdo removido / Improcedente), registrando a **justificativa**.
 <!-- screenshot: den-02 — triagem da denúncia + aviso do art. 30 -->
 
-Ao marcar **Conteúdo removido**, o sistema mostra um **lembrete do art. 30**: a OSC deve **notificar o autor** do conteúdo e abrir **prazo de recurso**.
+Ao marcar **Conteúdo removido**, o sistema mostra um **lembrete do art. 30**: a organização deve **notificar o autor** do conteúdo e abrir **prazo de recurso**.
 
 > ⚠️ A **retirada** do conteúdo acontece no seu site/CMS — o V3RLGPD **registra e orienta** a denúncia, não remove o conteúdo automaticamente. Não é parecer jurídico.

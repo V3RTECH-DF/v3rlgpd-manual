@@ -27,7 +27,7 @@ Acessível pelo botão **Exportar Relatório** no [Painel](/modulos/painel/), o 
 
 > 💡 **Por que isso importa**
 >
-> Financiadores e conselhos pedem cada vez mais evidência de cuidado com dados. Um relatório de uma página, com o cabeçalho da sua OSC, transforma trabalho invisível em **prova concreta** de governança — ótimo para captação e para a assembleia.
+> Financiadores e conselhos pedem cada vez mais evidência de cuidado com dados. Um relatório de uma página, com o cabeçalho da sua organização, transforma trabalho invisível em **prova concreta** de governança — ótimo para captação e para a assembleia.
 
 > ⚠️ **Atenção**
 >
@@ -46,13 +46,13 @@ Em **Configurações → Saída de Dados**, o botão **Gerar Arquivo de Backup (
 
 > ✅ **Boas práticas**
 >
-> Guarde um backup periódico em local seguro. Além de proteção contra perdas, ele dá **portabilidade**: se um dia sua OSC mudar de sistema, leva os dados consigo, num formato aberto.
+> Guarde um backup periódico em local seguro. Além de proteção contra perdas, ele dá **portabilidade**: se um dia sua organização mudar de sistema, leva os dados consigo, num formato aberto.
 
 > 💡 O backup abre em nova aba e baixa o ZIP — você não perde a tela em que estava.
 
 ## Integração via Webhooks
 
-Em **Configurações → Webhooks**, sua OSC pode conectar o V3RLGPD a ferramentas de automação (como **n8n** e **Zapier**). Eventos essenciais — nova solicitação de titular, alteração/aceite de política, incidente, consentimento — disparam um webhook para o endereço que você configurar.
+Em **Configurações → Webhooks**, sua organização pode conectar o V3RLGPD a ferramentas de automação (como **n8n** e **Zapier**). Eventos essenciais — nova solicitação de titular, alteração/aceite de política, incidente, consentimento — disparam um webhook para o endereço que você configurar.
 
 [![Configuração de Webhooks](/assets/screenshots/v3rlgpd-08c-settings-webhooks.png)](/assets/screenshots/v3rlgpd-08c-settings-webhooks.png)
 *Configurações → Webhooks.*

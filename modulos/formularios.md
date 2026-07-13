@@ -23,7 +23,7 @@ O item **Verificador de Formulários** do menu faz duas coisas: **analisa os cam
 
 ## Por que verificar os formulários
 
-É comum uma OSC acumular formulários no site — alguns antigos, anteriores à LGPD — que coletam dados pessoais **sem consentimento**, ficam **fora do inventário** ou tratam dados de **crianças/adolescentes** sem o cuidado devido. O verificador ajuda você a **encontrar esses casos** para tratá-los.
+É comum uma organização acumular formulários no site — alguns antigos, anteriores à LGPD — que coletam dados pessoais **sem consentimento**, ficam **fora do inventário** ou tratam dados de **crianças/adolescentes** sem o cuidado devido. O verificador ajuda você a **encontrar esses casos** para tratá-los.
 
 > ⚠️ **A ferramenta aponta, não corrige — e é consultiva**
 >
@@ -86,7 +86,7 @@ Quando o relatório aponta **Fora do Inventário (ROPA)** e **ainda não existe*
 
 ## Formulários do Google (Google Forms)
 
-Muitas OSCs usam **Google Forms** para inscrições, doações e pesquisas. Como eles ficam **fora do WordPress**, o V3RLGPD precisa que você os **aponte** — e então os trata como qualquer outro formulário: verifica a conformidade e ajuda a montar o Inventário (ROPA).
+Muitas organizações usam **Google Forms** para inscrições, doações e pesquisas. Como eles ficam **fora do WordPress**, o V3RLGPD precisa que você os **aponte** — e então os trata como qualquer outro formulário: verifica a conformidade e ajuda a montar o Inventário (ROPA).
 
 [![Google Form no Verificador](/assets/screenshots/v3rlgpd-39-google-forms.png)](/assets/screenshots/v3rlgpd-39-google-forms.png)
 *Um Google Form aparece na lista com o selo "Externo (Google)", o aviso sobre retenção e as ações próprias (abrir, reler, editar campos, remover).*

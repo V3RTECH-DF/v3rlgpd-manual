@@ -56,6 +56,6 @@ Prefere montar do zero, sem o assistente? O editor manual segue disponível:
 
 > 💡 **Por que isso importa**
 >
-> O RIPD é a melhor evidência de que a OSC **pensou os riscos antes**. As versões congeladas servem de prova de diligência ao longo do tempo.
+> O RIPD é a melhor evidência de que a organização **pensou os riscos antes**. As versões congeladas servem de prova de diligência ao longo do tempo.
 
-> ⚠️ O V3RLGPD estrutura o RIPD; o conteúdo e a decisão são da OSC. Não é parecer jurídico.
+> ⚠️ O V3RLGPD estrutura o RIPD; o conteúdo e a decisão são da organização. Não é parecer jurídico.

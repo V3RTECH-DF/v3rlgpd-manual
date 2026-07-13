@@ -12,15 +12,15 @@ status: publicado
 
 # Configurar a proteção de crianças e adolescentes (ECA Digital)
 
-Se a sua OSC trabalha com **crianças e adolescentes** — projetos sociais, esporte de base, oficinas, programas de juventude — ou se o seu site tem **probabilidade real** de ser acessado por menores de 18 anos, o **ECA Digital** (Lei nº 15.211/2025) cria deveres extras de proteção. Este guia mostra, na ordem, o que fazer no V3RLGPD para dar conta deles, em linguagem simples.
+Se a sua organização trabalha com **crianças e adolescentes** — projetos sociais, esporte de base, oficinas, programas de juventude — ou se o seu site tem **probabilidade real** de ser acessado por menores de 18 anos, o **ECA Digital** (Lei nº 15.211/2025) cria deveres extras de proteção. Este guia mostra, na ordem, o que fazer no V3RLGPD para dar conta deles, em linguagem simples.
 
 > ⚠️ **Atenção**
 >
-> O ECA Digital é uma **lei distinta** da LGPD. O V3RLGPD **ajuda** a sua OSC a se organizar diante dela, mas **não é parecer jurídico** e **não garante conformidade** — a responsabilidade é da organização. A lei é recente e parte da regulamentação ainda é preliminar na ANPD.
+> O ECA Digital é uma **lei distinta** da LGPD. O V3RLGPD **ajuda** a sua organização a se organizar diante dela, mas **não é parecer jurídico** e **não garante conformidade** — a responsabilidade é da organização. A lei é recente e parte da regulamentação ainda é preliminar na ANPD.
 
 > 💡 **Por que isso importa**
 >
-> O terceiro setor é um dos públicos **mais alcançados** por essa lei, porque muitas OSCs lidam diretamente com menores. A boa notícia: na maioria dos casos o que pega **não** é "verificar a idade de quem entra no site", e sim alguns **cuidados com os dados das crianças**. Este guia te leva por eles.
+> O terceiro setor é um dos públicos **mais alcançados** por essa lei, porque muitas organizações lidam diretamente com menores. A boa notícia: na maioria dos casos o que pega **não** é "verificar a idade de quem entra no site", e sim alguns **cuidados com os dados das crianças**. Este guia te leva por eles.
 
 ## Antes de começar
 
@@ -39,13 +39,13 @@ Não saia ativando tudo. Primeiro responda ao **classificador de enquadramento**
 
 O Mapa passa a listar **só os deveres aplicáveis**, cada um ligado ao artigo da lei.
 
-> 💡 **A maioria dos sites de OSC tem uma "folga".** Se o conteúdo do seu site é **escolhido pela própria OSC, sem automação** (um site institucional comum), ele costuma ter **controle editorial** — e a **aferição de idade fica dispensada**. Nesse caso, o que importa são os deveres de **proteção de dados de menores** dos próximos passos. Detalhes em [Enquadramento](/eca-digital/enquadramento/).
+> 💡 **A maioria dos sites de organização tem uma "folga".** Se o conteúdo do seu site é **escolhido pela própria organização, sem automação** (um site institucional comum), ele costuma ter **controle editorial** — e a **aferição de idade fica dispensada**. Nesse caso, o que importa são os deveres de **proteção de dados de menores** dos próximos passos. Detalhes em [Enquadramento](/eca-digital/enquadramento/).
 
-> ⚠️ O enquadramento é **autodeclarado** pela sua OSC e serve de orientação. A autoridade competente pode reenquadrar o serviço.
+> ⚠️ O enquadramento é **autodeclarado** pela sua organização e serve de orientação. A autoridade competente pode reenquadrar o serviço.
 
 ## Passo 2 — Pedir o consentimento dos pais nos formulários
 
-Quando a sua OSC coleta **dados de crianças**, a LGPD (art. 14) exige, em regra, o **consentimento de um dos pais ou responsável**. O V3RLGPD registra esse consentimento como **parental**, com a identificação do responsável como prova.
+Quando a sua organização coleta **dados de crianças**, a LGPD (art. 14) exige, em regra, o **consentimento de um dos pais ou responsável**. O V3RLGPD registra esse consentimento como **parental**, com a identificação do responsável como prova.
 
 1. Em **Formulários**, marque o formulário que **coleta dados de menores**.
 2. Informe **qual campo** do formulário recebe o **nome/e-mail do responsável** — o V3RLGPD lê esse campo no envio.
@@ -78,7 +78,7 @@ O ECA Digital (arts. 22 e 26) **proíbe** usar perfilamento para direcionar **pu
 
 > ✅ **Boas práticas**
 >
-> Em site de acesso provável por menores, mantenha apenas cookies **essenciais**. Evite tags de redes sociais, remarketing e analytics comportamental. O V3RLGPD **avisa e recomenda**, mas não bloqueia automaticamente — a decisão é da OSC.
+> Em site de acesso provável por menores, mantenha apenas cookies **essenciais**. Evite tags de redes sociais, remarketing e analytics comportamental. O V3RLGPD **avisa e recomenda**, mas não bloqueia automaticamente — a decisão é da organização.
 
 Mais em [Perfilamento e publicidade](/eca-digital/perfilamento-publicidade/).
 
@@ -119,7 +119,7 @@ Mais em [Canal de denúncia](/eca-digital/canal-de-denuncia/).
 
 ## E a verificação de idade?
 
-Para a OSC típica, **não** é necessária. Se o seu site tem controle editorial, a aferição de idade é **dispensada**. Só no caso incomum de a sua OSC realmente precisar verificar a idade de quem acessa (ex.: oferta de conteúdo impróprio para menores) é que vale escolher um método com cuidado — veja [Aferição de idade](/eca-digital/afericao-de-idade/).
+Para a organização típica, **não** é necessária. Se o seu site tem controle editorial, a aferição de idade é **dispensada**. Só no caso incomum de a sua organização realmente precisar verificar a idade de quem acessa (ex.: oferta de conteúdo impróprio para menores) é que vale escolher um método com cuidado — veja [Aferição de idade](/eca-digital/afericao-de-idade/).
 
 ## Resumo do caminho
 

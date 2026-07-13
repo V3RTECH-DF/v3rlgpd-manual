@@ -43,13 +43,13 @@ São **três papéis** atribuíveis (mais o administrador do WordPress, que tem 
 | Papel | Para quem serve | Resumo do acesso |
 |---|---|---|
 | **Administrador do WordPress** | Quem instala e mantém o site | Acesso irrestrito, incluindo Equipe / Acessos, Configurações e a Migração/Desinstalação |
-| **Encarregado** | A pessoa responsável pela proteção de dados na OSC | Acesso completo à conformidade (Políticas, ROPA, RIPD, Atendimentos, Incidentes, Consentimentos, Configurações…); **não** faz migração/importação nem desinstalação |
+| **Encarregado** | A pessoa responsável pela proteção de dados na organização | Acesso completo à conformidade (Políticas, ROPA, RIPD, Atendimentos, Incidentes, Consentimentos, Configurações…); **não** faz migração/importação nem desinstalação |
 | **Atendente** | Quem cuida do dia a dia com os titulares | Atendimentos (DSAR), Consentimentos, Denúncias e Incidentes — sem ações irreversíveis (exclusão de dados, notificação de incidente) |
 | **Auditor** | Quem precisa conferir sem alterar nada | **Somente leitura** em todos os módulos |
 
 > ✅ **Boas práticas**
 >
-> Em OSCs pequenas, onde uma pessoa acumula funções, o papel **Encarregado** cobre tudo que o trabalho de privacidade exige, sem precisar dar a ela acesso de administrador do site. Reserve o administrador do WordPress para quem realmente faz manutenção técnica.
+> Em organizações pequenas, onde uma pessoa acumula funções, o papel **Encarregado** cobre tudo que o trabalho de privacidade exige, sem precisar dar a ela acesso de administrador do site. Reserve o administrador do WordPress para quem realmente faz manutenção técnica.
 
 > ⚠️ **"Encarregado" aqui é o papel de acesso, não a designação formal**
 >
@@ -158,7 +158,7 @@ Duas ações irreversíveis ficam reservadas ao Encarregado:
 [![Menu do Auditor](/assets/screenshots/v3rlgpd-62-auditor-menu.png)](/assets/screenshots/v3rlgpd-62-auditor-menu.png)
 *O Auditor vê os módulos, mas em modo somente leitura.*
 
-O Auditor tem **acesso de leitura a todos os módulos** (exceto a aba Equipe / Acessos). Vê os grupos **Auditoria de Conformidade** e **Atendimento ao Titular** e as seções avulsas, sempre em modo somente leitura. É o papel indicado para um financiador, conselheiro ou revisor externo que precisa conferir o trabalho da OSC sem risco de alterar nada.
+O Auditor tem **acesso de leitura a todos os módulos** (exceto a aba Equipe / Acessos). Vê os grupos **Auditoria de Conformidade** e **Atendimento ao Titular** e as seções avulsas, sempre em modo somente leitura. É o papel indicado para um financiador, conselheiro ou revisor externo que precisa conferir o trabalho da organização sem risco de alterar nada.
 
 [![Inventário somente leitura](/assets/screenshots/v3rlgpd-63-auditor-ropa.png)](/assets/screenshots/v3rlgpd-63-auditor-ropa.png)
 *O Inventário (ROPA) aparece completo, mas sem botões de criar, editar ou excluir.*
@@ -184,6 +184,6 @@ O Auditor tem **acesso de leitura a todos os módulos** (exceto a aba Equipe / A
 | Migração / Importação / Desinstalação | Sim | Não | Não | Não |
 | Gerenciar Equipe / Acessos | Sim | Não | Não | Não |
 
-> 💡 **O V3RLGPD ajuda, mas a responsabilidade é da OSC**
+> 💡 **O V3RLGPD ajuda, mas a responsabilidade é da organização**
 >
 > Definir bem os papéis é uma boa prática de segurança e conformidade, mas não garante, por si só, a conformidade com a LGPD. Veja o [Aviso legal](/disclaimer/).

@@ -8,9 +8,9 @@ permalink: /papeis/
 
 O V3RLGPD é usado por pessoas diferentes, com objetivos diferentes. Saber em qual papel você está ajuda a achar rápido o que precisa.
 
-## Encarregado / Administrador da OSC
+## Encarregado / Administrador da organização
 
-É quem **opera** o plugin no painel do WordPress: define o **Encarregado** (em inglês, *DPO — Data Protection Officer*), cria e publica políticas, mantém o inventário, atende aos pedidos dos titulares e registra incidentes. Na maioria das OSCs, é a mesma pessoa que assume o papel de Encarregado.
+É quem **opera** o plugin no painel do WordPress: define o **Encarregado** (em inglês, *DPO — Data Protection Officer*), cria e publica políticas, mantém o inventário, atende aos pedidos dos titulares e registra incidentes. Na maioria das organizações, é a mesma pessoa que assume o papel de Encarregado.
 
 **Trilha sugerida:**
 
@@ -24,11 +24,11 @@ O V3RLGPD é usado por pessoas diferentes, com objetivos diferentes. Saber em qu
 
 > 💡 **Por que isso importa**
 >
-> O Encarregado é o rosto da LGPD na sua OSC. Não precisa saber programar nem ser jurista — precisa manter a casa organizada e responder quando alguém bate à porta. O plugin foi desenhado para que esse trabalho caiba na rotina de quem já tem muitas outras funções.
+> O Encarregado é o rosto da LGPD na sua organização. Não precisa saber programar nem ser jurista — precisa manter a casa organizada e responder quando alguém bate à porta. O plugin foi desenhado para que esse trabalho caiba na rotina de quem já tem muitas outras funções.
 
 ## Titular / Visitante do site
 
-É a **pessoa cujos dados** a OSC trata — doador, voluntário, beneficiário, inscrito. Ela não acessa o painel: interage pela **Central de Privacidade** pública do site, onde lê as políticas, ajusta cookies e abre pedidos sobre seus dados.
+É a **pessoa cujos dados** a organização trata — doador, voluntário, beneficiário, inscrito. Ela não acessa o painel: interage pela **Central de Privacidade** pública do site, onde lê as políticas, ajusta cookies e abre pedidos sobre seus dados.
 
 **Trilha sugerida:**
 
@@ -41,4 +41,4 @@ Quem instala, atualiza e mantém o WordPress e o plugin. Costuma agir uma vez (i
 
 > ✅ **Boas práticas**
 >
-> Separe os papéis quando possível: o administrador técnico cuida da infraestrutura; o Encarregado cuida do conteúdo e das decisões de privacidade. Em OSCs pequenas pode ser a mesma pessoa — só tenha clareza de qual "chapéu" está usando em cada tarefa.
+> Separe os papéis quando possível: o administrador técnico cuida da infraestrutura; o Encarregado cuida do conteúdo e das decisões de privacidade. Em organizações pequenas pode ser a mesma pessoa — só tenha clareza de qual "chapéu" está usando em cada tarefa.

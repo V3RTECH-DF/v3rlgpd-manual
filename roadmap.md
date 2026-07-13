@@ -6,7 +6,7 @@ permalink: /roadmap/
 
 # Roadmap
 
-Um panorama do que já foi entregue e das direções em estudo para as próximas versões do V3RLGPD. É um plano vivo — pode mudar conforme a necessidade da rede de OSCs. Nada aqui é compromisso de data.
+Um panorama do que já foi entregue e das direções em estudo para as próximas versões do V3RLGPD. É um plano vivo — pode mudar conforme a necessidade da rede de organizações. Nada aqui é compromisso de data.
 
 ## Já entregue
 
@@ -51,11 +51,11 @@ Um panorama do que já foi entregue e das direções em estudo para as próximas
 | Papéis personalizáveis | 🔭 Em estudo | Além dos três papéis prontos (Encarregado, Atendente, Auditor), poder **ajustar o que cada papel acessa** e **criar cargos próprios** da organização. |
 | Assistentes com IA | 🔭 Em estudo | Geração e reescrita de textos (políticas, pareceres) assistidas por inteligência artificial. A estrutura dos assistentes já está preparada para receber IA; hoje eles funcionam de forma determinística (sem IA). |
 | Cadastros complementares | 🔭 Em estudo | Centralizar num só lugar operadores/contratados, transferências internacionais e um registro de ações do Encarregado. |
-| Mural de comunicados | 🔭 Em estudo | Avisos gerais da OSC aos inscritos/membros, por categoria. |
+| Mural de comunicados | 🔭 Em estudo | Avisos gerais da organização aos inscritos/membros, por categoria. |
 | API completa | 🔭 Em estudo | Leitura e ação além dos webhooks, para integrações mais ricas. |
 
 ## Como influenciar o roadmap
 
-Sua experiência de uso ajuda a priorizar. Leve dúvidas, dificuldades e ideias à equipe da RIT/V3RTECH responsável pela sua implantação — feedback de quem opera no dia a dia de uma OSC é o que mais move o produto.
+Sua experiência de uso ajuda a priorizar. Leve dúvidas, dificuldades e ideias à equipe da RIT/V3RTECH responsável pela sua implantação — feedback de quem opera no dia a dia de uma organização é o que mais move o produto.
 
 > 📚 E para crescer junto: conheça a [formação em LGPD da RIT](https://cursos.rit.org.br/){:target="_blank" rel="noopener"} — **gratuita para as organizações integradas à RIT**.

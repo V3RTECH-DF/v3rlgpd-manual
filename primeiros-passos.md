@@ -9,11 +9,11 @@ status: publicado
 
 # Primeiros Passos
 
-Esta página leva sua OSC do "plugin recém-instalado" ao "pronto para atender a LGPD" em poucos passos. Você não precisa ser advogado nem técnico — só seguir a ordem. E, desde a versão 1.2, o próprio plugin **conduz você por esse roteiro** com um assistente de Primeiros Passos.
+Esta página leva sua organização do "plugin recém-instalado" ao "pronto para atender a LGPD" em poucos passos. Você não precisa ser advogado nem técnico — só seguir a ordem. E, desde a versão 1.2, o próprio plugin **conduz você por esse roteiro** com um assistente de Primeiros Passos.
 
 > 💡 **Por que isso importa**
 >
-> A maior parte das multas e dores de cabeça com a LGPD não vem de ataques sofisticados: vem de **falta de organização básica** — não ter quem responda pelos dados, não conseguir mostrar a política que estava no ar, demorar para responder um pedido. Os primeiros passos abaixo resolvem justamente esse básico, que é onde uma OSC mais ganha proteção com menos esforço.
+> A maior parte das multas e dores de cabeça com a LGPD não vem de ataques sofisticados: vem de **falta de organização básica** — não ter quem responda pelos dados, não conseguir mostrar a política que estava no ar, demorar para responder um pedido. Os primeiros passos abaixo resolvem justamente esse básico, que é onde uma organização mais ganha proteção com menos esforço.
 
 ## Onde fica o V3RLGPD
 
@@ -22,7 +22,7 @@ Depois de instalado e ativado no seu site WordPress, o plugin aparece no menu la
 Alguns desses itens são **grupos com abas** (para deixar o painel mais simples): **Auditoria de Conformidade** reúne *Mapa de Conformidade* e *Verificador de Formulários*; **Atendimento ao Titular** reúne *Consentimentos, Atendimentos, Denúncias, Incidentes, Retenção* e *Ações do Encarregado*. No topo de cada tela, o **cabeçalho** mostra a logo com o nome da seção ao lado e a versão do plugin.
 
 [![Painel do V3RLGPD](/assets/screenshots/v3rlgpd-01-dashboard.png)](/assets/screenshots/v3rlgpd-01-dashboard.png)
-*O Dashboard é o cockpit da conformidade da sua OSC.*
+*O Dashboard é o cockpit da conformidade da sua organização.*
 
 ## O assistente de Primeiros Passos
 
@@ -42,7 +42,7 @@ Clicar em **Continuar** abre o **roteiro guiado**: uma lista de etapas, cada uma
 
 As etapas vêm em dois blocos:
 
-- **Essenciais** — o básico que mais protege a OSC: **Encarregado**, **Política de Privacidade** e **Central de Privacidade**.
+- **Essenciais** — o básico que mais protege a organização: **Encarregado**, **Política de Privacidade** e **Central de Privacidade**.
 - **Recomendados** — **Inventário (ROPA)**, **Consentimento / Cookies** e **Autodeclaração**.
 
 Há ainda um passo **Bônus** (Retenção & Expurgo), opcional, que **não** conta para a conclusão dos 6 essenciais/recomendados.
@@ -61,7 +61,7 @@ Faça nesta ordem — cada passo destrava o próximo e faz o **Índice de Confor
 
 ### 1. Cadastre o Encarregado
 
-Em **Configurações → Identidade**, informe o nome (ou setor) responsável, o e-mail de contato e, opcionalmente, o telefone. Esses dados aparecem publicamente na Central de Privacidade — é por eles que o titular vai falar com a sua OSC.
+Em **Configurações → Identidade**, informe o nome (ou setor) responsável, o e-mail de contato e, opcionalmente, o telefone. Esses dados aparecem publicamente na Central de Privacidade — é por eles que o titular vai falar com a sua organização.
 
 ➡️ Passo a passo detalhado em **[Configurar o Encarregado](/guias/configurar-dpo/)**.
 
@@ -79,7 +79,7 @@ Em **Configurações → Páginas & Integração**, clique em **Gerar Página Au
 
 ### 4. Preencha o Inventário (ROPA)
 
-Em **Inventário (ROPA)**, registre cada operação de tratamento de dados que sua OSC faz: qual atividade, quais dados, para qual finalidade e com qual base legal. É a espinha dorsal da conformidade.
+Em **Inventário (ROPA)**, registre cada operação de tratamento de dados que sua organização faz: qual atividade, quais dados, para qual finalidade e com qual base legal. É a espinha dorsal da conformidade.
 
 ➡️ Entenda em **[Inventário (ROPA)](/modulos/inventario-ropa/)**. Se você tem muitos formulários no site, comece pelo **[Mapeamento de Formulários](/modulos/formularios/)**.
 

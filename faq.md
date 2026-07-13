@@ -6,13 +6,13 @@ permalink: /faq/
 
 # Dúvidas Frequentes
 
-## Minha OSC é pequena. A LGPD vale mesmo para ela?
+## Minha organização é pequena. A LGPD vale mesmo para ela?
 
-Sim. A LGPD não tem isenção por porte ou por ser entidade sem fins lucrativos. A boa notícia: para uma OSC pequena, com poucos tipos de dados, a adequação é proporcionalmente simples. Comece pelos [Primeiros Passos](/primeiros-passos/).
+Sim. A LGPD não tem isenção por porte ou por ser entidade sem fins lucrativos. A boa notícia: para uma organização pequena, com poucos tipos de dados, a adequação é proporcionalmente simples. Comece pelos [Primeiros Passos](/primeiros-passos/).
 
 ## Preciso contratar um advogado para usar o V3RLGPD?
 
-Não para **usar** a ferramenta. Mas as **decisões jurídicas** (qual base legal, conteúdo final das políticas, casos sensíveis) devem ser validadas, idealmente, por apoio jurídico. O plugin organiza; a responsabilidade é da OSC. Veja o [Aviso legal](/disclaimer/).
+Não para **usar** a ferramenta. Mas as **decisões jurídicas** (qual base legal, conteúdo final das políticas, casos sensíveis) devem ser validadas, idealmente, por apoio jurídico. O plugin organiza; a responsabilidade é da organização. Veja o [Aviso legal](/disclaimer/).
 
 ## O Encarregado precisa ser advogado?
 
@@ -68,23 +68,23 @@ O visitante vê o banner na primeira visita e escolhe aceitar, recusar não-esse
 
 ## Por quanto tempo meus dados (ou os dos titulares) ficam guardados?
 
-Pelo prazo que a **sua OSC** definir para cada tipo de tratamento, conforme a base legal e a finalidade. O módulo de [Retenção & Expurgo](/modulos/retencao/) automatiza o fim desse ciclo: ao vencer o prazo, o plugin **anonimiza** o registro — depois de avisar o Encarregado com antecedência. Nada entra nesse expurgo automático sem a OSC ligar a opção explicitamente.
+Pelo prazo que a **sua organização** definir para cada tipo de tratamento, conforme a base legal e a finalidade. O módulo de [Retenção & Expurgo](/modulos/retencao/) automatiza o fim desse ciclo: ao vencer o prazo, o plugin **anonimiza** o registro — depois de avisar o Encarregado com antecedência. Nada entra nesse expurgo automático sem a organização ligar a opção explicitamente.
 
 ## A retenção apaga meus dados de vez? E se eu precisar deles para o fisco?
 
-A ação padrão é **anonimizar** (remover o que identifica a pessoa), não apagar — assim a OSC mantém a **prova** de que cumpriu a regra. E dados com obrigação legal de guarda (como notas fiscais) só são expurgados se a OSC **optar** por isso: por padrão, nenhuma atividade entra na retenção automática. Há ainda uma **janela de aviso** (7 dias) e a opção de cancelar ou adiar antes de qualquer ação irreversível. Veja [Retenção & Expurgo](/modulos/retencao/).
+A ação padrão é **anonimizar** (remover o que identifica a pessoa), não apagar — assim a organização mantém a **prova** de que cumpriu a regra. E dados com obrigação legal de guarda (como notas fiscais) só são expurgados se a organização **optar** por isso: por padrão, nenhuma atividade entra na retenção automática. Há ainda uma **janela de aviso** (7 dias) e a opção de cancelar ou adiar antes de qualquer ação irreversível. Veja [Retenção & Expurgo](/modulos/retencao/).
 
 ## O plugin notifica a ANPD por mim em caso de incidente?
 
-Não. O plugin ajuda a **registrar** o incidente e a **comunicar os titulares afetados** de forma rastreável. A **notificação oficial à ANPD** é feita pela sua OSC, pelos canais oficiais do governo. Veja [Incidentes](/modulos/incidentes/).
+Não. O plugin ajuda a **registrar** o incidente e a **comunicar os titulares afetados** de forma rastreável. A **notificação oficial à ANPD** é feita pela sua organização, pelos canais oficiais do governo. Veja [Incidentes](/modulos/incidentes/).
 
-## O que é o ECA Digital e ele se aplica à minha OSC?
+## O que é o ECA Digital e ele se aplica à minha organização?
 
-O **ECA Digital** (Lei 15.211/2025) protege crianças e adolescentes na internet. Ele alcança sites **direcionados a** ou de **acesso provável** por menores — comum em OSCs que trabalham com esse público. A forma mais rápida de saber é fazer a [triagem de enquadramento](/eca-digital/enquadramento/) no Mapa de Conformidade. É uma lei **diferente** da LGPD, e o conteúdo do manual **não substitui orientação jurídica**. Veja [ECA Digital](/eca-digital/).
+O **ECA Digital** (Lei 15.211/2025) protege crianças e adolescentes na internet. Ele alcança sites **direcionados a** ou de **acesso provável** por menores — comum em organizações que trabalham com esse público. A forma mais rápida de saber é fazer a [triagem de enquadramento](/eca-digital/enquadramento/) no Mapa de Conformidade. É uma lei **diferente** da LGPD, e o conteúdo do manual **não substitui orientação jurídica**. Veja [ECA Digital](/eca-digital/).
 
 ## Vou ter que verificar a idade de quem acessa o site?
 
-Provavelmente **não**. Sites institucionais com **controle editorial** (conteúdo escolhido pela OSC, sem automação) costumam ser **dispensados** da verificação de idade. O que normalmente se aplica à OSC são os **deveres de proteção de dados de menores** (consentimento dos pais, privacidade por padrão, transparência). O enquadramento mostra o seu caso.
+Provavelmente **não**. Sites institucionais com **controle editorial** (conteúdo escolhido pela organização, sem automação) costumam ser **dispensados** da verificação de idade. O que normalmente se aplica à organização são os **deveres de proteção de dados de menores** (consentimento dos pais, privacidade por padrão, transparência). O enquadramento mostra o seu caso.
 
 ## O ECA Digital muda o meu Índice de Conformidade da LGPD?
 
@@ -94,13 +94,13 @@ Não. Os deveres do ECA Digital aparecem em uma **seção própria** no Mapa e *
 
 Fale com a equipe da RIT/V3RTECH responsável pela sua implantação. As novidades do produto aparecem em [Novidades](/novidades/) e os planos futuros em [Roadmap](/roadmap/).
 
-## Minha OSC atende crianças e adolescentes. E agora?
+## Minha organização atende crianças e adolescentes. E agora?
 
 Faça primeiro a [triagem de enquadramento](/eca-digital/enquadramento/) no Mapa de Conformidade — ela mostra **só os deveres do seu caso**. A partir daí, o caminho costuma ser: consentimento dos pais nos formulários, privacidade por padrão, não fazer publicidade dirigida a menores, transparência aos pais e, quando couber, um RIPD. O guia [Configurar a proteção de crianças e adolescentes](/guias/proteger-menores-eca/) leva você por tudo isso, na ordem.
 
 ## O que é o RIPD e quando eu preciso de um?
 
-O **RIPD** (Relatório de Impacto à Proteção de Dados, art. 38 da LGPD) descreve os **riscos** de um tratamento de dados e as **medidas** para reduzi-los. Não é obrigatório de rotina para a maioria das OSCs, mas vale a pena quando há dados sensíveis em escala, **grupos vulneráveis** (como crianças e adolescentes), monitoramento sistemático ou legítimo interesse com impacto relevante. Veja [quando fazer](/modelos/ripd/) e o passo a passo em [Módulo RIPD](/modulos/ripd/).
+O **RIPD** (Relatório de Impacto à Proteção de Dados, art. 38 da LGPD) descreve os **riscos** de um tratamento de dados e as **medidas** para reduzi-los. Não é obrigatório de rotina para a maioria das organizações, mas vale a pena quando há dados sensíveis em escala, **grupos vulneráveis** (como crianças e adolescentes), monitoramento sistemático ou legítimo interesse com impacto relevante. Veja [quando fazer](/modelos/ripd/) e o passo a passo em [Módulo RIPD](/modulos/ripd/).
 
 ## Os Assistentes (Inventário e RIPD) exigem que eu saiba a parte técnica?
 
@@ -108,15 +108,15 @@ Não. Os assistentes existem justamente para você **sair do formulário em bran
 
 ## O V3RLGPD toma decisões automáticas ou faz perfilamento dos titulares?
 
-Não. O plugin organiza dados e processos; ele não pontua, classifica nem decide nada automaticamente sobre as pessoas. No contexto do [ECA Digital](/eca-digital/perfilamento-publicidade/), inclusive, ele **avisa** para você não usar perfilamento e publicidade dirigida a menores (mantendo apenas cookies essenciais), mas a decisão e a responsabilidade são da OSC.
+Não. O plugin organiza dados e processos; ele não pontua, classifica nem decide nada automaticamente sobre as pessoas. No contexto do [ECA Digital](/eca-digital/perfilamento-publicidade/), inclusive, ele **avisa** para você não usar perfilamento e publicidade dirigida a menores (mantendo apenas cookies essenciais), mas a decisão e a responsabilidade são da organização.
 
 ## Quando preciso notificar a ANPD em caso de incidente?
 
-A comunicação à ANPD e aos titulares cabe quando o incidente puder acarretar **risco ou dano relevante** aos titulares — a avaliação é da sua OSC, idealmente com apoio jurídico. O V3RLGPD ajuda a **registrar** o incidente e a **comunicar os titulares afetados** de forma rastreável, mas a **notificação oficial à ANPD** é feita pela sua OSC pelos canais do governo. Veja [Incidentes](/modulos/incidentes/).
+A comunicação à ANPD e aos titulares cabe quando o incidente puder acarretar **risco ou dano relevante** aos titulares — a avaliação é da sua organização, idealmente com apoio jurídico. O V3RLGPD ajuda a **registrar** o incidente e a **comunicar os titulares afetados** de forma rastreável, mas a **notificação oficial à ANPD** é feita pela sua organização pelos canais do governo. Veja [Incidentes](/modulos/incidentes/).
 
 ## Qual a diferença entre o "Verificado" e o "Atestado" no Mapa de Conformidade?
 
-**Verificado** é o que a ferramenta **confere automaticamente** (ex.: Política de Privacidade ativa, Encarregado configurado, Central publicada) — é o que forma o percentual do anel. **Atestado** é a parte **autodeclarada** pela sua OSC: você afirma que cumpriu algo que o sistema não tem como checar sozinho. Os atestados aparecem separados, em roxo ("Atestado: X de 4"), e **não inflam** o percentual verificado. Veja [Painel e Mapa de Conformidade](/modulos/painel/).
+**Verificado** é o que a ferramenta **confere automaticamente** (ex.: Política de Privacidade ativa, Encarregado configurado, Central publicada) — é o que forma o percentual do anel. **Atestado** é a parte **autodeclarada** pela sua organização: você afirma que cumpriu algo que o sistema não tem como checar sozinho. Os atestados aparecem separados, em roxo ("Atestado: X de 4"), e **não inflam** o percentual verificado. Veja [Painel e Mapa de Conformidade](/modulos/painel/).
 
 ## Como envio uma sugestão ou relato um problema do plugin?
 
