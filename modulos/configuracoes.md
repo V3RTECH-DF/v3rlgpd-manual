@@ -38,6 +38,8 @@ A tela **Configurações** reúne, em um só lugar, os ajustes gerais do V3RLGPD
 
 Aqui ficam os dados do **controlador** — **razão social** (obrigatória para gerar políticas), **CNPJ**, **endereço** e **contato público** —, a **logo** da organização (usada nos relatórios PDF, nos e-mails e na Central) e a **declaração de escopo de tratamento**. Esses dados são reaproveitados pelo Assistente de Políticas, pelos relatórios e pelo selo.
 
+> ℹ️ **CNPJ alfanumérico:** o campo aceita tanto o CNPJ tradicional (só números) quanto o novo **CNPJ alfanumérico** da Receita Federal (com letras nas primeiras posições, válido para inscrições a partir de julho/2026). O sistema **confere os dígitos verificadores** e avisa se estiver errado — se aparecer "CNPJ inválido", revise o que foi digitado. CNPJs já cadastrados continuam funcionando normalmente.
+
 ### A organização trata dados fora deste site?
 
 A pergunta **"A organização trata dados pessoais fora deste site?"** (Não / Sim / Não informado) orienta o atendimento às solicitações de titulares:
