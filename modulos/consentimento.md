@@ -6,7 +6,7 @@ permalink: /modulos/consentimento/
 role: encarregado
 routes: ["/central-de-privacidade/", "#/settings"]
 screenshots: [v3rlgpd-21-cookie-banner, v3rlgpd-08b-settings-cookies]
-last_verified: 2026-06-23
+last_verified: 2026-07-17
 status: publicado
 ---
 
@@ -30,6 +30,20 @@ O visitante pode:
 - **Aceitar Todos** — libera os cookies não-essenciais.
 - **Recusar Não-Essenciais** — mantém só o necessário ao funcionamento.
 - **Personalizar** — escolhe por categoria.
+
+### Mudar de ideia depois
+
+O consentimento não é uma escolha definitiva: o titular pode revê-la quando quiser. Na **Central de Privacidade**, o botão **"Alterar Preferências de Cookies"** reabre o painel **já mostrando o que ele escolheu antes** — as categorias aceitas aparecem marcadas. Ele ajusta o que quiser e salva.
+
+> 💡 **Revogar vale na hora**
+>
+> Quando o titular **retira** uma categoria que havia aceitado, a página é **recarregada** e o script correspondente deixa de ser carregado imediatamente. Não é cosmético: o rastreador realmente para. (Aceitar uma categoria **nova** não recarrega — ela passa a valer na hora, sem interromper a navegação.)
+
+O banner registra cada decisão — inclusive a **recusa** — no [Registro de Consentimentos](/modulos/painel/). É essa trilha que serve de prova, e a LGPD coloca o ônus dela sobre a sua organização.
+
+### Aparência
+
+O banner **segue o tema definido em Configurações → Aparência**. Ao trocar o preset (ou personalizar as cores), o banner acompanha — cores, botões, arredondamento — junto com o resto das telas públicas do plugin.
 
 Ative e ajuste o banner em **Configurações → Banner de Cookies**.
 
