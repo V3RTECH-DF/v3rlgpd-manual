@@ -72,7 +72,39 @@ Porque ele não está sendo carregado **pelo V3RLGPD**. O banner só controla os
 
 Nesse caso o banner não está protegendo nada — está só decorando, enquanto o rastreamento acontece do mesmo jeito.
 
-**Como resolver:** tire o rastreador da outra origem (desative no plugin que o instalou, ou remova do tema) e cole o código dele nas Configurações do V3RLGPD. Veja [Consentimento & Cookies › Como o plugin segura os scripts](/modulos/consentimento/#como-o-plugin-segura-os-scripts).
+**Como resolver:** rode o **[Detector de Conformidade](/modulos/detector/)** — ele encontra esses rastreadores para você e diz o que fazer com cada um (nem todos devem ser trazidos para cá; veja as duas perguntas abaixo). Veja também [Consentimento & Cookies › Como o plugin segura os scripts](/modulos/consentimento/#como-o-plugin-segura-os-scripts).
+
+## Como eu descubro o que está rastreando no meu site?
+
+Rodando o **[Detector de Conformidade](/modulos/detector/)** (em Auditoria de Conformidade). Ele varre o seu site **publicado** e mostra quais rastreadores estão disparando **antes** do visitante consentir — inclusive os que você não sabia que estavam lá, porque entraram por outro plugin ou pelo tema.
+
+É a diferença entre o Detector e o resto do painel: o resto olha o que você **configurou**; o Detector olha o que está **de fato no ar**.
+
+## O Detector não achou nenhum rastreador. Meu site está limpo?
+
+**Não necessariamente** — e essa distinção é importante. O Detector reconhece os rastreadores mais comuns (Google Tag Manager, Google Analytics, Meta Pixel, Google Ads, LinkedIn, TikTok, Hotjar, Clarity). O que ele afirma é: *"nenhum dos que eu conheço apareceu"*.
+
+Se a sua organização usa uma ferramenta fora dessa lista — Matomo, Plausible, um pixel menos comum, um script próprio — **ela não é detectada**. Nesse caso a conferência continua sendo sua.
+
+Por isso o resultado positivo do Detector diz "nenhum rastreador **conhecido**" e lista quais são: para você saber exatamente o que foi verificado, em vez de sair com uma falsa sensação de segurança.
+
+## Por que o Detector não me deixa importar um dos scripts?
+
+De propósito — ele está te protegendo.
+
+Quando o rastreador vem de um plugin com **funcionalidade própria** (MonsterInsights, Site Kit, GTM4WP, PixelYourSite e afins), o código do rastreador é a **menor parte** do que esse plugin faz. Ele também rastreia downloads e formulários, manda os eventos de compra com os dados do pedido, monta informações para o Tag Manager e serve relatórios dentro do painel.
+
+Se você trouxesse só o trecho para cá e desativasse o plugin, **manteria a marcação básica e perderia todo o resto — sem nenhum aviso**. Costuma-se descobrir meses depois, quando falta dado.
+
+Nesses casos o Detector nomeia o plugin, diz **o que exatamente você perderia** e orienta o caminho certo: usar a **configuração de consentimento do próprio plugin** (a maioria dos modernos tem uma). Se você não usa esses recursos extras, aí sim remova o plugin e rode o Detector de novo. Veja [Detector › O caso dos rastreadores](/modulos/detector/#o-caso-dos-rastreadores-cookies-sem-consentimento).
+
+## O V3RLGPD pode desativar o plugin que está rastreando, para mim?
+
+**Não, e isso é uma decisão nossa, não uma limitação técnica.**
+
+Não temos como saber o que quebraríamos no seu site: o que aquele plugin faz não está no trecho de código que enxergamos. Prometer "a funcionalidade fica preservada" seria uma promessa que não podemos cumprir — e, se desse errado, você perderia dados e a culpa seria do plugin que deveria estar te protegendo.
+
+O V3RLGPD **ajuda** a cumprir a LGPD; ele não assume responsabilidade pelo funcionamento do seu site. Nosso papel é dizer **o quê**, **por quê** e **o que você perde** — com precisão suficiente para a decisão ser sua, tomada com informação.
 
 ## O titular pode mudar de ideia depois de aceitar os cookies?
 

@@ -8,6 +8,27 @@ permalink: /novidades/
 
 O que mudou no V3RLGPD, em linguagem leve. Para o histórico técnico completo, fale com a equipe de implantação.
 
+## Versão 1.56 — O Detector acha os seus rastreadores e diz de onde eles vêm
+
+Seu banner de cookies só consegue segurar os scripts que **você** colou nas Configurações. Se o Google Analytics do site entrou por outro plugin ou está escrito no tema, ele carrega para todo visitante — tenha consentido ou não. O problema é que quase ninguém sabe o que tem instalado no próprio site.
+
+O **[Detector de Conformidade](/modulos/detector/)** resolve isso: ele varre o site publicado, encontra os rastreadores que estão disparando sem consentimento e traz cada um para dentro do V3RLGPD com um clique. Isso já existia — **o que mudou é que agora ele sabe explicar o que fazer com cada um**.
+
+[![Achado de rastreador com a origem identificada](/assets/screenshots/v3rlgpd-91-detector-rastreador-origem.png)](/assets/screenshots/v3rlgpd-91-detector-rastreador-origem.png)
+*Dois rastreadores, dois conselhos diferentes — porque vêm de lugares diferentes.*
+
+- **Ele identifica a origem provável.** Cruzando o rastreador encontrado com os plugins que você tem ativos, o Detector agora **diz de onde ele provavelmente vem** — em vez do antigo "remova a tag original do tema/plugin", que não dizia qual.
+- **E o conselho muda conforme a origem.** Se for um **trecho colado** (no tema ou num injetor de código), importar é seguro: nada se perde. Mas se vier de um **plugin com funcionalidade própria** (MonsterInsights, Site Kit, GTM4WP e afins), o Detector **não oferece mais a importação** — e explica por quê: esses plugins fazem muito mais que emitir a tag, e trazer só o trecho faria você perder o resto **em silêncio**. Ele nomeia o plugin e diz o que exatamente você perderia.
+- **Vários rastreadores? Traga todos de uma vez.** Ter mais de um é o normal (Tag Manager + Analytics + Pixel). Agora há o botão **"Resolver todos"**: uma revisão, um Salvar. E se preferir ir um a um, o que você trouxe fica **pendente até salvar** — dá para ir e voltar sem perder nada. Antes, resolver um segundo achado sem ter salvado o primeiro **descartava o primeiro sem avisar**.
+- **Ele é honesto sobre o que não sabe.** Quando não encontra nada, o Detector não diz mais "não encontramos scripts de rastreamento" — porque isso soa como "seu site está limpo", e não era o que ele tinha verificado. Agora ele **lista os rastreadores que reconhece** e avisa que o resultado **não garante** ausência de rastreamento. Se a sua organização usa uma ferramenta fora dessa lista, a conferência manual continua com você.
+- **Corrigido: o alarme agora apaga.** Havia um defeito incômodo — depois de você seguir o conselho e importar o script, o achado crítico **continuava lá, para sempre**. Agora, feita a correção, ele some na próxima verificação. Era o que faltava para o ciclo "corrija e confira" funcionar.
+
+> 💡 **Uma coisa que o V3RLGPD não faz — de propósito**
+>
+> Ele **não desativa** plugins de terceiros, nem se oferece para isso. Não temos como saber o que quebraríamos no seu site, e essa decisão é da sua organização. Nosso papel é dizer **o quê**, **por quê** e **o que você perde** — com precisão suficiente para você decidir.
+
+> Onde: **Auditoria de Conformidade → Detector**. Detalhes em [Detector de Conformidade](/modulos/detector/#o-caso-dos-rastreadores-cookies-sem-consentimento) e [Consentimento & Cookies](/modulos/consentimento/).
+
 ## Versão 1.54 — O banner de cookies, revisto de ponta a ponta
 
 O módulo de cookies passou por uma revisão completa. O que muda na prática:
