@@ -7,7 +7,7 @@ task: titular-exercer-direitos
 role: titular
 routes: ["/central-de-privacidade/"]
 screenshots: [v3rlgpd-22-dsar-form, v3rlgpd-21-cookie-banner]
-last_verified: 2026-06-28
+last_verified: 2026-07-17
 status: publicado
 ---
 
@@ -53,6 +53,16 @@ Ao confirmar o e-mail, você verá a mensagem de que o pedido foi **encaminhado 
 [![Banner de cookies](/assets/screenshots/v3rlgpd-21-cookie-banner.png)](/assets/screenshots/v3rlgpd-21-cookie-banner.png)
 
 Na primeira visita ao site, você decide sobre cookies: **Aceitar Todos**, **Recusar Não-Essenciais** ou **Personalizar**. Cookies de análise e marketing só são carregados se você consentir.
+
+### Mudar de ideia
+
+Aceitar hoje não te prende. **Você pode rever a sua escolha quando quiser** — é um direito seu (art. 8º, §5º da LGPD), e não precisa justificar.
+
+Na Central de Privacidade, clique em **"Alterar Preferências de Cookies"**. O painel reabre já mostrando o que você escolheu antes; marque ou desmarque o que quiser e salve.
+
+Ao **retirar** uma permissão que você havia dado, ela deixa de valer **imediatamente** — a página recarrega e aquele rastreador para de ser carregado. Não vale só na próxima visita.
+
+Retirar o consentimento **não apaga** o que foi coletado antes, enquanto ele era válido. Se você também quer que esses dados sejam eliminados, faça um pedido de **exclusão** pelo formulário acima.
 
 ## Não obteve resposta?
 

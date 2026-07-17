@@ -8,6 +8,20 @@ permalink: /novidades/
 
 O que mudou no V3RLGPD, em linguagem leve. Para o histórico técnico completo, fale com a equipe de implantação.
 
+## Versão 1.54 — O banner de cookies, revisto de ponta a ponta
+
+O módulo de cookies passou por uma revisão completa. O que muda na prática:
+
+- **"Alterar Preferências de Cookies" agora funciona.** O botão da Central de Privacidade reabre o painel **já mostrando o que o titular escolheu antes**, para ele rever e ajustar. Se você tentou usá-lo antes e ele não fez nada ao ser clicado, era um defeito nosso — está corrigido.
+- **Revogar vale na hora.** Quando o titular retira uma categoria que havia aceitado, a página recarrega e o rastreador **para imediatamente**. Antes a mudança só passava a valer na navegação seguinte — a tela confirmava "salvo" enquanto o script continuava rodando.
+- **A recusa é registrada como recusa.** No Registro de Consentimentos, quem recusou não é mais indistinguível de quem aceitou — o que importa muito, já que esse registro é a sua prova.
+- **O consentimento não se perde mais em silêncio.** Em sites com cache de página, havia casos em que o registro não chegava ao servidor sem ninguém perceber. Agora, se o envio falhar, a decisão é reenviada na visita seguinte.
+- **O banner segue o tema** definido em Configurações → Aparência. Antes ele ignorava o preset e ficava com as cores de fábrica. *Isso muda a aparência do seu banner mesmo se você nunca trocou o tema.*
+
+> Onde: Central de Privacidade (para o visitante) e Configurações → Banner de Cookies (para você). Detalhes em [Consentimento & Cookies](/modulos/consentimento/).
+
+> ⚠️ **Aproveite para conferir uma coisa:** o banner só segura os scripts que **você colou nas Configurações do V3RLGPD**. Rastreador instalado por outro plugin ou escrito no tema passa direto por ele. Veja [como verificar](/modulos/consentimento/#como-o-plugin-segura-os-scripts).
+
 ## Versão 1.49 — Relatórios em PDF de verdade
 
 Todos os relatórios — **Conformidade**, **Inventário (ROPA)**, **Ações do Encarregado** e **RIPD** — ganharam um botão **Baixar PDF** que gera um **arquivo PDF pronto**, baixado com **um clique** e igual em qualquer navegador. Antes, "exportar" era escolher "Salvar como PDF" na caixa de impressão do navegador; agora o documento sai **formatado como relatório** (não como um print da tela), com **texto selecionável** e **cabeçalho e a logo da organização**.

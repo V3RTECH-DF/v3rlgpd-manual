@@ -23,13 +23,46 @@ O banner aparece na primeira visita ao site. O ponto central:
 
 > 💡 **Por que isso importa**
 >
-> Cookies de **análise e marketing** (Google Analytics, pixels de redes sociais) só podem ser carregados **depois** que o visitante consente. O V3RLGPD segura esses scripts até haver consentimento — ou seja, recusar significa **não carregar**, não apenas "fingir que não carregou". Isso é o que diferencia um banner de verdade de um aviso decorativo.
+> Cookies de **análise e marketing** (Google Analytics, pixels de redes sociais) só podem ser carregados **depois** que o visitante consente. O V3RLGPD segura os scripts que você configurar nele até haver consentimento — ou seja, recusar significa **não carregar**, não apenas "fingir que não carregou". Isso é o que diferencia um banner de verdade de um aviso decorativo.
 
 O visitante pode:
 
 - **Aceitar Todos** — libera os cookies não-essenciais.
 - **Recusar Não-Essenciais** — mantém só o necessário ao funcionamento.
 - **Personalizar** — escolhe por categoria.
+
+São duas categorias que dependem de consentimento: **Analytics** e **Marketing**. Os cookies **Necessários** aparecem marcados e travados — sem eles o site não funciona, então não há o que consentir.
+
+### Como o plugin segura os scripts
+
+Você cola os códigos de análise e marketing em **Configurações → Banner de Cookies**, cada um no campo da sua categoria. O plugin **não** coloca esse código na página. Ele o embrulha numa etiqueta inerte, que o navegador enxerga mas não sabe executar — o código fica lá, parado.
+
+Só quando o visitante consente é que o plugin desembrulha e ativa. Na dúvida, não carrega.
+
+> ⚠️ **O banner só alcança os scripts que você colar aqui**
+>
+> Este é o ponto mais importante da página. Se o Google Analytics (ou qualquer outro rastreador) do seu site estiver instalado **por outro plugin** ou escrito **direto no tema**, o V3RLGPD **não sabe que ele existe** e **não o segura**: ele carrega para todo visitante, tenha consentido ou não.
+>
+> Nesse cenário o seu banner vira exatamente o "aviso decorativo" que ele existe para não ser — e a sua organização fica exposta **achando que está protegida**, que é a pior das situações.
+
+### Você não precisa procurar os rastreadores sozinho
+
+O **[Detector de Conformidade](/modulos/detector/)** varre o seu site publicado e **encontra os rastreadores que estão disparando sem consentimento** — inclusive os que entraram por outro plugin ou pelo tema, justamente os que você não sabia que estavam lá.
+
+Melhor: ele **tenta identificar de onde cada um vem** e ajusta o conselho conforme isso.
+
+- Se for **só um trecho** colado no tema ou num injetor de código, o botão **Resolver** traz o script para cá já preenchido — você revisa, salva e remove da origem. Nada se perde.
+- Se vier de um **plugin com funcionalidade própria** (MonsterInsights, Site Kit, GTM4WP…), o Detector **não** oferece a importação, e explica por quê: esses plugins fazem muito mais que emitir a tag, e trazer só o trecho faria você perder o resto em silêncio. Nesse caso o caminho é a configuração de consentimento do próprio plugin.
+
+**Comece por aí.** É o jeito mais rápido de descobrir se o seu banner está protegendo alguma coisa de fato — e o [Detector](/modulos/detector/#o-caso-dos-rastreadores-cookies-sem-consentimento) explica cada caso.
+
+> ⚠️ **Mas ele reconhece os principais, não todos**
+>
+> O Detector conhece os rastreadores mais comuns (Google Analytics, GTM, Meta Pixel, Google Ads, LinkedIn, TikTok, Hotjar, Clarity). Se a sua organização usa outra ferramenta, **ela não é detectada** — e "nenhum rastreador encontrado" não é o mesmo que "site limpo". A conferência manual continua valendo.
+
+> 💡 **Quem classifica é você**
+>
+> O plugin não sai varrendo o site atrás de cookies nem adivinha o que é análise e o que é marketing. Quem decide é você, ao colar cada código no campo certo. É uma decisão sua, e ela precisa refletir o que o script realmente faz.
 
 ### Mudar de ideia depois
 
@@ -39,13 +72,25 @@ O consentimento não é uma escolha definitiva: o titular pode revê-la quando q
 >
 > Quando o titular **retira** uma categoria que havia aceitado, a página é **recarregada** e o script correspondente deixa de ser carregado imediatamente. Não é cosmético: o rastreador realmente para. (Aceitar uma categoria **nova** não recarrega — ela passa a valer na hora, sem interromper a navegação.)
 
-O banner registra cada decisão — inclusive a **recusa** — no [Registro de Consentimentos](/modulos/painel/). É essa trilha que serve de prova, e a LGPD coloca o ônus dela sobre a sua organização.
+### O que fica registrado
+
+Toda decisão do visitante vira um registro no [Registro de Consentimentos](/modulos/painel/): **o quê** ele escolheu, **quando**, de qual **endereço de IP e navegador**, e **vinculada à versão da política que estava vigente naquele momento**.
+
+Vale para os três casos — aceite total, aceite parcial e **recusa**. A recusa é registrada **como recusa**, nunca como consentimento.
+
+> 💡 **É aqui que está o valor**
+>
+> Banner qualquer site tem. O que a LGPD cobra da sua organização é **provar** que o consentimento existiu, nos termos em que foi dado. O ônus dessa prova é do controlador — ou seja, seu, não do titular. É esse registro que você mostra numa fiscalização.
+
+Se o registro não conseguir chegar ao servidor no momento do clique (uma falha de rede, por exemplo), a decisão fica guardada no navegador do visitante e é reenviada na próxima vez que ele abrir uma página. A escolha dele não se perde.
 
 ### Aparência
 
 O banner **segue o tema definido em Configurações → Aparência**. Ao trocar o preset (ou personalizar as cores), o banner acompanha — cores, botões, arredondamento — junto com o resto das telas públicas do plugin.
 
-Ative e ajuste o banner em **Configurações → Banner de Cookies**.
+## Configurar o banner
+
+Ative o banner e cole os scripts de cada categoria em **Configurações → Banner de Cookies**.
 
 [![Configurações do banner de cookies](/assets/screenshots/v3rlgpd-08b-settings-cookies.png)](/assets/screenshots/v3rlgpd-08b-settings-cookies.png)
 *Configuração do banner de cookies no painel.*

@@ -64,7 +64,19 @@ Não. Ele é um **indicador interno de progresso**, não um certificado. Conform
 
 ## Como o banner de cookies funciona?
 
-O visitante vê o banner na primeira visita e escolhe aceitar, recusar não-essenciais ou personalizar. Scripts de análise/marketing **só carregam se houver consentimento**. Veja [Consentimento & Cookies](/modulos/consentimento/).
+O visitante vê o banner na primeira visita e escolhe aceitar, recusar não-essenciais ou personalizar. Os scripts de análise/marketing **que você colou em Configurações → Banner de Cookies** ficam parados até haver consentimento — e cada decisão, inclusive a recusa, vira registro consultável (a sua prova). Veja [Consentimento & Cookies](/modulos/consentimento/).
+
+## Liguei o banner, mas o Google Analytics continua carregando mesmo quando o visitante recusa. Por quê?
+
+Porque ele não está sendo carregado **pelo V3RLGPD**. O banner só controla os scripts que **você colou em Configurações → Banner de Cookies**. Se o Analytics (ou qualquer outro rastreador) estiver instalado por **outro plugin** ou escrito **direto no tema**, o V3RLGPD não sabe que ele existe e não tem como segurá-lo.
+
+Nesse caso o banner não está protegendo nada — está só decorando, enquanto o rastreamento acontece do mesmo jeito.
+
+**Como resolver:** tire o rastreador da outra origem (desative no plugin que o instalou, ou remova do tema) e cole o código dele nas Configurações do V3RLGPD. Veja [Consentimento & Cookies › Como o plugin segura os scripts](/modulos/consentimento/#como-o-plugin-segura-os-scripts).
+
+## O titular pode mudar de ideia depois de aceitar os cookies?
+
+Sim, e é um direito dele (art. 8º, §5º da LGPD). Na Central de Privacidade, o botão **"Alterar Preferências de Cookies"** reabre o painel já mostrando o que ele escolheu antes. Ao **retirar** uma categoria, a página recarrega e o script para de carregar **na hora** — não fica valendo só na próxima visita. Veja [Consentimento & Cookies › Mudar de ideia depois](/modulos/consentimento/#mudar-de-ideia-depois).
 
 ## Por quanto tempo meus dados (ou os dos titulares) ficam guardados?
 

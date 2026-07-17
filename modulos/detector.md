@@ -3,6 +3,11 @@ title: "Detector de Conformidade"
 parent: "Módulos"
 nav_order: 1
 permalink: /modulos/detector/
+role: encarregado
+routes: ["#/detector", "#/settings"]
+screenshots: [v3rlgpd-90-detector, v3rlgpd-91-detector-rastreador-origem]
+last_verified: 2026-07-17
+status: publicado
 ---
 
 # Detector de Conformidade
@@ -41,9 +46,46 @@ Cada achado explica **o que encontramos**, **por que importa** (com o artigo da 
 
 ## O caso dos rastreadores (cookies sem consentimento)
 
-Um dos achados mais úteis: o Detector encontra **scripts de rastreamento** (Google Analytics, Google Tag Manager, Pixel do Facebook, Google Ads, LinkedIn, TikTok, Hotjar, Clarity) que estão disparando no seu site **antes** do visitante consentir — geralmente porque foram colados direto no tema ou por outro plugin.
+Um dos achados mais úteis: o Detector encontra **scripts de rastreamento** disparando no seu site **antes** do visitante consentir — geralmente porque foram colados direto no tema ou vêm de outro plugin. Ele reconhece os mais comuns: **Google Tag Manager, Google Analytics (GA4 e Universal), Meta Pixel (Facebook), Google Ads, LinkedIn Insight, TikTok Pixel, Hotjar e Microsoft Clarity**.
 
-Ao clicar em **Resolver** nesse achado, o V3RLGPD **leva o código do script já preenchido** para a aba [Cookies & Analytics](/modulos/configuracoes/) das Configurações, onde ele passa a carregar **só após o consentimento**. Basta você **revisar e salvar** — e depois **remover a tag original** de onde ela estava (tema ou outro plugin), senão ela dispara duas vezes.
+O Detector também **tenta identificar de onde o script vem**, cruzando os plugins que você tem ativos com o rastreador encontrado. Isso importa porque **muda o conselho**:
+
+[![Achado de rastreador com a origem identificada](/assets/screenshots/v3rlgpd-91-detector-rastreador-origem.png)](/assets/screenshots/v3rlgpd-91-detector-rastreador-origem.png)
+*Dois achados, dois conselhos: o de cima não tem origem identificada e oferece **Resolver**; o de baixo veio de um plugin com funcionalidade própria e, por isso, **não** oferece a importação.*
+
+### Quando é só um trecho — importe
+
+Se o script foi **colado no tema** ou está num injetor de código (WPCode, Header Footer Code Manager e afins), o trecho **é** a funcionalidade inteira. Clique em **Resolver**: o V3RLGPD leva o código já preenchido para a aba [Cookies & Analytics](/modulos/configuracoes/), onde ele passa a carregar **só após o consentimento**. Revise, salve — e **remova o trecho de onde estava**, senão ele dispara duas vezes. Nada se perde.
+
+> 💡 **Vários rastreadores? Traga todos de uma vez**
+>
+> Ter mais de um é o normal (Tag Manager + Analytics + Pixel é a combinação típica). Quando há mais de um importável, aparece o botão **"Resolver todos"** acima da lista: ele traz todos juntos, você revisa tudo de uma vez e **salva uma vez só**.
+>
+> Os que **não devem** ser importados (os que vêm de plugins com funcionalidade própria — logo abaixo) ficam **de fora de propósito**, e o aviso diz quantos são.
+>
+> Prefere ir um a um? Também funciona: os scripts trazidos ficam **pendentes até você salvar**, então dá para ir e voltar entre o Detector e as Configurações sem perder nada. Se mudar de ideia, o botão **Descartar** no aviso desfaz a importação pendente.
+
+### Quando vem de um plugin com funcionalidade própria — não importe
+
+Se o rastreador vem de um plugin como **MonsterInsights, Site Kit, GTM4WP, PixelYourSite** ou similares, o Detector **não oferece o botão Resolver** — de propósito.
+
+> ⚠️ **Por que não importar nesse caso**
+>
+> Esses plugins fazem **muito mais** do que emitir a tag: eles também rastreiam downloads e formulários, mandam os eventos de e-commerce com os dados da compra, montam o `dataLayer` e servem relatórios dentro do painel. Se você copiar só o trecho e desativar o plugin, **mantém a marcação básica e perde todo o resto — sem aviso nenhum**. A organização costuma descobrir meses depois, quando falta dado.
+>
+> O achado vai **nomear o plugin** e dizer **o que exatamente você perderia**. O caminho certo é usar a **configuração de consentimento do próprio plugin** (a maioria dos modernos tem). Se você não usa esses recursos extras, aí sim: remova o plugin e rode o Detector de novo.
+
+> 💡 **Quem desativa plugin é você**
+>
+> O V3RLGPD **não desativa** plugins de terceiros, nem se oferece para isso. Não temos como saber o que quebraríamos no seu site — e essa decisão, com as consequências dela, é da sua organização. Nosso papel é dizer **o quê**, **por quê** e **o que você perde**, com precisão suficiente para você decidir.
+
+### Quando não sabemos a origem
+
+Se nenhum plugin conhecido bate com o rastreador, o Detector **diz isso** em vez de dar uma instrução vaga, e explica os dois caminhos acima para você identificar qual é o seu caso.
+
+> ⚠️ **Não achar rastreador não significa que não há**
+>
+> O Detector reconhece a lista acima. Se a sua organização usa uma ferramenta que não está lá (Matomo, Plausible, Pinterest, Segment, um script próprio…), **ela não é detectada** — e o resultado "nenhum rastreador conhecido" **não garante** que o site esteja livre de rastreamento. Nesse caso, verifique manualmente.
 
 > ⚠️ **O Detector ajuda, não garante**
 >
