@@ -13,6 +13,7 @@ Passo a passo das tarefas mais comuns. Se você sabe **o que** quer fazer mas n�
 
 - [Configurar o Encarregado](/guias/configurar-dpo/)
 - [Publicar uma política](/guias/publicar-politica/)
+- [Exigir ciência de um documento](/guias/exigir-ciencia-documento/)
 - [Publicar a Central de Privacidade](/guias/publicar-central-privacidade/)
 - [Atender uma solicitação de titular](/guias/atender-solicitacao/)
 - [Registrar um incidente](/guias/registrar-incidente/)

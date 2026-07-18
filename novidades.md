@@ -8,6 +8,19 @@ permalink: /novidades/
 
 O que mudou no V3RLGPD, em linguagem leve. Para o histórico técnico completo, fale com a equipe de implantação.
 
+## Versão 1.57 — Registro de ciência de documentos
+
+Quando um documento importante muda — o **estatuto**, uma **política**, os **termos** —, agora você pode exigir que os usuários **tomem ciência da nova versão**, e o V3RLGPD guarda a prova: **quem** deu ciência, de **qual documento** e em **qual versão**.
+
+- No editor do documento, marque **"Exigir ciência dos usuários"**.
+- Quando você publica uma nova versão, cada usuário logado vê um **aviso único** no rodapé listando todos os documentos atualizados, com um botão **"Estou ciente"** que confirma todos de uma vez.
+- Em **Atendimento ao Titular → Ciência de documentos**, você acompanha quem já confirmou o quê.
+
+[![Aviso de novas versões de documentos](/assets/screenshots/v3rlgpd-31-ciencia-banner.png)](/assets/screenshots/v3rlgpd-31-ciencia-banner.png)
+*Um aviso, vários documentos, um clique.*
+
+Veja o passo a passo em **[Exigir ciência de um documento](/guias/exigir-ciencia-documento/)**.
+
 ## Versão 1.56 — O Detector acha os seus rastreadores e diz de onde eles vêm
 
 Seu banner de cookies só consegue segurar os scripts que **você** colou nas Configurações. Se o Google Analytics do site entrou por outro plugin ou está escrito no tema, ele carrega para todo visitante — tenha consentido ou não. O problema é que quase ninguém sabe o que tem instalado no próprio site.
