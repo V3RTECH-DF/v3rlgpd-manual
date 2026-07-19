@@ -8,6 +8,18 @@ permalink: /novidades/
 
 O que mudou no V3RLGPD, em linguagem leve. Para o histórico técnico completo, fale com a equipe de implantação.
 
+## Versão 1.58 — Transferência internacional agora registra a base legal
+
+Quando uma atividade envia dados para fora do Brasil (um serviço de e-mail, uma nuvem no exterior), a LGPD exige mais do que dizer "vai para os Estados Unidos": exige registrar **por que** essa transferência é permitida — o **mecanismo de proteção do art. 33**.
+
+- No Inventário (ROPA), ao marcar **"Ocorre Transferência Internacional?"**, você agora escolhe também o **mecanismo de proteção** numa lista pronta (país com proteção adequada, **cláusulas-padrão contratuais**, consentimento do titular…), e pode anotar um **detalhe da garantia**.
+- O mecanismo aparece nos **relatórios** e na **vitrine pública** ("Sim — Estados Unidos · Cláusulas-padrão contratuais").
+- O **Assistente de Políticas** usa esse mecanismo para escrever a cláusula de transferência internacional, e avisa quando alguma atividade tem transferência **sem** mecanismo informado.
+
+Registros antigos, feitos antes desta versão, aparecem como **"mecanismo não informado"** até você completá-los.
+
+Veja em **[Inventário (ROPA)](/modulos/inventario-ropa/)**.
+
 ## Versão 1.57 — Registro de ciência de documentos
 
 Quando um documento importante muda — o **estatuto**, uma **política**, os **termos** —, agora você pode exigir que os usuários **tomem ciência da nova versão**, e o V3RLGPD guarda a prova: **quem** deu ciência, de **qual documento** e em **qual versão**.

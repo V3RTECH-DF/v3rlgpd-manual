@@ -5,8 +5,8 @@ parent: "Módulos"
 permalink: /modulos/inventario-ropa/
 role: encarregado
 routes: ["#/ropa", "#/ropa/report", "#/ropa/assistant"]
-screenshots: [v3rlgpd-06-ropa, v3rlgpd-34-assistente-intro, v3rlgpd-35-assistente-perguntas, v3rlgpd-37-assistente-conclusao]
-last_verified: 2026-06-27
+screenshots: [v3rlgpd-06-ropa, v3rlgpd-34-assistente-intro, v3rlgpd-35-assistente-perguntas, v3rlgpd-37-assistente-conclusao, v3rlgpd-75-ropa-transferencia-mecanismo]
+last_verified: 2026-07-19
 status: publicado
 ---
 
@@ -42,7 +42,10 @@ Como funciona, em poucos passos:
 - **Atividade** — o que sua organização faz (ex.: "Cadastro de voluntários", "Newsletter de doadores").
 - **Dados Pessoais** — quais dados são coletados (nome, CPF, telefone, e-mail…).
 - **Base Legal** — o fundamento que autoriza o tratamento (execução de contrato, consentimento, obrigação legal…). Veja [Conceitos](/conceitos-lgpd/#as-bases-legais-art-7º-e-11).
-- **Transferência Internacional** — se os dados saem do Brasil (ex.: um serviço hospedado no exterior).
+- **Transferência Internacional** — se os dados saem do Brasil (ex.: um serviço hospedado no exterior). Ao marcar essa opção, você informa também o **país(es) de destino** e o **mecanismo de proteção (art. 33)** — a base legal que permite os dados saírem do Brasil. Na dúvida, para fornecedores dos Estados Unidos ou da Europa, o mais comum é **"Cláusulas-padrão contratuais"**. Há ainda um campo opcional **"Detalhe da garantia"** para anotar, por exemplo, a cláusula ou a certificação que sustenta a transferência. Esse mecanismo aparece nos relatórios e é usado pelo [Assistente de Políticas](/modulos/politicas/) para redigir a cláusula de transferência internacional.
+
+[![Campos de transferência internacional com o mecanismo de proteção do art. 33](/assets/screenshots/v3rlgpd-75-ropa-transferencia-mecanismo.png)](/assets/screenshots/v3rlgpd-75-ropa-transferencia-mecanismo.png)
+*Ao marcar a transferência internacional, você escolhe o mecanismo de proteção do art. 33.*
 
 > 💡 **Por que isso importa**
 >
