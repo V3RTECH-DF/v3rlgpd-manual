@@ -23,7 +23,7 @@ Um **incidente de segurança** é qualquer evento que comprometa dados pessoais:
 - **Descrição e Medidas Tomadas** — o que aconteceu e o que sua organização fez em resposta.
 - **Dados Envolvidos (Alcance)** — quais dados e quantas pessoas foram potencialmente afetadas.
 
-Cada incidente registrado entra no **Histórico de Incidentes**, criando a trilha que você pode apresentar à ANPD, ao conselho ou a um financiador.
+Cada incidente registrado entra no **Histórico de Incidentes**, criando a trilha que você pode apresentar à <a href="https://www.gov.br/anpd/pt-br" target="_blank" rel="noopener noreferrer">ANPD</a>, ao conselho ou a um financiador.
 
 ## Comunicação aos titulares
 

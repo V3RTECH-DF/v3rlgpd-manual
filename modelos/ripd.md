@@ -9,7 +9,7 @@ status: rascunho
 
 # Relatório de Impacto à Proteção de Dados (RIPD) — Art. 38
 
-O **RIPD** (também chamado de DPIA) é um documento que descreve os **tratamentos de dados** que podem gerar **riscos** aos titulares e as **medidas** para mitigá-los. A ANPD pode **solicitá-lo** ao controlador (Art. 38), especialmente quando o tratamento se baseia em legítimo interesse ou envolve risco maior.
+O **RIPD** (também chamado de DPIA) é um documento que descreve os **tratamentos de dados** que podem gerar **riscos** aos titulares e as **medidas** para mitigá-los. A <a href="https://www.gov.br/anpd/pt-br" target="_blank" rel="noopener noreferrer">ANPD</a> pode **solicitá-lo** ao controlador (Art. 38), especialmente quando o tratamento se baseia em legítimo interesse ou envolve risco maior.
 
 > 💡 **Por que isso importa**
 >

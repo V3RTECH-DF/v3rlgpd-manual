@@ -40,7 +40,7 @@ Um panorama do que já foi entregue e das direções em estudo para as próximas
 | **Verificador de Formulários** (analisa campos e aponta pendências de conformidade) | 1.35–1.36 | [Verificador de Formulários](/modulos/formularios/) |
 | **ROPA a partir do formulário** (gerar rascunho pré-preenchido + editar formulário em nova aba) | 1.37 | [Verificador de Formulários](/modulos/formularios/#criar-a-atividade-do-ropa-a-partir-do-formulário) |
 | **Formulários do Google** (cadastro por URL + autodescoberta + verificação + auto-ROPA) | 1.38 | [Formulários do Google](/modulos/formularios/#formulários-do-google-google-forms) |
-| **Notícias da ANPD no Painel** (últimas manchetes da ANPD, atualizadas automaticamente) | 1.39 | [Painel › Notícias da ANPD](/modulos/painel/#notícias-da-anpd) |
+| **Notícias da <a href="https://www.gov.br/anpd/pt-br" target="_blank" rel="noopener noreferrer">ANPD</a> no Painel** (últimas manchetes da ANPD, atualizadas automaticamente) | 1.39 | [Painel › Notícias da ANPD](/modulos/painel/#notícias-da-anpd) |
 | **Verificação salva no Verificador** (o resultado fica guardado, com data, sem reverificar tudo) | 1.40 | [Verificador de Formulários](/modulos/formularios/) |
 | **Equipe / Acessos** (papéis Encarregado, Atendente e Auditor para a equipe) | 1.41 | [Equipe / Acessos](/modulos/equipe-acessos/) |
 

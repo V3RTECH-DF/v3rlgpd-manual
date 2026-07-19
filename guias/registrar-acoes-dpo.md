@@ -19,7 +19,7 @@ Use o módulo **Ações do Encarregado** para documentar, em poucos cliques, o q
 
 1. No menu, abra **Atendimento ao Titular** e vá à aba **Ações do Encarregado**.
 2. No formulário **Registrar nova ação**, preencha:
-   - **Tipo** (projeto, capacitação, ponto de atenção, anotação, revisão, auditoria, contato com a ANPD, reunião…).
+   - **Tipo** (projeto, capacitação, ponto de atenção, anotação, revisão, auditoria, contato com a <a href="https://www.gov.br/anpd/pt-br" target="_blank" rel="noopener noreferrer">ANPD</a>, reunião…).
    - **Título** (obrigatório) e **Descrição**.
    - **Data** (já vem com a data de hoje).
 3. Clique em **Registrar ação**. Pronto — ela aparece na lista.

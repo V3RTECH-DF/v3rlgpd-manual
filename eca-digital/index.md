@@ -11,7 +11,7 @@ status: rascunho
 
 > ⚠️ **Aviso importante**
 >
-> Este conteúdo **ajuda a sua organização a se situar** diante do ECA Digital; **não é parecer jurídico** e **não garante conformidade**. A lei é recente e **parte da regulamentação ainda é preliminar na ANPD** (mecanismos de aferição de idade). A responsabilidade pela conformidade é da organização.
+> Este conteúdo **ajuda a sua organização a se situar** diante do ECA Digital; **não é parecer jurídico** e **não garante conformidade**. A lei é recente e **parte da regulamentação ainda é preliminar na <a href="https://www.gov.br/anpd/pt-br" target="_blank" rel="noopener noreferrer">ANPD</a>** (mecanismos de aferição de idade). A responsabilidade pela conformidade é da organização.
 
 O **ECA Digital** (Lei nº 15.211/2025, o *Estatuto Digital da Criança e do Adolescente*) trata da **proteção de crianças e adolescentes em ambientes digitais**. Está **em vigor desde 17/03/2026**.
 

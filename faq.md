@@ -16,7 +16,7 @@ Não para **usar** a ferramenta. Mas as **decisões jurídicas** (qual base lega
 
 ## O Encarregado precisa ser advogado?
 
-Não. O Encarregado pode ser um voluntário, funcionário ou setor. Precisa estar acessível aos titulares e à ANPD e ter respaldo interno. Veja [Papéis](/papeis/).
+Não. O Encarregado pode ser um voluntário, funcionário ou setor. Precisa estar acessível aos titulares e à <a href="https://www.gov.br/anpd/pt-br" target="_blank" rel="noopener noreferrer">ANPD</a> e ter respaldo interno. Veja [Papéis](/papeis/).
 
 ## Posso dar acesso ao plugin para mais de uma pessoa da minha equipe?
 

@@ -16,7 +16,7 @@ Se a sua organização trabalha com **crianças e adolescentes** — projetos so
 
 > ⚠️ **Atenção**
 >
-> O ECA Digital é uma **lei distinta** da LGPD. O V3RLGPD **ajuda** a sua organização a se organizar diante dela, mas **não é parecer jurídico** e **não garante conformidade** — a responsabilidade é da organização. A lei é recente e parte da regulamentação ainda é preliminar na ANPD.
+> O ECA Digital é uma **lei distinta** da LGPD. O V3RLGPD **ajuda** a sua organização a se organizar diante dela, mas **não é parecer jurídico** e **não garante conformidade** — a responsabilidade é da organização. A lei é recente e parte da regulamentação ainda é preliminar na <a href="https://www.gov.br/anpd/pt-br" target="_blank" rel="noopener noreferrer">ANPD</a>.
 
 > 💡 **Por que isso importa**
 >

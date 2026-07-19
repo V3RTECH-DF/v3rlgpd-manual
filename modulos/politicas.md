@@ -19,7 +19,7 @@ O módulo **Políticas** é onde sua organização cria, versiona e publica os d
 
 > 💡 **Por que isso importa**
 >
-> Transparência é um pilar da LGPD: o titular tem o direito de saber o que você faz com os dados dele. Uma política clara e publicada é a forma mais direta de cumprir esse dever — e a primeira coisa que um financiador ou a ANPD vão procurar.
+> Transparência é um pilar da LGPD: o titular tem o direito de saber o que você faz com os dados dele. Uma política clara e publicada é a forma mais direta de cumprir esse dever — e a primeira coisa que um financiador ou a <a href="https://www.gov.br/anpd/pt-br" target="_blank" rel="noopener noreferrer">ANPD</a> vão procurar.
 
 ## Ambiente genérico de políticas
 

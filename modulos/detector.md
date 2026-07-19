@@ -21,7 +21,7 @@ Fica na aba **Detector**, dentro de **Auditoria de Conformidade** (primeira aba)
 
 > 💡 **Por que isso importa**
 >
-> Você pode ter configurado tudo certo no plugin, mas um detalhe no ar passar despercebido: uma tag de rastreamento que o tema instalou, a política que não está linkada no rodapé, a página do titular fora do ar. O Detector encontra essas lacunas do jeito que um auditor externo (ou a ANPD) veria.
+> Você pode ter configurado tudo certo no plugin, mas um detalhe no ar passar despercebido: uma tag de rastreamento que o tema instalou, a política que não está linkada no rodapé, a página do titular fora do ar. O Detector encontra essas lacunas do jeito que um auditor externo (ou a <a href="https://www.gov.br/anpd/pt-br" target="_blank" rel="noopener noreferrer">ANPD</a>) veria.
 
 ## Como rodar uma análise
 

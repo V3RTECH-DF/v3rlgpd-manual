@@ -12,7 +12,7 @@ status: publicado
 
 # Ações do Encarregado
 
-O módulo **Ações do Encarregado** é o lugar onde o **encarregado** registra as iniciativas que realiza ao longo do tempo — um **diário de accountability** da organização. É a resposta para a pergunta que um financiador, uma auditoria ou a ANPD podem fazer: *"o que vocês têm feito, na prática, pela proteção de dados?"*
+O módulo **Ações do Encarregado** é o lugar onde o **encarregado** registra as iniciativas que realiza ao longo do tempo — um **diário de accountability** da organização. É a resposta para a pergunta que um financiador, uma auditoria ou a <a href="https://www.gov.br/anpd/pt-br" target="_blank" rel="noopener noreferrer">ANPD</a> podem fazer: *"o que vocês têm feito, na prática, pela proteção de dados?"*
 
 [![Lista de ações do Encarregado](/assets/screenshots/v3rlgpd-dpo-01-lista.png)](/assets/screenshots/v3rlgpd-dpo-01-lista.png)
 *Cada ação registra tipo, data, título e — quando você quiser — status, responsável, evidência e vínculo.*

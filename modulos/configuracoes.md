@@ -58,7 +58,7 @@ Aqui você cadastra o **Encarregado** — nome/setor, e-mail e telefone, que apa
 
 > ⚠️ **Designação formal ≠ papel de acesso**
 >
-> Esta tela define a designação **formal** do Encarregado (art. 41) — o contato **publicado** aos titulares e à ANPD —, que pode até ser alguém **sem usuário no WordPress** (um jurídico externo, um comitê, um e-mail). Não confunda com o **papel de acesso** "Encarregado" em [Equipe / Acessos](/modulos/equipe-acessos/), que apenas concede permissões no painel.
+> Esta tela define a designação **formal** do Encarregado (art. 41) — o contato **publicado** aos titulares e à <a href="https://www.gov.br/anpd/pt-br" target="_blank" rel="noopener noreferrer">ANPD</a> —, que pode até ser alguém **sem usuário no WordPress** (um jurídico externo, um comitê, um e-mail). Não confunda com o **papel de acesso** "Encarregado" em [Equipe / Acessos](/modulos/equipe-acessos/), que apenas concede permissões no painel.
 
 **Atalho:** o botão **"Preencher a partir de um usuário do WordPress"** busca um usuário e preenche nome e e-mail automaticamente (você ainda pode editar; o telefone segue manual).
 

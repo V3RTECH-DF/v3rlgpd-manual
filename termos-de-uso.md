@@ -34,7 +34,7 @@ A organização, na condição de **controladora dos dados**, é **integralmente
 - todas as decisões de tratamento (bases legais, finalidades, prazos de retenção, medidas de segurança);
 - o conteúdo das políticas, avisos e documentos que publicar com auxílio da ferramenta;
 - a veracidade e a atualização das informações que registrar;
-- o cumprimento das obrigações da LGPD perante titulares, a ANPD e terceiros.
+- o cumprimento das obrigações da LGPD perante titulares, a <a href="https://www.gov.br/anpd/pt-br" target="_blank" rel="noopener noreferrer">ANPD</a> e terceiros.
 
 ## 5. Limitação de responsabilidade da V3RTECH e da RIT
 

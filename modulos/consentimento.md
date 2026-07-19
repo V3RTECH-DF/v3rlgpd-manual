@@ -97,7 +97,7 @@ Ative o banner e cole os scripts de cada categoria em **Configurações → Bann
 
 ### Exibir ou não o banner
 
-A partir da versão 1.2, há uma opção **"Exibir o banner de cookies no site"**. Ela existe porque há discussão na ANPD sobre a real eficácia dos banners — e algumas organizações podem preferir não usá-lo (por exemplo, quando não carregam scripts de análise/marketing).
+A partir da versão 1.2, há uma opção **"Exibir o banner de cookies no site"**. Ela existe porque há discussão na <a href="https://www.gov.br/anpd/pt-br" target="_blank" rel="noopener noreferrer">ANPD</a> sobre a real eficácia dos banners — e algumas organizações podem preferir não usá-lo (por exemplo, quando não carregam scripts de análise/marketing).
 
 > ⚠️ **Desligar o banner desliga os scripts não-essenciais**
 >

@@ -17,7 +17,15 @@ permalink: /
 .quick-links { display: flex; flex-wrap: wrap; gap: 0.6rem; margin: 0.75rem 0 2rem; }
 .quick-links a { padding: 0.4rem 1rem; border: 1px solid #cdd9d4; border-radius: 20px; font-size: 0.88rem; text-decoration: none; color: #0F4855; background: #eef4f2; }
 .quick-links a:hover { background: #dce8f8; }
+.home-logo { margin: 1rem 0 0.5rem; }
+.home-logo img { max-width: 340px; width: 100%; height: auto; }
 </style>
+
+<div class="home-logo">
+  <a href="https://v3rtech.com.br/v3rlgpd/" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/logo.png" alt="V3RLGPD — Gestão da LGPD sob controle">
+  </a>
+</div>
 
 <div class="home-intro">
   <p>O <strong>V3RLGPD</strong> é a ferramenta de conformidade com a LGPD desenvolvida pela <a href="https://v3rtech.com.br" target="_blank" rel="noopener noreferrer">V3RTECH</a> que ajuda organizações a se organizarem para a <strong>Lei Geral de Proteção de Dados (LGPD — Lei nº 13.709/2018)</strong>: publicar políticas, atender pedidos de titulares, registrar incidentes, manter o inventário de dados e acompanhar o quanto a organização está preparada. <a href="https://rit.org.br/solucoes/v3rlgpd/" target="_blank" rel="noopener noreferrer">Saiba mais sobre o V3RLGPD</a>.</p>

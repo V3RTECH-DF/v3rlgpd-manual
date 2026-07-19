@@ -10,13 +10,13 @@ Antes de mexer na ferramenta, vale entender a lei em linguagem de gente. Esta p�
 
 > 💡 **Por que isso importa**
 >
-> organização trabalha o tempo todo com dados de pessoas: voluntários, doadores, beneficiários, inscritos em eventos, newsletter. A LGPD não existe para atrapalhar esse trabalho — ela existe para que essas pessoas confiem na sua organização. Entender os conceitos é o que separa "cumprir por medo de multa" de "usar dados com responsabilidade", que é o que sustenta a relação de confiança que toda organização depende.
+> Sua organização trabalha o tempo todo com dados de pessoas: voluntários, doadores, beneficiários, inscritos em eventos, newsletter. A LGPD não existe para atrapalhar esse trabalho — ela existe para que essas pessoas confiem na sua organização. Entender os conceitos é o que separa "cumprir por medo de multa" de "usar dados com responsabilidade", que é o que sustenta a relação de confiança de que toda organização depende.
 
 ## O que é a LGPD
 
 A **Lei Geral de Proteção de Dados (Lei nº 13.709/2018)** regula como qualquer organização — empresa, órgão público ou entidade sem fins lucrativos — pode **coletar, usar, compartilhar e guardar dados pessoais**. Ela vale para a sua organização independentemente do tamanho ou da natureza: não há isenção para entidade pequena ou sem fins lucrativos.
 
-A lei é fiscalizada pela **ANPD — Autoridade Nacional de Proteção de Dados**, o órgão federal que edita regras, orienta e pode aplicar sanções.
+A lei é fiscalizada pela **<a href="https://www.gov.br/anpd/pt-br" target="_blank" rel="noopener noreferrer">ANPD</a> — Autoridade Nacional de Proteção de Dados**, o órgão federal que edita regras, orienta e pode aplicar sanções.
 
 ## Quem é quem
 

@@ -23,7 +23,7 @@ Acontece **transferência internacional** sempre que dados pessoais saem do Bras
 
 Entre as principais hipóteses:
 
-- Para **países ou organismos** que ofereçam grau de proteção **adequado** (reconhecido pela ANPD).
+- Para **países ou organismos** que ofereçam grau de proteção **adequado** (reconhecido pela <a href="https://www.gov.br/anpd/pt-br" target="_blank" rel="noopener noreferrer">ANPD</a>).
 - Quando o controlador oferece **garantias** de cumprimento (ex.: **cláusulas-padrão contratuais**, cláusulas específicas, normas corporativas globais).
 - Mediante **consentimento específico e destacado** do titular para a transferência.
 - Outras hipóteses do Art. 33 (cumprimento de obrigação legal, proteção da vida, etc.).

@@ -125,7 +125,7 @@ O **Verificador de Formulários** passou a **salvar o resultado** de cada verifi
 
 ## Versão 1.39 — Notícias da ANPD no Painel
 
-O **Painel** ganhou um bloco **"📰 Notícias da ANPD"** na 3ª coluna da seção superior (ao lado do anel de conformidade), com as **últimas manchetes** da Autoridade Nacional de Proteção de Dados.
+O **Painel** ganhou um bloco **"📰 Notícias da <a href="https://www.gov.br/anpd/pt-br" target="_blank" rel="noopener noreferrer">ANPD</a>"** na 3ª coluna da seção superior (ao lado do anel de conformidade), com as **últimas manchetes** da Autoridade Nacional de Proteção de Dados.
 
 - Acompanhe **regulação, orientações, prazos e consultas públicas** sem sair do painel.
 - Cada manchete traz a **data** e abre a notícia no **site da ANPD** em nova aba.

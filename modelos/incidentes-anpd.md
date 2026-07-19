@@ -9,7 +9,7 @@ status: rascunho
 
 # Comunicar incidente à ANPD (Art. 48)
 
-Quando ocorre um **incidente de segurança** (vazamento, perda, acesso indevido) que possa acarretar **risco ou dano relevante** aos titulares, a LGPD (Art. 48) exige comunicar **a ANPD** e **os titulares afetados**.
+Quando ocorre um **incidente de segurança** (vazamento, perda, acesso indevido) que possa acarretar **risco ou dano relevante** aos titulares, a LGPD (Art. 48) exige comunicar **a <a href="https://www.gov.br/anpd/pt-br" target="_blank" rel="noopener noreferrer">ANPD</a>** e **os titulares afetados**.
 
 > ℹ️ **O plugin registra — a comunicação à ANPD é externa**
 >

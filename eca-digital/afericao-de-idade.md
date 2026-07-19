@@ -14,7 +14,7 @@ status: rascunho
 >
 > Se o seu site tem **controle editorial** (conteúdo escolhido pela própria organização, sem automação), a **aferição de idade é dispensada** — veja o [Enquadramento](/eca-digital/enquadramento/). Esta página é para o **caso incomum** em que a sua organização realmente vai **verificar a idade** de quem acessa (ex.: oferta de conteúdo impróprio para menores). Se não é o seu caso, pode pular.
 
-Quando a aferição **é mesmo necessária**, a forma de fazer importa tanto quanto o fato de fazer: um método mal escolhido coleta dados demais e cria um risco novo. As orientações preliminares da ANPD apontam **seis cuidados** para escolher um método alinhado à LGPD. Use a lista abaixo como guia.
+Quando a aferição **é mesmo necessária**, a forma de fazer importa tanto quanto o fato de fazer: um método mal escolhido coleta dados demais e cria um risco novo. As orientações preliminares da <a href="https://www.gov.br/anpd/pt-br" target="_blank" rel="noopener noreferrer">ANPD</a> apontam **seis cuidados** para escolher um método alinhado à LGPD. Use a lista abaixo como guia.
 
 ## A pergunta zero: dá para **não** aferir?
 

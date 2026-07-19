@@ -56,7 +56,7 @@ aux_links:
 aux_links_new_tab: true
 
 # Rodapé
-footer_content: '© 2026 <a href="https://v3rtech.com.br/" target="_blank" rel="noopener">V3RTECH</a> · distribuído pela <a href="https://rit.org.br" target="_blank" rel="noopener">RIT — Rede de Inovação e Transformação</a>. Este guia ajuda sua organização a se organizar para a LGPD, mas não substitui aconselhamento jurídico. · <a href="/disclaimer/">Aviso legal</a>'
+footer_content: '© 2026 <a href="https://v3rtech.com.br/" target="_blank" rel="noopener">V3RTECH</a> · Este guia ajuda sua organização a se organizar para a LGPD, mas não substitui aconselhamento jurídico. · <a href="/disclaimer/">Aviso legal</a>'
 last_edit_timestamp: false
 back_to_top: true
 back_to_top_text: "Voltar ao topo"

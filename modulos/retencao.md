@@ -29,7 +29,7 @@ Todo dia, em segundo plano, o plugin verifica o que está perto de vencer, **avi
 
 A ação padrão é **anonimização**, não exclusão pura.
 
-- Nos dados **do próprio V3RLGPD** (atendimentos concluídos, consentimentos revogados), o registro **nunca** é apagado: apaga-se o que identifica a pessoa (e-mail, IP) e **preserva-se a prova** (tipo, datas, versão) — é o que sustenta a sua *accountability* perante a ANPD.
+- Nos dados **do próprio V3RLGPD** (atendimentos concluídos, consentimentos revogados), o registro **nunca** é apagado: apaga-se o que identifica a pessoa (e-mail, IP) e **preserva-se a prova** (tipo, datas, versão) — é o que sustenta a sua *accountability* perante a <a href="https://www.gov.br/anpd/pt-br" target="_blank" rel="noopener noreferrer">ANPD</a>.
 - Em dados de **sistemas externos** (ex.: uma entrada de formulário de um plugin que só permite deletar), remover a entrada **é** a ação de retenção. Nesse caso o V3RLGPD guarda apenas uma **referência sem dado pessoal** (um identificador genérico + data + origem) como comprovante de que a regra foi cumprida.
 
 > 💡 **Por que anonimizar em vez de só apagar**

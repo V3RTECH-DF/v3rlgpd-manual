@@ -21,7 +21,7 @@ O **Dashboard** é a primeira tela do V3RLGPD: o cockpit onde o Encarregado vê,
 
 O card mostra, de um lado, a **lista do que é verificado pelo sistema** (Política de Privacidade ativa, Encarregado configurado, Consentimento/Cookies, Central de Privacidade, Inventário) — cada item com o **artigo da LGPD** correspondente; do outro, um **anel** com o **percentual verificado** e, separado e em roxo, o indicador **"Atestado: X de 4"** (a parte autodeclarada, que **não** infla o percentual).
 
-O selo **"ⓘ Por que isto importa (LGPD)"** abre uma explicação curta com o artigo da Lei e links para o Manual, o texto oficial (Planalto) e a ANPD.
+O selo **"ⓘ Por que isto importa (LGPD)"** abre uma explicação curta com o artigo da Lei e links para o Manual, o texto oficial (Planalto) e a <a href="https://www.gov.br/anpd/pt-br" target="_blank" rel="noopener noreferrer">ANPD</a>.
 
 ### O Selo de Conformidade no painel
 

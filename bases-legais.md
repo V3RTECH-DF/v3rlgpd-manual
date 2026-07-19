@@ -76,7 +76,7 @@ Um roteiro rápido para a maioria dos casos:
 
 > ✅ **Boas práticas**
 >
-> Registre a base legal de **cada atividade** no [Inventário (ROPA)](/modulos/inventario-ropa/). É lá que essa escolha vira documentação — e o que você mostra a um financiador ou à ANPD se for questionado.
+> Registre a base legal de **cada atividade** no [Inventário (ROPA)](/modulos/inventario-ropa/). É lá que essa escolha vira documentação — e o que você mostra a um financiador ou à <a href="https://www.gov.br/anpd/pt-br" target="_blank" rel="noopener noreferrer">ANPD</a> se for questionado.
 
 > ⚠️ Este guia ajuda a identificar a base mais provável, mas **não substitui** a análise de um profissional jurídico para os casos sensíveis ou de dúvida. Veja o [Aviso legal](/disclaimer/).
 

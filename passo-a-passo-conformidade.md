@@ -39,7 +39,7 @@ Este é o coração da adequação. Liste **todas as atividades** em que sua org
 
 > 💡 **Por que isso importa**
 >
-> Você não consegue proteger o que não sabe que tem. O inventário é o que permite responder a um pedido de titular ("quais dados você tem sobre mim?"), justificar um tratamento à ANPD e descobrir coletas desnecessárias que só aumentam seu risco. **Se você fizer só uma coisa da LGPD, faça o inventário.**
+> Você não consegue proteger o que não sabe que tem. O inventário é o que permite responder a um pedido de titular ("quais dados você tem sobre mim?"), justificar um tratamento à <a href="https://www.gov.br/anpd/pt-br" target="_blank" rel="noopener noreferrer">ANPD</a> e descobrir coletas desnecessárias que só aumentam seu risco. **Se você fizer só uma coisa da LGPD, faça o inventário.**
 
 **No plugin:** registre cada atividade no módulo **[Inventário (ROPA)](/modulos/inventario-ropa/)**. Ele alimenta automaticamente o gerador de Política de Privacidade.
 

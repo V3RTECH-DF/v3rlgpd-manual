@@ -49,7 +49,7 @@ Como funciona, em poucos passos:
 
 > 💡 **Por que isso importa**
 >
-> O inventário é o documento que **mais** trabalha a seu favor. É dele que sai a resposta a "quais dados você tem sobre mim?", a justificativa de um tratamento perante a ANPD e o conteúdo automático da Política de Privacidade. **Se sua organização fizer só uma coisa da LGPD, que seja manter o inventário.**
+> O inventário é o documento que **mais** trabalha a seu favor. É dele que sai a resposta a "quais dados você tem sobre mim?", a justificativa de um tratamento perante a <a href="https://www.gov.br/anpd/pt-br" target="_blank" rel="noopener noreferrer">ANPD</a> e o conteúdo automático da Política de Privacidade. **Se sua organização fizer só uma coisa da LGPD, que seja manter o inventário.**
 
 ## Modele por finalidade, não por formulário
 

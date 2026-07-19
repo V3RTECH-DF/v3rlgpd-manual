@@ -24,7 +24,7 @@ O curso cobre, em linguagem acessível:
 - o contexto e os marcos que levaram à criação da LGPD;
 - os fundamentos e conceitos centrais da lei;
 - o papel e as responsabilidades dos **agentes de tratamento** (controlador e operador);
-- a atuação da **ANPD**;
+- a atuação da **<a href="https://www.gov.br/anpd/pt-br" target="_blank" rel="noopener noreferrer">ANPD</a>**;
 - **casos emblemáticos** de grande repercussão no Brasil.
 
 ➡️ **Acesse:** [Curso "Fundamentos da LGPD" — RIT](https://cursos.rit.org.br/course/view.php?id=8)
