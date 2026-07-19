@@ -2,11 +2,11 @@
 
 Site Jekyll ([just-the-docs](https://just-the-docs.com/)) do **Manual do Usuário / Guia da LGPD** do V3RLGPD. Publicado em **https://docs.v3rlgpd.v3rtech.com.br/** via GitHub Pages.
 
-> Frente NOSSA (RIT/V3RTECH) — desacoplada do plugin. O plugin apenas **linka** para este endereço. Método em `dev-history/manual-externo-metodo.md`. Backlog: BL-025 (#10).
+> Frente NOSSA (V3RTECH) — desacoplada do plugin. O plugin apenas **linka** para este endereço. Método em `dev-history/manual-externo-metodo.md`. Backlog: BL-025 (#10).
 
 ## Como é publicado
 
-O conteúdo é **autorado aqui** (`docs-publicos/`, no repo do plugin) e **espelhado** para o repositório dedicado **[RIT-DF/docs-v3rlgpd](https://github.com/RIT-DF/docs-v3rlgpd)** pelo script `bin/publish-manual.sh`. O GitHub Actions desse repo (`.github/workflows/pages.yml`, que vive aqui em `docs-publicos/.github/` e é sincronizado junto) builda o Jekyll e publica no GitHub Pages.
+O conteúdo é **autorado aqui** (`docs-publicos/`, no repo do plugin) e **espelhado** para o repositório dedicado **[V3RTECH-DF/v3rlgpd-manual](https://github.com/V3RTECH-DF/v3rlgpd-manual)** pelo script `bin/publish-manual.sh`. O GitHub Actions desse repo (`.github/workflows/pages.yml`, que vive aqui em `docs-publicos/.github/` e é sincronizado junto) builda o Jekyll e publica no GitHub Pages.
 
 ```bash
 bin/publish-manual.sh           # espelha docs-publicos/ -> repo do manual -> push (Actions publica)
@@ -32,7 +32,7 @@ bundle exec jekyll serve
 - `guias/` — passo a passo por tarefa/papel.
 - `faq.md`, `legal.md`, `novidades.md`, `roadmap.md`, `disclaimer.md` — seções fixas.
 - `assets/screenshots/` — capturas do ambiente (prefixo `v3rlgpd-*`).
-- `_sass/color_schemes/v3rlgpd.scss` — paleta RIT.
+- `_sass/color_schemes/v3rlgpd.scss` — paleta V3R.
 
 ## Capturas de tela
 

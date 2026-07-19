@@ -37,7 +37,7 @@ O V3RLGPD é usado por pessoas diferentes, com objetivos diferentes. Saber em qu
 
 ## Administrador técnico do site (WordPress)
 
-Quem instala, atualiza e mantém o WordPress e o plugin. Costuma agir uma vez (instalação/configuração inicial) e depois só em manutenções. As instruções de instalação ficam com a RIT/V3RTECH no momento da implantação.
+Quem instala, atualiza e mantém o WordPress e o plugin. Costuma agir uma vez (instalação/configuração inicial) e depois só em manutenções. As instruções de instalação ficam com a V3RTECH/RIT no momento da implantação.
 
 > ✅ **Boas práticas**
 >

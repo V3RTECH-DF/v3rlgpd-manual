@@ -80,7 +80,7 @@ Um **conector** é a "ponte" que sabe encontrar e anonimizar um tipo de dado. O 
 
 > 💡 **Extensível por design**
 >
-> Outros sistemas — inclusive os produtos irmãos da RIT — podem registrar seus próprios conectores no mesmo "encaixe", sem reescrever o módulo. Se um conector não estiver presente, as atividades ligadas a ele ficam apenas **inertes** (sem dar erro), e o painel sinaliza isso.
+> Outros sistemas podem registrar seus próprios conectores no mesmo "encaixe", sem reescrever o módulo. Se um conector não estiver presente, as atividades ligadas a ele ficam apenas **inertes** (sem dar erro), e o painel sinaliza isso.
 
 ## Mapeamento de Formulários: o atalho de quem tem muitos forms
 

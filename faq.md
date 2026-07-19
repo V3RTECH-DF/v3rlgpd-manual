@@ -136,7 +136,7 @@ Não. Os deveres do ECA Digital aparecem em uma **seção própria** no Mapa e *
 
 ## Onde reporto um problema ou sugiro uma melhoria?
 
-Fale com a equipe da RIT/V3RTECH responsável pela sua implantação. As novidades do produto aparecem em [Novidades](/novidades/) e os planos futuros em [Roadmap](/roadmap/).
+Fale com a equipe da V3RTECH/RIT responsável pela sua implantação. As novidades do produto aparecem em [Novidades](/novidades/) e os planos futuros em [Roadmap](/roadmap/).
 
 ## Minha organização atende crianças e adolescentes. E agora?
 

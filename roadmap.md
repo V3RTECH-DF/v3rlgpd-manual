@@ -56,6 +56,6 @@ Um panorama do que já foi entregue e das direções em estudo para as próximas
 
 ## Como influenciar o roadmap
 
-Sua experiência de uso ajuda a priorizar. Leve dúvidas, dificuldades e ideias à equipe da RIT/V3RTECH responsável pela sua implantação — feedback de quem opera no dia a dia de uma organização é o que mais move o produto.
+Sua experiência de uso ajuda a priorizar. Leve dúvidas, dificuldades e ideias à equipe da V3RTECH/RIT responsável pela sua implantação — feedback de quem opera no dia a dia de uma organização é o que mais move o produto.
 
 > 📚 E para crescer junto: conheça a [formação em LGPD da RIT](https://cursos.rit.org.br/){:target="_blank" rel="noopener"} — **gratuita para as organizações integradas à RIT**.

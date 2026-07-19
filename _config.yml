@@ -1,5 +1,5 @@
 title: V3RLGPD
-description: "Manual do usuário e Guia da LGPD para Organizações da Sociedade Civil — V3RLGPD, pela RIT."
+description: "Manual do usuário e Guia da LGPD para Organizações da Sociedade Civil — V3RLGPD, pela V3RTECH."
 lang: pt-BR
 url: https://docs.v3rlgpd.v3rtech.com.br
 permalink: pretty
@@ -51,8 +51,8 @@ callouts:
 
 # Links auxiliares (canto superior direito)
 aux_links:
-  "Acessar a RIT":
-    - "https://rit.org.br"
+  "Acessar a V3RTECH":
+    - "https://v3rtech.com.br"
 aux_links_new_tab: true
 
 # Rodapé
