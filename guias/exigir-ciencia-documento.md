@@ -33,7 +33,7 @@ A ciência é **por versão**. Quando você [publica uma nova versão](/guias/pu
 
 ## 3. O que o usuário vê
 
-Ao navegar no site já logado, o usuário vê um **aviso único** no rodapé listando **todos** os documentos atualizados que ele ainda não confirmou. Cada um tem um link **abrir para ler** (em nova aba) e há **um único botão "Estou ciente"** que confirma todos de uma vez.
+Ao navegar no site já logado, o usuário vê um **aviso no centro da tela** listando **todos** os documentos atualizados que ele ainda não confirmou. Cada um tem um link **abrir para ler** (em nova aba) e há **um único botão "Estou ciente"** que confirma todos de uma vez. Se preferir deixar para depois, **Agora não** fecha o aviso — ele volta no próximo acesso, até a ciência ser dada.
 
 [![Aviso de novas versões de documentos](/assets/screenshots/v3rlgpd-31-ciencia-banner.png)](/assets/screenshots/v3rlgpd-31-ciencia-banner.png)
 *Um aviso, vários documentos, um clique. Depois de confirmar, o aviso some e não volta — até sair uma nova versão.*
