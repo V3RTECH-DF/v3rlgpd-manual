@@ -10,7 +10,6 @@ Ambiente: dev-wp `http://localhost:3080/wp-admin/` · plugin ativo + semeado · 
 - `v3rlgpd-40-anpd-news` — Dashboard, bloco "Notícias da ANPD" (rolar até o fim)
 - `v3rlgpd-40-onboarding-card` — Dashboard, card "Primeiros Passos"
 - `v3rlgpd-41-onboarding-roteiro` — tela Onboarding (checklist)
-- `v3rlgpd-07-manual` — aba/tela Manual embutido
 
 ### Auditoria de Conformidade
 - `v3rlgpd-50-mapa-conformidade` — Mapa de Conformidade

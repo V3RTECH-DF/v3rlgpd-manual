@@ -2,7 +2,7 @@
 title: "Primeiros Passos"
 nav_order: 2
 permalink: /primeiros-passos/
-screenshots: [v3rlgpd-01-dashboard, v3rlgpd-40-onboarding-card, v3rlgpd-41-onboarding-roteiro, v3rlgpd-07-manual]
+screenshots: [v3rlgpd-01-dashboard, v3rlgpd-40-onboarding-card, v3rlgpd-41-onboarding-roteiro]
 last_verified: 2026-06-23
 status: publicado
 ---
@@ -103,13 +103,6 @@ O semáforo e o roteiro de Primeiros Passos usam **a mesma fonte** — então o 
 > ⚠️ **Atenção**
 >
 > O Índice é um **indicador de progresso interno**, não um certificado. Como o próprio painel avisa: *"não constitui garantia jurídica de conformidade com a LGPD"*. Use-o para se organizar, não para "provar" conformidade a terceiros.
-
-## Manual integrado no painel
-
-Além deste guia externo, o plugin traz um **Manual** integrado na própria navegação (aba **Manual**, ao final do menu), com um resumo de uso e o link de volta para este guia completo.
-
-[![Manual integrado](/assets/screenshots/v3rlgpd-07-manual.png)](/assets/screenshots/v3rlgpd-07-manual.png)
-*A aba Manual do painel, com orientação rápida e link para o guia completo.*
 
 ## Próximo passo
 
